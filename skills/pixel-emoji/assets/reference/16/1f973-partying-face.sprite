@@ -7,32 +7,31 @@ source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.
 
 [palette]
 a #c8283a
-b #2273c3
-c #ef3349
-d #3fa9f0
-e #77b255
-f #f08e00
-g #ffbf00
-h #ffb8c6
-i #ffe600
-j #b8e6ff
-k #fff3a0
-l #ffff93
+b #ef3349
+c #3fa9f0
+d #f08e00
+e #ff8f8f
+f #ffbf00
+g #ffb8c6
+h #ffe600
+i #b8e6ff
+j #fff3a0
+k #ffff93
 
 [grid]
-.##..........e..
-#kk#............
-.##c##..........
-..#chc#####.....
-..#cchc#lli##...
-..#ccchc#iiii#..
-..#aaaaaiiiii#..
-..#liiiiiiiiig#.
-..#li##iii##ig#.
-..#l#ii#i#ii#g#.
-..#liiiiiiiigf#.
-..#iiiijjjjjjjj#
-...#ii#ddddddbb#
-...#iiiiiggff##.
-....##gggff##...
-.d....#####.....
+.##.............
+#gb##...........
+#gbbb##.........
+.#gjbbb####.....
+.#gbbjbakkh##...
+..#gbbahhhhhh#..
+..#gjahhhhhhh#..
+..#kahhhhhhhhf#.
+..#kh##hhh##hf#.
+..#k#hh#h#hh#f#.
+..#eehhhhhhhf#i#
+..#hhhhh#ccccci#
+...#hhhhhhfdd#i#
+...#hhhhhffdd##.
+....##fffdd##...
+......#####.....

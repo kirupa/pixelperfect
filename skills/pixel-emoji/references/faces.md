@@ -2004,7 +2004,7 @@ These are the face-specific things I check on the way to an A+. They aren't a gr
 | 1f635-200d-1f4ab face with spiral eyes | 15px | SPIRAL, SPIRAL (6 right), MOUTH_WAVY |
 | 1f92f exploding head | 13px | hand-placed pixels, MOUTH_O (1 down), a painted overlay (hand, hat, prop) |
 | 1f920 cowboy hat face | 13px | FACE_EYES (4 down), MOUTH_SMILE (3 down), a painted overlay (hand, hat, prop) |
-| 1f973 partying face | 13px | EYES_HAPPY (4 down), a painted overlay (hand, hat, prop) |
+| 1f973 partying face | 13px | EYES_HAPPY (4 down), hand-placed pixels, a painted overlay (hand, hat, prop) |
 | 1f60e smiling face with sunglasses | 15px | MOUTH_SMILE, a painted overlay (hand, hat, prop) |
 | 1f913 nerd face | 15px | NERD_TEETH, a painted overlay (hand, hat, prop) |
 | 1f9d0 face with monocle | 15px | EYE_LEFT, hand-placed pixels, a painted overlay (hand, hat, prop) |

@@ -301,7 +301,7 @@ I calibrated every threshold on kirupa.com's 1,948 approved drawings at each siz
 | | 16px | 24px |
 | --- | --- | --- |
 | Drawings that raise an error | 0 | 0 |
-| Drawings with no warning at all | 1,439 (73.9%) | 1,616 (83.0%) |
+| Drawings with no warning at all | 1,440 (73.9%) | 1,616 (83.0%) |
 | Colours: median, 95th percentile, max | 7, 14, 20 | 8, 17, 22 |
 | Inner ink: median, 95th percentile, max | 2%, 12%, 22% | 4%, 20%, 73% |
 | Long-side span: 5th percentile, median | 15, 16 | 22, 23 |
@@ -318,7 +318,7 @@ How often each warning fires on approved art (out of 1,948):
 | Black block | 57 | 113 |
 | Nearly symmetric | 43 | 32 |
 | Dark pixels as their own edge | 41 | — |
-| Unoutlined 1px lines | 39 | — |
+| Unoutlined 1px lines | 38 | — |
 | Lone specks | 23 | 7 |
 | Span (including small by meaning) | 9 | 10 |
 
@@ -330,8 +330,8 @@ set:16:1f600 (16px): ok  inner 14%  colours 8  span 15x15  mirror x+x'=16 (0 off
 set:16:1f60e (16px): ok  inner 20%  colours 7  span 15x15  mirror x+x'=16 (0 off)
    warn  20% inner black (approved 16px icons stay under 12%): name the reason for every inner ink pixel or repaint it with the part's darkest tone
    warn  2x2 black block inside the shape at (x,y): (4,4), (5,4), (6,4) ... -- right for a hole, an open mouth, an eye socket or a dark lens; otherwise it's a blotch
-set:16:1f973 (16px): ok  inner 7%  colours 13  span 16x16  mirror x+x'=16 (25 off)
-   warn  2 pixels of unoutlined 1px lines (x,y): (13,0), (1,15) -- right only for flat effects (steam, rays, sparkles, motion) in a mid tone that reads on white and dark
+set:16:1f37e (16px): ok  inner 0%  colours 13  span 16x16  mirror x+x'=16 (66 off)
+   warn  4 pixels of unoutlined 1px lines (x,y): (5,1), (6,2), (1,5), (2,6) -- right only for flat effects (steam, rays, sparkles, motion) in a mid tone that reads on white and dark
 set:16:25aa (16px): ok  inner 0%  colours 2  span 7x7  mirror x+x'=16 (0 off)
    warn  the subject spans 7x7px, allowed because it is small by meaning ('small' in its name or 'scale: small'); keep the set's graded sizes
 set:16:1f92a (16px): ok  inner 21%  colours 10  span 15x16  mirror x+x'=16 (3 off)
@@ -350,7 +350,7 @@ set:16:1f9d1-200d-1f393 (16px): ok  inner 9%  colours 15  span 16x16  mirror x+x
 
 - **1f600, grinning face:** the open mouth is drawn in ink round its teeth, a face feature.
 - **1f60e, sunglasses:** the lenses are dark glass, so a black block is right.
-- **1f973, partying face:** the two bare pixels are confetti, a flat effect. The hat and confetti make it asymmetric, so the mirror stays silent.
+- **1f37e, bottle with popping cork:** the four bare pixels are two pop streaks, a flat effect. The tilted bottle and the flying cork make it asymmetric, so the mirror stays silent.
 - **25aa, small black square:** small by meaning. It belongs to a graded series of squares.
 - **1f92a, zany face:** the wild eye and the tongue make it asymmetric on purpose. The 3 mirror breaks are the tongue.
 - **2620, skull and crossbones:** the inner ink separates white bone from the white skull (an overlap of similar values) and draws the teeth.

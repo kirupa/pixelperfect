@@ -1,0 +1,38 @@
+name: bottle with popping cork
+size: 16
+code: 1f37e
+file: bottle-with-popping-cork
+category: Food
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #2c5a17
+b #3e721d
+c #a95233
+d #5c913b
+e #fa743e
+f #d9875a
+g #e89a1a
+h #e8c070
+i #ffc53d
+j #ffe08a
+k #ffe0a0
+l #fff2d0
+
+[grid]
+.##.............
+#ff#.e..........
+#fc#..e.........
+.##.............
+.....##.........
+.e..#ij#........
+..e.#gij###.....
+.....#gibdd##...
+......#bbbbdd#..
+......#abbbbll#.
+......#aabbllll#
+.......#aakklld#
+.......#ahkkkbb#
+........#hhkbbb#
+.........#haab#.
+..........####..

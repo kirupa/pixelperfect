@@ -1,6 +1,6 @@
 {
  "description": "A curated reference library of approved drawings from the kirupa.com Pixel set, as text sprites: every drawing the skill cites, the smiley, person and hand family that faces depend on, and a few exemplars per category. It is not the full set; see assets/LICENSE.md for the license and https://www.kirupa.com/tools/icon_gallery_pixel.htm for the whole set.",
- "count": 248,
+ "count": 249,
  "sizes": [
   16,
   24
@@ -1155,8 +1155,8 @@
    ],
    "reason": "cited in the skill",
    "pixelSha256": {
-    "16": "a816e20e6175a2c091b6bae9bb6135be79177698acc447edeba65fbbc70ffc0e",
-    "24": "5f4e107508c71c8d3621e1d96048ee5dc5462b98b331afb4d4e0fef792aa8042"
+    "16": "038b64c4f9f906a8c7c61685e9084a9baa34ea61aad8e5cd57a4e39cda481731",
+    "24": "7a1aeec88fa5ab29987e8509825ce800bdfe4d3a597ad2705afe1d55ee0ed3fc"
    }
   },
   {
@@ -3301,6 +3301,22 @@
    "pixelSha256": {
     "16": "9662c287864769f63b134530ac6d5cabce8961d5bd3f4619c6a2a50847795007",
     "24": "94f9824df91180336e4a9bb7bcbf6bd8af823efcc7d618522556cafbbee11b94"
+   }
+  },
+  {
+   "code": "1f37e",
+   "slug": "bottle-with-popping-cork",
+   "name": "bottle with popping cork",
+   "emoji": "🍾",
+   "category": "Food",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "f8af40a6ae3ac2856a00eb7c220d7a48231ac6b45eca3d1090b3658a6233926a",
+    "24": "613a0dcebf771a079c707758855bb038c2ad1416d20116e1e6b93945a827464c"
    }
   },
   {
