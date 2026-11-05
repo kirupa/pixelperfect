@@ -18,10 +18,15 @@ jobs:
         os: [ubuntu-latest, macos-latest, windows-latest]
         python-version: ["3.9", "3.13"]
         exclude:
+          # ubuntu-latest (26.04) has no Python 3.9 build; 24.04 still does.
+          - os: ubuntu-latest
+            python-version: "3.9"
           # macos-latest is Apple silicon, and the newest 3.9 built for it is 3.9.13.
           - os: macos-latest
             python-version: "3.9"
         include:
+          - os: ubuntu-24.04
+            python-version: "3.9"
           - os: macos-latest
             python-version: "3.9.13"
     env:
