@@ -1,0 +1,34 @@
+name: face with open eyes and hand over mouth
+size: 16
+code: 1fae2
+file: face-with-open-eyes-and-hand-over-mouth
+category: Smileys
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #c86400
+b #f08e00
+c #f4900c
+d #ffbf00
+e #ffb547
+f #ffe600
+g #ffff93
+h #ffffcf
+
+[grid]
+......#####.....
+....##ggggf##...
+...#ggfffffff#..
+..#ghf#fff#fff#.
+..#gff#fff#fff#.
+.#gfff#fff#fffd#
+.#gfff#fff#fffd#
+.#gfffffffffffd#
+.#gfffffffcafdb#
+.#fffffcc#eafdb#
+..#fcc#ec#eadb#.
+..#fcc#ec#eadb#.
+...#ccccccca##..
+...#cccccca##...
+..#cccccaa#.....
+...#######......

@@ -1,0 +1,36 @@
+name: face with thermometer
+size: 16
+code: 1f912
+file: face-with-thermometer
+category: Smileys
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #c8283a
+b #ef3349
+c #f08e00
+d #9aa6b4
+e #ffbf00
+f #ffe600
+g #dde3ea
+h #ffff93
+i #ffffcf
+j #ffffff
+
+[grid]
+......#####.....
+....##hhhhf##...
+...#hh##f##ff#..
+..#hi#fffff#ff#.
+..#hffffffffff#.
+.#hfff#fff#fffe#
+.#hfff#fff#fffe#
+.#hffffffffffjg#
+.#hffffffffjjdd#
+.#fffffffjjbbec#
+..#f#ffbbbbfec#.
+..#ff##aaffeec#.
+...#fffffeecc#..
+....##eeecc##...
+......#####.....
+................

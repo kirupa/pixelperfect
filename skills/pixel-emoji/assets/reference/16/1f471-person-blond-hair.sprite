@@ -1,0 +1,34 @@
+name: person: blond hair
+size: 16
+code: 1f471
+file: person-blond-hair
+category: People
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #b87a14
+b #f08e00
+c #e8a92a
+d #ffbf00
+e #ffe600
+f #ffeb99
+g #ffff93
+h #fff8d0
+
+[grid]
+.....#######....
+...##hhhfffa##..
+..#hhhfffffaaa#.
+.#hhfffffffffaa#
+.#hfffffcfffffa#
+.#hfcccceccccfa#
+.#hceeeeeeeeeca#
+.#ceee#eee#eeec#
+.#geee#eee#eeed#
+.#geeeeeeeeeeed#
+.#eeee#eee#eeed#
+.#eeeee###eeebd#
+..#dddeeeeedbd#.
+...##dddddbb##..
+.....#######....
+................

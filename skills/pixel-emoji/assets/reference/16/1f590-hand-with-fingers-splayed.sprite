@@ -1,0 +1,31 @@
+name: hand with fingers splayed
+size: 16
+code: 1f590
+file: hand-with-fingers-splayed
+category: People
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #f08e00
+b #ffbf00
+c #ffe600
+d #ffff93
+e #ffffcf
+
+[grid]
+........##......
+...##..#ec#..##.
+..#ec#.#dc#.#ec#
+.##dc#.#dc#.#dc#
+#ec#dc##dc##dc#.
+.#dc#dc#dc#dc#..
+.#dc#dc#dc#dc##.
+.#dc#dc#dc#dc#b#
+.#dcccccccccccb#
+.#dcccccccccbbb#
+.#dcccccccccbb#.
+.#dcccccccccb#..
+.#bbbbbbbbbaa#..
+..#bbbbbbbba#...
+...#aaaaaaa#....
+....#######.....

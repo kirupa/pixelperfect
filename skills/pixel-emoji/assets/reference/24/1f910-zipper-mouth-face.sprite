@@ -1,0 +1,41 @@
+name: zipper-mouth face
+size: 24
+code: 1f910
+file: zipper-mouth-face
+category: Smileys
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #f08e00
+b #9aa7b2
+c #ffbf00
+d #ffe600
+e #e2e8ed
+f #ffff93
+g #ffffcf
+
+[grid]
+........................
+........########........
+......##ffffffdd##......
+.....#ffdddddddddc#.....
+....#fdddddddddddcc#....
+...#fddggdddddddddcc#...
+..#fdddgd#dddd#ddddcc#..
+..#fddddd#dddd#ddddcc#..
+.#fdddddd#dddd#dddddcc#.
+.#fdddddd#dddd#dddddcc#.
+.#fdddddd#dddd#dddddcc#.
+.#fdddddddddddddddddca#.
+.#fdddddddddddddddddca#.
+.#fdddddddddddddddddca#.
+.#fd#d#d#d#d#d#d#dddca#.
+.#fd###############dca#.
+..#dd#d#d#d#d#d##ee#a#..
+..#ddddddddddddd#eb#a#..
+...#dddddddddddd#bb##...
+....#cccddddddddc###....
+.....#ccccccccccaa#.....
+......##cccccaaa##......
+........########........
+........................

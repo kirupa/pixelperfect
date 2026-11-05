@@ -1,0 +1,41 @@
+name: face with medical mask
+size: 24
+code: 1f637
+file: face-with-medical-mask
+category: Smileys
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #f08e00
+b #ffbf00
+c #ffe600
+d #e2e8ed
+e #ffff93
+f #ffffcf
+g #ffffff
+
+[grid]
+........................
+........########........
+......##eeeeeecc##......
+.....####cccccc####.....
+....#eccc#cccc#ccbb#....
+...#eccffcccccccccbb#...
+..#ecccfcccccccccccbb#..
+..#ecccccccccccccccbb#..
+.#ec#cccc#cccc#cccc#bb#.
+.#ecc####cccccc####cbb#.
+.#ecccccccccccccccccbb#.
+.#ecccccccccccccccccba#.
+.#ecccc##########cccba#.
+.######gggggggggg######.
+.#eccc#gggggggggg#ccba#.
+.#eccc#gggggggggg#ccba#.
+..#####ggggggggdd#####..
+..#cccc#dddddddd#ccba#..
+...#cccc########ccba#...
+....#bbbccccccccbbb#....
+.....#bbbbbbbbbbaa#.....
+......##bbbbbaaa##......
+........########........
+........................

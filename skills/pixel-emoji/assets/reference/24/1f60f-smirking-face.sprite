@@ -1,0 +1,39 @@
+name: smirking face
+size: 24
+code: 1f60f
+file: smirking-face
+category: Smileys
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #f08e00
+b #ffbf00
+c #ffe600
+d #ffff93
+e #ffffcf
+
+[grid]
+........................
+........########........
+......##ddddddcc##......
+.....#ddcccccccccb#.....
+....#dcccccccccccbb#....
+...#dcceecccccccccbb#...
+..#dcccecccccccccccbb#..
+..#dcccccccccccccccbb#..
+.#dcc######cc######cbb#.
+.#dccccc#ccccccc#cccbb#.
+.#dccccc#ccccccc#cccbb#.
+.#dcccccccccccccccccba#.
+.#dcccccccccccccccccba#.
+.#dcccccccccccccccccba#.
+.#dcccccccccccccc#ccba#.
+.#dccccccccccccc#cccba#.
+..#cccccc#ccccc#cccba#..
+..#ccccccc#####ccccba#..
+...#ccccccccccccccba#...
+....#bbbccccccccbbb#....
+.....#bbbbbbbbbbaa#.....
+......##bbbbbaaa##......
+........########........
+........................

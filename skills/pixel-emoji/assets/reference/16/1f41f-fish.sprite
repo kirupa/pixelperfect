@@ -1,0 +1,32 @@
+name: fish
+size: 16
+code: 1f41f
+file: fish
+category: Animals
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #1d5a99
+b #2f7fc8
+c #3f95e0
+d #55acee
+e #9fd4fa
+f #ffffff
+
+[grid]
+................
+.......##.....#.
+......#bb#...#b#
+.....#bbb#..#bb#
+...##eeeee###bb#
+..#eeeeeeeeebbb#
+.#e#fdbdddddbbb#
+#ee#fddbddddbb#.
+.#dddddbddddbb#.
+.#ddddbdddddaaa#
+..#cccccccccaaa#
+...##ccccc###aa#
+.....#aa##..#aa#
+......##.....#a#
+..............#.
+................

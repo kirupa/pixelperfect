@@ -1,0 +1,35 @@
+name: video game
+size: 16
+code: 1f3ae
+file: video-game
+category: Activities
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #252b33
+b #363f49
+c #4d5966
+d #dd2e44
+e #66757f
+f #8899a6
+g #77b255
+h #55acee
+i #ffcc4d
+
+[grid]
+................
+................
+...##########...
+..#cccccccccc#..
+.#bbbbbbbbbbbb#.
+#bbbfbbbbbbibbb#
+#bbfffbbbbhbdbb#
+#bbbfbbbbbbgbbb#
+#bbbbffbbffbbbb#
+#bbbbeebbeebbbb#
+#bbbbb####bbbbb#
+#bbaa#....#aabb#
+.#aaa#....#aaa#.
+..###......###..
+................
+................

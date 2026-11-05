@@ -1,0 +1,34 @@
+name: smiling face with halo
+size: 16
+code: 1f607
+file: smiling-face-with-halo
+category: Smileys
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #f08e00
+b #d8a038
+c #ffbf00
+d #ffe600
+e #f8d878
+f #fff4c4
+g #ffff93
+h #ffffcf
+
+[grid]
+....#########...
+...#ffeeeeebb#..
+....#########...
+................
+......#####.....
+....##ggggd##...
+...#ggddddddd#..
+...#ghddddddd#..
+..#gd##ddd##dc#.
+..#g#dd#d#dd#c#.
+..#gddddddddca#.
+..#dd#ddddd#ca#.
+...#dd#####aa#..
+...#dddddccaa#..
+....##cccaa##...
+......#####.....

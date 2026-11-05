@@ -1,0 +1,45 @@
+name: rolling on the floor laughing
+size: 24
+code: 1f923
+file: rolling-on-the-floor-laughing
+category: Smileys
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #c8283a
+b #2273c3
+c #3fa9f0
+d #f08e00
+e #ff6f8a
+f #ffbf00
+g #ffe600
+h #b8e6ff
+i #ffff93
+j #ffffcf
+k #ffffff
+
+[grid]
+..................####..
+........########.#hhcc#.
+......##iiiiiigg#hhcccc#
+.....#iigg##ghhhhhccccc#
+....#igggg##ggccccccccb#
+...#iggjjg##gggggccccbb#
+..#igggjgg#####gggcbbb#.
+..#igggggg#####gg#gff#..
+.#iggggggggggggg#k#gff#.
+.#igggggggggggg#kk#gff#.
+.#i#####gggggg#kka#gff#.
+.#i#####ggggg#kkaa#gfd#.
+.#iggg##gggg#kkaaa#gfd#.
+.#ihgg##ggg#kkaaae#gfd#.
+.#ihcg##gg#kkaaae#ggfd#.
+.#ihcgggg#kkaaaee#ggfd#.
+..#hcggg#kkaaaee#ggfd#..
+.#hhccg#kkaaae##gggfd#..
+#hhccccg######ggggfd#...
+#hccccbfggggggggfff#....
+#cccccbfffffffffdd#.....
+#ccccbb#fffffddd##......
+.#ccbb#.########........
+..####..................

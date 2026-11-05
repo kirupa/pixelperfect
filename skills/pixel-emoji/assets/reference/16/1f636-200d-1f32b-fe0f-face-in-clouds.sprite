@@ -1,0 +1,32 @@
+name: face in clouds
+size: 16
+code: 1f636-200d-1f32b-fe0f
+file: face-in-clouds
+category: Smileys
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #f08e00
+b #ffbf00
+c #ffe600
+d #e2e8ed
+e #ffff93
+f #ffffff
+
+[grid]
+...###..###.....
+.##fff##fff####.
+#fffffffffffffd#
+#ddfffdddfffddd#
+.##############.
+.#ecccccccccccb#
+.#eccc#ccc#cccb#
+.#eccc#ccc#cccb#
+.#eccc#ccc#ccba#
+.####ccccccc####
+#ffff#ccccc#fff#
+#fffff#####fffd#
+#fffffffffffffd#
+#dfffffffffffdd#
+.#ddddfffdddd##.
+..###########...

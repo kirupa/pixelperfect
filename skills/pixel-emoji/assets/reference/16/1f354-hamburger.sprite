@@ -1,0 +1,36 @@
+name: hamburger
+size: 16
+code: 1f354
+file: hamburger
+category: Food
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #5a2614
+b #8a4424
+c #c7731e
+d #ff5a4a
+e #5fb336
+f #f2a33a
+g #9fe05a
+h #ffd93b
+i #ffcf7a
+j #fff6dc
+
+[grid]
+................
+.....######.....
+...##iiiiff##...
+..#iijiiffjff#..
+.#iiffffjffffc#.
+.#ffffffffffcc#.
+.#dddddddddddd#.
+#ggggggggggggge#
+#ehhhhhhhhhhhhe#
+#bbhbbbbbbhbbaa#
+#bbbbbbbbbbbaaa#
+.#iifffffffffc#.
+.#ffffffffffcc#.
+..#cccccccccc#..
+...##########...
+................

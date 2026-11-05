@@ -1,0 +1,33 @@
+name: face with symbols on mouth
+size: 16
+code: 1f92c
+file: face-with-symbols-on-mouth
+category: Smileys
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #292f33
+b #86152a
+c #bb2236
+d #e2343f
+e #ff7d6e
+f #ffd6cf
+g #ffffff
+
+[grid]
+......#####.....
+....##eeeed##...
+...#eeddddddd#..
+..#ef##ddd##dd#.
+..#edd##d##ddd#.
+.#eddd#ddd#dddc#
+.#eddd#ddd#dddc#
+.#edddddddddddc#
+.#edaagagagaacb#
+.#ddaaagaagaacb#
+..#daagagaaaab#.
+..#daaaaaagaab#.
+...#dddddccbb#..
+....##cccbb##...
+......#####.....
+................

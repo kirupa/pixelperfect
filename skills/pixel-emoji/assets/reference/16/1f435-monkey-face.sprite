@@ -1,0 +1,33 @@
+name: monkey face
+size: 16
+code: 1f435
+file: monkey-face
+category: Animals
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #773319
+b #8a2c1a
+c #a65327
+d #cf7840
+e #d9966a
+f #f5a78c
+g #f3bc94
+
+[grid]
+................
+.....######.....
+...##dddccc##...
+..#ddccccccca#..
+..#dcccccccca#..
+.#dcgggccgggca#.
+#ffcg#gccg#gcff#
+#ffcg#gggg#gcff#
+#ffcggg##gggaff#
+.#cgggggggggga#.
+..#cgg####gea#..
+..#cgg#bb#gea#..
+...#cgg##gea#...
+....##ccaa##....
+......####......
+................

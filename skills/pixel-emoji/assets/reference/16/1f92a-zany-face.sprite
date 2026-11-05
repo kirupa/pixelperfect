@@ -1,0 +1,35 @@
+name: zany face
+size: 16
+code: 1f92a
+file: zany-face
+category: Smileys
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #8a2c1a
+b #c8283a
+c #ef3349
+d #f08e00
+e #ffbf00
+f #ffe600
+g #ffff93
+h #ffffcf
+i #ffffff
+
+[grid]
+......#####.....
+....##ggggf##...
+...#ggfffffff#..
+..#ghffff###ff#.
+..#g##ff#iii#f#.
+.#g#ii#f#i#i#fe#
+.#g##i#f#iii#fe#
+.#gf##fff###ffe#
+.#gffffffffffed#
+.#fff#######eed#
+..#f#iiiiiii#d#.
+..#ff#ccca##ed#.
+...#f#cbc#edd#..
+....##cbc#d##...
+.....#cbc##.....
+......###.......

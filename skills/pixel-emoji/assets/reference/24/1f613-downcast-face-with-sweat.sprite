@@ -1,0 +1,42 @@
+name: downcast face with sweat
+size: 24
+code: 1f613
+file: downcast-face-with-sweat
+category: Smileys
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #2273c3
+b #3fa9f0
+c #f08e00
+d #ffbf00
+e #ffe600
+f #b8e6ff
+g #ffff93
+h #ffffcf
+
+[grid]
+...#....................
+..#f#...########........
+..#b#.##ggggggee##......
+.#fbb#ggeeeeeeeeed#.....
+#fbbbb#eeeeeeeeeedd#....
+#bbbba#hheeeeeeeeedd#...
+.#bba#eheeeeeeeeeeedd#..
+..###eeeeeeeeeeeeeedd#..
+.#geeeeeeeeeeeeeeeeedd#.
+.#gee####eeeeee####edd#.
+.#ge#eeee#eeee#eeee#dd#.
+.#geeeeeeeeeeeeeeeeedc#.
+.#geeeeeeeeeeeeeeeeedc#.
+.#geeeeeeeeeeeeeeeeedc#.
+.#geeeeeeeeeeeeeeeeedc#.
+.#geeeeee######eeeeedc#.
+..#eeee##eeeeee##eedc#..
+..#eee#eeeeeeeeee#edc#..
+...#eeeeeeeeeeeeeedc#...
+....#dddeeeeeeeeddd#....
+.....#ddddddddddcc#.....
+......##dddddccc##......
+........########........
+........................

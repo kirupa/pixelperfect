@@ -1,0 +1,28 @@
+name: men’s room
+size: 16
+code: 1f6b9
+file: mens-room
+category: Symbols
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #226699
+b #ffffff
+
+[grid]
+...###########..
+..#aaaabbbaaaa#.
+.#aaaabbbbbaaaa#
+.#aaaabbbbbaaaa#
+.#aaaaabbbaaaaa#
+.#aaaaaaaaaaaaa#
+.#aaabbbbbbbaaa#
+.#aabbbbbbbbbaa#
+.#aababbbbbabaa#
+.#aababbbbbabaa#
+.#aaaabbabbaaaa#
+.#aaaabbabbaaaa#
+.#aaaabbabbaaaa#
+..#aaabbabbaaa#.
+...###########..
+................

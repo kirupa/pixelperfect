@@ -1,0 +1,31 @@
+name: worried face
+size: 16
+code: 1f61f
+file: worried-face
+category: Smileys
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #f08e00
+b #ffbf00
+c #ffe600
+d #ffff93
+e #ffffcf
+
+[grid]
+......#####.....
+....##ddddc##...
+...#dd##c##cc#..
+..#de#ccccc#cc#.
+..#dcccccccccc#.
+.#dccc#ccc#cccb#
+.#dccc#ccc#cccb#
+.#dcccccccccccb#
+.#dccccccccccba#
+.#cccccccccccba#
+..#ccc#####cba#.
+..#cc#ccccc#ba#.
+...#cccccbbaa#..
+....##bbbaa##...
+......#####.....
+................

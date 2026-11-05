@@ -1,0 +1,39 @@
+name: face with raised eyebrow
+size: 24
+code: 1f928
+file: face-with-raised-eyebrow
+category: Smileys
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #f08e00
+b #ffbf00
+c #ffe600
+d #ffff93
+e #ffffcf
+
+[grid]
+........................
+........########........
+......##ddddddcc##......
+.....#####cccccccb#.....
+....##cccc#ccccccbb#....
+...#dcceecccccccccbb#...
+..#dcccecccccc####cbb#..
+..#dcccccccccccccccbb#..
+.#dcccccc#cccc#cccccbb#.
+.#dcccccc#cccc#cccccbb#.
+.#dcccccc#cccc#cccccbb#.
+.#dcccccc#cccc#cccccba#.
+.#dcccccccccccccccccba#.
+.#dcccccccccccccccccba#.
+.#dcccccccccccccccccba#.
+.#dcccccccccccccccccba#.
+..#ccccc########cccba#..
+..#ccccccccccccccccba#..
+...#ccccccccccccccba#...
+....#bbbccccccccbbb#....
+.....#bbbbbbbbbbaa#.....
+......##bbbbbaaa##......
+........########........
+........................

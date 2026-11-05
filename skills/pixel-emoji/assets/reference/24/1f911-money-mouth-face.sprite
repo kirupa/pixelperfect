@@ -1,0 +1,43 @@
+name: money-mouth face
+size: 24
+code: 1f911
+file: money-mouth-face
+category: Smileys
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #c8283a
+b #2f8a3a
+c #f08e00
+d #7fcf4b
+e #ffbf00
+f #ffe600
+g #ffff93
+h #ffffcf
+i #ffffff
+
+[grid]
+........................
+........########........
+......##ggggggff##......
+.....#ggfffffffffe#.....
+....#gfffffffffffee#....
+...#gffbhfffffffbfee#...
+..#gffbbbbfffffbbbbee#..
+..#gfbfbffffffbfbffee#..
+.#gfffbbbffffffbbbffee#.
+.#gffffbfbffffffbfbfee#.
+.#gffbbbbfffffbbbbffee#.
+.#gffffbffffffffbfffec#.
+.#gfffffffffffffffffec#.
+.#gfff############ffec#.
+.#gfff#iiiiiiiiii#ffec#.
+.#gfff#aaaaaaaaaa#ffec#.
+..#ffff##ddbbdd##ffec#..
+..#fffff#db##bd#fffec#..
+...#fffff#dddd#fffec#...
+....#eeeff####ffeee#....
+.....#eeeeeeeeeecc#.....
+......##eeeeeccc##......
+........########........
+........................

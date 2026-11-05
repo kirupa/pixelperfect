@@ -1,0 +1,42 @@
+name: face exhaling
+size: 24
+code: 1f62e-200d-1f4a8
+file: face-exhaling
+category: Smileys
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #c8283a
+b #f08e00
+c #ffbf00
+d #ffe600
+e #e2e8ed
+f #ffff93
+g #ffffcf
+h #ffffff
+
+[grid]
+........................
+........########........
+......##ffffffdd##......
+.....#ffdddddddddc#.....
+....#####dddddd#####....
+...##ddgg#dddd#dddc##...
+..#fdddgdddddddddddcc#..
+..#fdddddddddddddddcc#..
+.#fdddddddddddddddddcc#.
+.#fd#dddd#dddd#dddd#cc#.
+.#fdd####dddddd####dcc#.
+.#fdddddddddddddddddcb#.
+.#fdddddddddddddddddcb#.
+.#fdddddddddddddddddcb#.
+.#fdddddddddddddddddcb#.
+.#####ddddddddddddddcb#.
+.#hhhh##ddddd##ddddcb#..
+#hhhhhhh#ddd#aa#dddcb#..
+#hhhhhhh#ddd#aa#ddcb#...
+.#ehhhee#dddd##dccc#....
+..##e###ccccccccbb#.....
+....#.##cccccbbb##......
+........########........
+........................

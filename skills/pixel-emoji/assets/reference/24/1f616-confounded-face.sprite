@@ -1,0 +1,39 @@
+name: confounded face
+size: 24
+code: 1f616
+file: confounded-face
+category: Smileys
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #f08e00
+b #ffbf00
+c #ffe600
+d #ffff93
+e #ffffcf
+
+[grid]
+........................
+........########........
+......##ddddddcc##......
+.....#ddcccccccccb#.....
+....#dcccccccccccbb#....
+...#dcceecccccccccbb#...
+..#dc#cecccccccccc#bb#..
+..#dc##cccccccccc##bb#..
+.#dccc###cccccc###ccbb#.
+.#dcc##cccccccccc##cbb#.
+.#dcc#cccccccccccc#cbb#.
+.#dcccccccccccccccccba#.
+.#dcccccccccccccccccba#.
+.#dcccccccccccccccccba#.
+.#dcccccccccccccccccba#.
+.#dccccc#ccc#ccc#cccba#.
+..#cccc#c#c#c#c#c#cba#..
+..#ccc#ccc#ccc#ccccba#..
+...#ccccccccccccccba#...
+....#bbbccccccccbbb#....
+.....#bbbbbbbbbbaa#.....
+......##bbbbbaaa##......
+........########........
+........................

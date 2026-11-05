@@ -1,0 +1,41 @@
+name: smiling face with hearts
+size: 24
+code: 1f970
+file: smiling-face-with-hearts
+category: Smileys
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #ef3349
+b #f08e00
+c #ff98a6
+d #ffbf00
+e #ffe600
+f #ffff93
+g #ffffcf
+
+[grid]
+........................
+.................##.##..
+................#ca#aa#.
+.........######.#aaaaa#.
+.......##fffffe###aaa#..
+......#ffeeeeeeed##a#...
+.....#fggeeeeeeedd##....
+....#fegeeeeeeeeedd#....
+...#feeeeeeeeeeeeedd#...
+...#feeeeeeeeeeeeedd#...
+..#fe####eeeeee####dd#..
+..#f#eeee#eeee#eeee#d#..
+..#f#eeee#eeee#eeee#b#..
+..#feeeeeeeeeeeeeeedb#..
+..#feeeeeeeeeeeeeeedb#..
+..#feeeeeeeeeeeeeeedb#..
+..##e##eeeeeeeeee#db#.#.
+.#ca#aa#eeeeeeeee#d#c#a#
+.#aaaaa#eeeeeeee#db#aaa#
+..#aaa#d########dd#.#a#.
+...#a##dddddddddd#...#..
+....#..##dddbbb##.......
+.........######.........
+........................

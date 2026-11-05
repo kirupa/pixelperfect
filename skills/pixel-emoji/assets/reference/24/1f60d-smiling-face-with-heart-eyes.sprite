@@ -1,0 +1,43 @@
+name: smiling face with heart-eyes
+size: 24
+code: 1f60d
+file: smiling-face-with-heart-eyes
+category: Smileys
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #c8283a
+b #ef3349
+c #f08e00
+d #ff98a6
+e #ffbf00
+f #ffe600
+g #ffff93
+h #ffffcf
+i #ffffff
+
+[grid]
+........................
+........########........
+......##ggggggff##......
+.....#ggfffffffffe#.....
+....#gfffffffffffee#....
+...#gffhhfffffffffee#...
+..#g##f##ffffff##f##e#..
+..##db#bb#ffff#db#bb##..
+.#g#bbbbb#ffff#bbbbb#e#.
+.#gf#bbb#ffffff#bbb#ee#.
+.#gff#b#ffffffff#b#fee#.
+.#gfff#ffffffffff#ffec#.
+.#gfffffffffffffffffec#.
+.#gfff############ffec#.
+.#gfff#iiiiiiiiii#ffec#.
+.#gfff#aaaaaaaaaa#ffec#.
+..#ffff#aaaaaaaa#ffec#..
+..#fffff#aaaaaa#fffec#..
+...#fffff######fffec#...
+....#eeeffffffffeee#....
+.....#eeeeeeeeeecc#.....
+......##eeeeeccc##......
+........########........
+........................

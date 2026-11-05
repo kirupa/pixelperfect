@@ -1,0 +1,48 @@
+name: baby angel
+size: 24
+code: 1f47c
+file: baby-angel
+category: People
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #8a3a00
+b #2f7fd6
+c #c8620a
+d #f08e00
+e #5dadec
+f #f0901e
+g #ffb23a
+h #ffbf00
+i #a6d6ff
+j #c7cde0
+k #ffe600
+l #ffff93
+m #f7f8fc
+n #ffffff
+
+[grid]
+.......##########.......
+.....##iiiiiiiiii##.....
+....#ee##########ee#....
+.....##eeeeeeeebb##.....
+.......##########.......
+........................
+.........######.........
+.......##gggfcc##.......
+#.....#ggffffffcc#.....#
+##...#ggffffffffcc#...##
+#n#.#gfffffffffffca#.#n#
+#nn##gfff######ffca##nn#
+#nnn#ff##kkkkkk##ca#nnn#
+#nnn#f#kkkkkkkkkk#a#nnn#
+#nnn##kk##kkkk##kk##nnn#
+#nnn#lkk##kkkk##kkh#nnn#
+.#nn#lkk##kkkk##kkh#nn#.
+#mnn#hkkkkkkkkkkkhd#nnm#
+#mmn#hkk#kkkkkk#khd#nmm#
+.#mjj#hhk######khd#jjm#.
+..#jj#hhhhkkkkhhdd#jj#..
+...##.##hhhhhddd##.##...
+........########........
+........................

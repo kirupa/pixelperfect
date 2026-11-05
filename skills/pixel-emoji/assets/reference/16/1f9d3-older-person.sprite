@@ -1,0 +1,34 @@
+name: older person
+size: 16
+code: 1f9d3
+file: older-person
+category: People
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #4a505c
+b #79808e
+c #f08e00
+d #adb3be
+e #ffbf00
+f #ffe600
+g #d3d7de
+h #ffff93
+
+[grid]
+......#####.....
+....##gggdd##...
+...#ggdddddda#..
+..#ggddbbbddda#.
+..#gdbbfffbbda#.
+..#dbfffffffba#.
+..#dfffffffffa#.
+.#ehff#fff#ffec#
+.#ehff#fff#ffec#
+.#ehfffffffffec#
+..#fff#fff#ffe#.
+..#ffff###ffee#.
+...#eefffffec#..
+....##eeecc##...
+......#####.....
+................

@@ -1,0 +1,38 @@
+name: partying face
+size: 16
+code: 1f973
+file: partying-face
+category: Smileys
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #c8283a
+b #2273c3
+c #ef3349
+d #3fa9f0
+e #77b255
+f #f08e00
+g #ffbf00
+h #ffb8c6
+i #ffe600
+j #b8e6ff
+k #fff3a0
+l #ffff93
+
+[grid]
+.##..........e..
+#kk#............
+.##c##..........
+..#chc#####.....
+..#cchc#lli##...
+..#ccchc#iiii#..
+..#aaaaaiiiii#..
+..#liiiiiiiiig#.
+..#li##iii##ig#.
+..#l#ii#i#ii#g#.
+..#liiiiiiiigf#.
+..#iiiijjjjjjjj#
+...#ii#ddddddbb#
+...#iiiiiggff##.
+....##gggff##...
+.d....#####.....

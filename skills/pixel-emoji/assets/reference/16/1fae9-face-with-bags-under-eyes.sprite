@@ -1,0 +1,32 @@
+name: face with bags under eyes
+size: 16
+code: 1fae9
+file: face-with-bags-under-eyes
+category: Smileys
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #f08e00
+b #ffbf00
+c #ffe600
+d #ffff93
+e #ffffcf
+f #ffffff
+
+[grid]
+......#####.....
+....##ddddc##...
+...#ddccccccc#..
+..#deccccccccc#.
+..#dcccccccccc#.
+.#dcc###c###ccb#
+.#dccf#fcf#fccb#
+.#dccaaacaaaccb#
+.#dccccccccccba#
+.#cccccccccccba#
+..#cccc###ccba#.
+..#ccc#ccc#bba#.
+...#cccccbbaa#..
+....##bbbaa##...
+......#####.....
+................

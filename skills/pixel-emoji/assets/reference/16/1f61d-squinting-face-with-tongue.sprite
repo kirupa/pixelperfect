@@ -1,0 +1,33 @@
+name: squinting face with tongue
+size: 16
+code: 1f61d
+file: squinting-face-with-tongue
+category: Smileys
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #c8283a
+b #ef3349
+c #f08e00
+d #ffbf00
+e #ffe600
+f #ffff93
+g #ffffcf
+
+[grid]
+......#####.....
+....##ffffe##...
+...#ffeeeeeee#..
+..#fgeeeeeeeee#.
+..#fe#eeeee#ee#.
+.#feee##e##eeed#
+.#fee#eeeee#eed#
+.#feeeeeeeeeeed#
+.#fe#########dc#
+.#eeee#bbb#eedc#
+..#eee#bab#edc#.
+..#eee#bbb#ddc#.
+...#eee###dcc#..
+....##dddcc##...
+......#####.....
+................

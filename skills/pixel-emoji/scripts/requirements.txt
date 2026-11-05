@@ -1,0 +1,10 @@
+# Required by sprite_tool.py (Python 3.9 or newer):
+#   python3 -m pip install -r scripts/requirements.txt
+Pillow>=9.0
+numpy>=1.21
+
+# Optional extras: python3 -m pip install resvg_py fonttools
+#   resvg_py   renders Twemoji SVGs, for the twemoji command and sheet --twemoji.
+#              Without it, use the emoji command (this computer's colour emoji) instead.
+#   fonttools  macOS only: finds Apple Color Emoji's own pictures of joined sequences
+#              (emoji 1f468-200d-1f373). Without it, Pillow draws their parts side by side.

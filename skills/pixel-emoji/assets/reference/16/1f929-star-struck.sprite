@@ -1,0 +1,35 @@
+name: star-struck
+size: 16
+code: 1f929
+file: star-struck
+category: Smileys
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #8a2c1a
+b #c9452a
+c #f4683a
+d #f08e00
+e #ffbf00
+f #ffe600
+g #ffff93
+h #ffffcf
+i #ffffff
+
+[grid]
+......#####.....
+....##ggggf##...
+...#gcfffffcf#..
+..#ghcfffffcff#.
+..#cccccfccccc#.
+.#gfccbfffccbfe#
+.#gfcfbfffcfbfe#
+.#gfffffffffffe#
+.#gf#########ed#
+.#ff#iiiiiii#ed#
+..#ff#aaaaa#ed#.
+..#fff#####eed#.
+...#fffffeedd#..
+....##eeedd##...
+......#####.....
+................

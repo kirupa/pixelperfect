@@ -1,0 +1,33 @@
+name: face with steam from nose
+size: 16
+code: 1f624
+file: face-with-steam-from-nose
+category: Smileys
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #f08e00
+b #ffbf00
+c #ffe600
+d #e2e8ed
+e #ffff93
+f #ffffcf
+g #ffffff
+
+[grid]
+......#####.....
+....##eeeec##...
+...#eeccccccc#..
+..#ef##ccc##cc#.
+..#ecc##c##ccc#.
+.#ecccccccccccb#
+.#ec#cc#c#cc#cb#
+.#ecc##ccc##ccb#
+.#eccccccccccba#
+.#cccc#####ccba#
+..#cc#ccccc#ba#.
+..##cccccccbb##.
+.#gg##cccbb##gg#
+.#gggd#bba#dggg#
+.#dggdd###ddggd#
+..#####...#####.

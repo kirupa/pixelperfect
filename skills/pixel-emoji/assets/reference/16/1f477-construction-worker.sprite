@@ -1,0 +1,38 @@
+name: construction worker
+size: 16
+code: 1f477
+file: construction-worker
+category: People
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #8a3a00
+b #b8361a
+c #ef5a2a
+d #e07f16
+e #55acee
+f #ff8a55
+g #f4a20c
+h #ffbf00
+i #ffd23f
+j #ffe600
+k #fff59a
+l #ffff93
+
+[grid]
+.....#######....
+...##kiikiig##..
+..#kiiiikiiigg#.
+.#ggggggggggggg#
+..#djj#jjj#jja#.
+..#djj#jjj#jja#.
+..#ljjjjjjjjjh#.
+..#ljj#jjj#jjh#.
+..#ljjj###jjjh#.
+...#jjjjjjjhh#..
+...####hhh####..
+..#fkkeeeeekkb#.
+.#ffkkceeeckkcb#
+.#fckkccccckkcb#
+.#cckkccccckkbb#
+..#############.

@@ -1,0 +1,36 @@
+name: flag: Canada
+size: 24
+code: 1f1e8-1f1e6
+file: flag-canada
+category: Flags
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #d52b1e
+b #eeeeee
+
+[grid]
+........................
+........................
+........................
+.######################.
+##aaaabbbbbbbbbbbbaaaa##
+#aaaaabbbbbbbbbbbbaaaaa#
+#aaaaabbbbbaabbbbbaaaaa#
+#aaaaabbbbaaaabbbbaaaaa#
+#aaaaababbaaaabbabaaaaa#
+#aaaaabaabaaaabaabaaaaa#
+#aaaaabbaaaaaaaabbaaaaa#
+#aaaaabaaaaaaaaaabaaaaa#
+#aaaaabbaaaaaaaabbaaaaa#
+#aaaaabbbaaaaaabbbaaaaa#
+#aaaaabbabbaabbabbaaaaa#
+#aaaaabbbbbaabbbbbaaaaa#
+#aaaaabbbbbaabbbbbaaaaa#
+#aaaaabbbbbbbbbbbbaaaaa#
+#aaaaabbbbbbbbbbbbaaaaa#
+##aaaabbbbbbbbbbbbaaaa##
+.######################.
+........................
+........................
+........................

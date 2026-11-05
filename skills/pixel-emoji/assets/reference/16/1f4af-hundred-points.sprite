@@ -1,0 +1,29 @@
+name: hundred points
+size: 16
+code: 1f4af
+file: hundred-points
+category: Smileys
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #b01d36
+b #dd2e44
+c #f2657a
+
+[grid]
+.##..###...###..
+#cc##ccb#.#ccb#.
+#cb#cb#ba#cb#ba#
+#cb#cb#ba#cb#ba#
+#cb#cb#ba#cb#ba#
+#cb#cb#ba#cb#ba#
+#ba##baa#.#baa#.
+.##..###...###..
+................
+.##############.
+#cccccccccccccb#
+#baaaaaaaaaaaaa#
+.##############.
+#cccccccccccccb#
+#baaaaaaaaaaaaa#
+.##############.

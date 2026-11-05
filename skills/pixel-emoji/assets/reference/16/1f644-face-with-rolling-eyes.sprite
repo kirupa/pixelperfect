@@ -1,0 +1,32 @@
+name: face with rolling eyes
+size: 16
+code: 1f644
+file: face-with-rolling-eyes
+category: Smileys
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #f08e00
+b #ffbf00
+c #ffe600
+d #ffff93
+e #ffffcf
+f #ffffff
+
+[grid]
+......#####.....
+....##ddddc##...
+...#ddccccccc#..
+..#de##ccc##cc#.
+..#d#f##c#f##c#.
+.#dc#ff#c#ff#cb#
+.#dc#ff#c#ff#cb#
+.#dcc##ccc##ccb#
+.#dccccccccccba#
+.#cccc#####ccba#
+..#cc#ccccc#ba#.
+..#ccccccccbba#.
+...#cccccbbaa#..
+....##bbbaa##...
+......#####.....
+................

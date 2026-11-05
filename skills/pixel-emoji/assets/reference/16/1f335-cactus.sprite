@@ -1,0 +1,32 @@
+name: cactus
+size: 16
+code: 1f335
+file: cactus
+category: Animals
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #1e5631
+b #2f7a35
+c #4f9e3a
+d #86c44a
+e #c9e86e
+f #fffbe6
+
+[grid]
+......####......
+.....#eedc#.....
+.....#ecdb#..##.
+.....#ecdf#.#ed#
+.##..#ecdb#.#eb#
+#ed#.#ecdb#.#ef#
+#eb#.#efdb###eb#
+#ef#.#ecdbdddeb#
+#eb#.#ecdbbbbba#
+#eb###ecdf#####.
+#ebdddecdb#.....
+#bbbbbecdb#.....
+.#####efdb#.....
+.....#ecdb#.....
+.....#cbba#.....
+......####......

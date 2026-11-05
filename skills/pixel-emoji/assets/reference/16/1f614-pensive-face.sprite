@@ -1,0 +1,31 @@
+name: pensive face
+size: 16
+code: 1f614
+file: pensive-face
+category: Smileys
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #f08e00
+b #ffbf00
+c #ffe600
+d #ffff93
+e #ffffcf
+
+[grid]
+......#####.....
+....##ddddc##...
+...#ddccccccc#..
+..#dec#ccc#ccc#.
+..#d##ccccc##c#.
+.#dcccccccccccb#
+.#dc#cc#c#cc#cb#
+.#dcc##ccc##ccb#
+.#dccccccccccba#
+.#cccccccccccba#
+..#cccccccccba#.
+..#cccc###cbba#.
+...#cccccbbaa#..
+....##bbbaa##...
+......#####.....
+................

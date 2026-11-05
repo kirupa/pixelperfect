@@ -1,0 +1,31 @@
+name: raised fist
+size: 16
+code: 270a
+file: raised-fist
+category: People
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #f08e00
+b #ffbf00
+c #ffe600
+d #ffff93
+e #ffffcf
+
+[grid]
+........##......
+.....###ec####..
+..###ec#dc#ecb#.
+.#ec#dcadcadcb#.
+.#dcadcadcadcb#.
+.#dcadc########.
+.#dcad#ddddddb#.
+.#dcad#ccccccb#.
+.#dcadc#bbbbbb#.
+.#aaaaaccccccb#.
+.#dccccccccccb#.
+.#dccccccccccb#.
+.#ccccccccccba#.
+..#cccccccbba#..
+...#bbbbbbaa#...
+....########....

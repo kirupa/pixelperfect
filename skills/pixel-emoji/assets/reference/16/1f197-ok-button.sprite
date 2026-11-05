@@ -1,0 +1,28 @@
+name: OK button
+size: 16
+code: 1f197
+file: ok-button
+category: Symbols
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #3b88c3
+b #ffffff
+
+[grid]
+...###########..
+..#aaaaaaaaaaa#.
+.#aaaaaaaaaaaaa#
+.#aaaaaaaaaaaaa#
+.#aaaaaaaaaaaaa#
+.#aaaabaababaaa#
+.#aaababababaaa#
+.#aaabababbaaaa#
+.#aaababababaaa#
+.#aaaabaababaaa#
+.#aaaaaaaaaaaaa#
+.#aaaaaaaaaaaaa#
+.#aaaaaaaaaaaaa#
+..#aaaaaaaaaaa#.
+...###########..
+................

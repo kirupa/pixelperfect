@@ -1,0 +1,37 @@
+name: automobile
+size: 16
+code: 1f697
+file: automobile
+category: Travel
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #3d434a
+b #a0192c
+c #dd2e44
+d #ff6b7d
+e #99aab5
+f #6ab8f0
+g #ffb0b8
+h #bfe4ff
+i #ffe08a
+j #e1e8ed
+k #ffffff
+
+[grid]
+................
+................
+................
+........#####...
+.......#ddddd#..
+......#khfchhc#.
+..####hhhfchfc#.
+.#ddddddddddddd#
+#iccccccccccccg#
+#ccbbccccccbbcc#
+#ccaaccccccaacc#
+.#ajeabbbbajea#.
+.#aeea####aeea#.
+..#aa#....#aa#..
+...##......##...
+................

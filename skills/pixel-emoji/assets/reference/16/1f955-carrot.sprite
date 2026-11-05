@@ -1,0 +1,34 @@
+name: carrot
+size: 16
+code: 1f955
+file: carrot
+category: Food
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #b0470a
+b #3e8a26
+c #e2650f
+d #74c43a
+e #ff8a1e
+f #ffae45
+g #a8e05a
+h #ffd08a
+
+[grid]
+.........#...##.
+........#g#.#gd#
+.......#gd##gb#.
+.......#db#gb##.
+.......#fbdb##g#
+......#fhfbbgd#.
+.....#fheeebb#..
+.....#fhceec#...
+....#fheeca#....
+...#fhceca#.....
+...#fecc##......
+..#fcca#........
+.#fecc#.........
+.#ec##..........
+#c##............
+.#..............

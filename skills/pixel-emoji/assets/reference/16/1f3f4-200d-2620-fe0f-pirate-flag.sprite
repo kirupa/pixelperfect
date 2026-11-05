@@ -1,0 +1,28 @@
+name: pirate flag
+size: 16
+code: 1f3f4-200d-2620-fe0f
+file: pirate-flag
+category: Flags
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #3d444c
+b #f5f8fa
+
+[grid]
+................
+................
+.##############.
+##aaaaaaaaaaaa##
+#aaaaabbbbaaaaa#
+#aaaabbbbbbaaaa#
+#aaaababbabaaaa#
+#aaaaabbbbaaaaa#
+#aabaaaaaaaabaa#
+#aaabbaaaabbaaa#
+#aaaaabbbbaaaaa#
+#aaabbaaaabbaaa#
+##abaaaaaaaaba##
+.##############.
+................
+................

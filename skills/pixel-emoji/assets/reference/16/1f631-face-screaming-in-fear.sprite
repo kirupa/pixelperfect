@@ -1,0 +1,37 @@
+name: face screaming in fear
+size: 16
+code: 1f631
+file: face-screaming-in-fear
+category: Smileys
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #8a2c1a
+b #c86400
+c #f08e00
+d #f4900c
+e #ffbf00
+f #ffb547
+g #a7d7f6
+h #ffe600
+i #dcf1ff
+j #ffff93
+k #ffffff
+
+[grid]
+......#####.....
+....##iiiig##...
+...#iiggggggg#..
+..#ikggggggggg#.
+..#i##ggggg##g#.
+.#j#kk#hhh#kk#e#
+.#j#kk#hhh#kk#e#
+.#j#kk#hhh#kk#e#
+.##h##hhhhh##e##
+.#fbhhh###hhhbf#
+.#fdbh#aaa#hbdf#
+.#fdbh#aaa#ebdf#
+.#fdbhh###ecbdf#
+.#dbb#eeecc#bbd#
+..###.#####.###.
+................

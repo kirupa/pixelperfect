@@ -1,0 +1,41 @@
+name: person: curly hair
+size: 24
+code: 1f9d1-200d-1f9b1
+file: person-curly-hair
+category: People
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #c8620a
+b #f08e00
+c #f0901e
+d #ffb23a
+e #ffbf00
+f #ffe600
+g #ffff93
+
+[grid]
+.........######.........
+....###.#dddccc#.###....
+...#ddc#ddccccca#dca#...
+..#dcccadccccccadccca#..
+..#dccaacccccaaacccca#..
+...#aaacddccdcccaaaa#...
+..#ddccdccccdccccccca#..
+.#ddcccccccccccccdccaa#.
+.#dccccccccaccccacccaa#.
+.#ccccac#ca##ca#ccccaa#.
+..#ccca#f##ff##f#ccaa#..
+..#c###ffffffffff###a#..
+.#g#ffff##ffff##ffff#e#.
+.#g#ffff##ffff##ffff#e#.
+.#g#ffff##ffff##ffff#b#.
+..##gfffffffffffffeb##..
+...#efffffffffffffeb#...
+...#efff#ffffff#ffeb#...
+....#efff######ffeb#....
+....#eeeffffffffeeb#....
+.....#eeeeeeeeeebb#.....
+......##eeeeebbb##......
+........########........
+........................

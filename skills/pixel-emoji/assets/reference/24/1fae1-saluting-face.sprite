@@ -1,0 +1,42 @@
+name: saluting face
+size: 24
+code: 1fae1
+file: saluting-face
+category: Smileys
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #8a3c00
+b #c86400
+c #f08e00
+d #f4900c
+e #ffbf00
+f #ffb547
+g #ffe600
+h #ffff93
+
+[grid]
+........................
+..........##............
+........##ff#...........
+......##ffa#f#..........
+....##ffaadf#####.......
+..##ffaaddaaf#hhg##.....
+##ffddddaabb#ggggge#....
+#fddddaadd##ggggggee#...
+#dddddddaaf#gggggggee#..
+#dddddaabb#gggggggggee#.
+#dddddbb##ggggggggggee#.
+#dddbb##ggg#gggg#ggggee#
+#dbb##ggggg#gggg#ggggee#
+#b###hggggg#gggg#ggggec#
+##..#hgggggggggggggggec#
+....#hgggggggggggggggec#
+....#hgggggggggggggggec#
+.....#ggggggggggggggec#.
+.....#ggggg######gggec#.
+......#ggggggggggggec#..
+.......#eeeggggggeee#...
+........#eeeeeeeeee#....
+.........##eeeccc##.....
+...........######.......

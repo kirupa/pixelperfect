@@ -1,0 +1,41 @@
+name: grinning face with big eyes
+size: 24
+code: 1f603
+file: grinning-face-with-big-eyes
+category: Smileys
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #c8283a
+b #f08e00
+c #ffbf00
+d #ffe600
+e #ffff93
+f #ffffcf
+g #ffffff
+
+[grid]
+........................
+........########........
+......##eeeeeedd##......
+.....#eedddddddddc#.....
+....#edddddddddddcc#....
+...#eddff#dddd#dddcc#...
+..#edddfd#dddd#ddddcc#..
+..#eddddd#dddd#ddddcc#..
+.#edddddd#dddd#dddddcc#.
+.#edddddd#dddd#dddddcc#.
+.#edddddd#dddd#dddddcc#.
+.#edddddddddddddddddcb#.
+.#edddddddddddddddddcb#.
+.#eddd############ddcb#.
+.#eddd#gggggggggg#ddcb#.
+.#eddd#aaaaaaaaaa#ddcb#.
+..#dddd#aaaaaaaa#ddcb#..
+..#ddddd#aaaaaa#dddcb#..
+...#ddddd######dddcb#...
+....#cccddddddddccc#....
+.....#ccccccccccbb#.....
+......##cccccbbb##......
+........########........
+........................

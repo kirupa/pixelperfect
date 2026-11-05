@@ -1,0 +1,32 @@
+name: pleading face
+size: 16
+code: 1f97a
+file: pleading-face
+category: Smileys
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #f08e00
+b #ffbf00
+c #ffe600
+d #ffff93
+e #ffffcf
+f #ffffff
+
+[grid]
+......#####.....
+....##ddddc##...
+...#dd##c##cc#..
+..#de#ccccc#cc#.
+..#dcccccccccc#.
+.#dc##ccccc##cb#
+.#d#f##ccc##f#b#
+.#d##f#ccc#f##b#
+.#dc##ccccc##ba#
+.#cccccccccccba#
+..#cccc###ccba#.
+..#ccc#ccc#bba#.
+...#cccccbbaa#..
+....##bbbaa##...
+......#####.....
+................

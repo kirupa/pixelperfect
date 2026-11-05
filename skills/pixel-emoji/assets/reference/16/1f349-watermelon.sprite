@@ -1,0 +1,30 @@
+name: watermelon
+size: 16
+code: 1f349
+file: watermelon
+category: Food
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #4a2422
+b #3e8e2a
+c #e8384a
+d #e8f5c8
+
+[grid]
+................
+................
+................
+.##############.
+#bdccccccccccdb#
+#bdcccccaccccdb#
+#bdcaccccccacdb#
+#bdccccccccccdb#
+.#bdccaccaccdb#.
+.#bdccccccccdb#.
+..#bddccccddb#..
+...#bbddddbb#...
+....##bbbb##....
+......####......
+................
+................

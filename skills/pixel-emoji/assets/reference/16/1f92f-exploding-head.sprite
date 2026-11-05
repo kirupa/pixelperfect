@@ -1,0 +1,38 @@
+name: exploding head
+size: 16
+code: 1f92f
+file: exploding-head
+category: Smileys
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #8a2c1a
+b #f36c24
+c #f08e00
+d #ff9a2e
+e #aab6c1
+f #ffbf00
+g #ffd43b
+h #ffe600
+i #e1e8ed
+j #fff3a0
+k #ffff93
+l #ffffff
+
+[grid]
+...###...###....
+..#lli#.#lli#...
+.#lllii#lllii##.
+#lliiiiiiiiiili#
+#iieedbeeebdeee#
+.###dgjjjjgd###.
+...#dbgggggbd#..
+..#khh#hhh#hhf#.
+..#khh#hhh#hhf#.
+..#khh#hhh#hhf#.
+..#khhh###hhfc#.
+..#hhh#aaa#hfc#.
+...#hh#aaa#cc#..
+...#hhh###fcc#..
+....##fffcc##...
+......#####.....

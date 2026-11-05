@@ -1,0 +1,36 @@
+name: face with tears of joy
+size: 16
+code: 1f602
+file: face-with-tears-of-joy
+category: Smileys
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #8a2c1a
+b #2273c3
+c #3fa9f0
+d #f08e00
+e #ffbf00
+f #ffe600
+g #b8e6ff
+h #ffff93
+i #ffffcf
+j #ffffff
+
+[grid]
+......#####.....
+....##hhhhf##...
+...#hhfffffff#..
+..#hifffffffff#.
+..#hf##fff##ff#.
+.#hf#ff#f#ff#fe#
+.#hggfffffffgge#
+.#gcfffffffffcg#
+.#gc#########cg#
+.#gc#jjjjjjj#cg#
+.#gcf#aaaaa#ecg#
+.#gccf#####eccg#
+.#ccbffffeedbcc#
+..#b##eeedd##b#.
+...#..#####..#..
+................

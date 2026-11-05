@@ -1,0 +1,32 @@
+name: blotch-16
+size: 16
+essence: 1f642 slightly smiling face: calm, friendly, the reference for every 16px face
+keep: 1x3 eyes at x 6 and 10 on rows 4-6, a shallow smile on rows 9-10
+drop: brows, nose, cheeks, teeth
+view: front
+note: 1f642: 1x3 eyes at x 6 and 10 (rows 4-6), a shallow smile on rows 9-10
+
+[palette]
+W #ffffcf glint (one pixel)
+S #ffff93 skin light (upper-left rim)
+s #ffe600 skin base (the Darkproject smiley yellow)
+t #ffbf00 skin shade (lower-right rim)
+u #f08e00 skin deep shade
+
+[grid]
+......#####.....
+....##SSSSs##...
+...#SSsssssss#..
+..#SWsssssssss#.
+..#Sss#sss#sss#.
+.#Ssss#sss#ssst#
+.#Ssss#sss#ssst#
+.#Sssssssssssst#
+.#S##########tu#
+.#s##########tu#
+..###########u#.
+..###########u#.
+...###########..
+...##########...
+......#####.....
+................

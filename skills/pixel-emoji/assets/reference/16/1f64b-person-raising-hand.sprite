@@ -1,0 +1,37 @@
+name: person raising hand
+size: 16
+code: 1f64b
+file: person-raising-hand
+category: People
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #8a3a00
+b #b8361a
+c #a04a06
+d #ef5a2a
+e #e07f16
+f #ff8a55
+g #ffb23a
+h #ffbf00
+i #ffe600
+j #ffff93
+k #ffffcf
+
+[grid]
+.#.#.#..........
+#k#j#j######....
+#kjiih#ggeea##..
+#jiih#geeeeeea#.
+#ih##ccccicccca#
+#fd#eii#iii#iia#
+#fd#eii#iii#iia#
+#fd#jiiiiiiiiih#
+#fd#jii#iii#iih#
+#fd#jiii###iiih#
+#fd##iiiiiiihh#.
+#fd#f###hhh####.
+#fd#fffddbddddb#
+#fd#fddddddddbb#
+#fd#ddddddddbbb#
+.##############.

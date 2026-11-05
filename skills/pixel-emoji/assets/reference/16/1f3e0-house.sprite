@@ -1,0 +1,38 @@
+name: house
+size: 16
+code: 1f3e0
+file: house
+category: Travel
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #4a5560
+b #94442c
+c #5d6b75
+d #c1694f
+e #7d8b95
+f #77b255
+g #55acee
+h #a4b2bb
+i #e2c182
+j #ffcc4d
+k #b8e0ff
+l #ffe8b6
+
+[grid]
+.......##..##...
+......#hc##db#..
+.....#heec#db#..
+....#heeeecdb#..
+...#heeeeeec#...
+..#heeeeeeeec#..
+.#heeeeeeeeeec#.
+#aaaaaaaaaaaaaa#
+.#iiiiiiiiiiii#.
+.#llllllllllli#.
+.#llkglllddbli#.
+.#llgglllddbli#.
+.#llllllldjbli#.
+.#lllllllddbli#.
+#ffffffffffffff#
+.##############.

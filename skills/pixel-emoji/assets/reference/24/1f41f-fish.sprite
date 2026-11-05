@@ -1,0 +1,39 @@
+name: fish
+size: 24
+code: 1f41f
+file: fish
+category: Animals
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #1b4f9a
+b #2f7fd6
+c #5dadec
+d #a6d6ff
+e #ffffff
+
+[grid]
+........................
+.........##.............
+........#ca#............
+.......#cbba#...........
+......#bbbbba#.......##.
+....##dddcccbb#.....#ca#
+...#ddddddcccb#.....#ba#
+..#dddddddccccb#...#cba#
+.#ddddddddcccccb#.#cbba#
+#cdde#ddddccccccb#cbba#.
+#cdd##ddddbcccccbbbba#..
+#ccddddddccbccccbbba#...
+#bbccccccccbccccbbba#...
+.##ccccccccbcccbbbba#...
+#cccccccccbcccbbbbbba#..
+#bcccccccccccbbbb#abba#.
+.#bcccccccccbbbb#.#abba#
+..#bcccccbbbbbb#...#aba#
+...#bbbbbbbbbb#.....#ba#
+....##bbbbbbba#.....#aa#
+......#####aba#......##.
+...........#aa#.........
+............##..........
+........................

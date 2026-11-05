@@ -1,0 +1,40 @@
+name: smiling face with sunglasses
+size: 24
+code: 1f60e
+file: smiling-face-with-sunglasses
+category: Smileys
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #56626e
+b #f08e00
+c #ffbf00
+d #ffe600
+e #ffff93
+f #ffffcf
+
+[grid]
+........................
+........########........
+......##eeeeeedd##......
+.....#eedddddddddc#.....
+....#edddddddddddcc#....
+...#eddffdddddddddcc#...
+.######################.
+.#aa#######dd#######aa#.
+.#########dddd#########.
+.#e######dddddd######c#.
+.#edddddddddddddddddcc#.
+.#edddddddddddddddddcb#.
+.#edddddddddddddddddcb#.
+.#edddddddddddddddddcb#.
+.#eddd#dddddddddd#ddcb#.
+.#eddd#dddddddddd#ddcb#.
+..#dddd#dddddddd#ddcb#..
+..#ddddd########dddcb#..
+...#ddddddddddddddcb#...
+....#cccddddddddccc#....
+.....#ccccccccccbb#.....
+......##cccccbbb##......
+........########........
+........................

@@ -1,0 +1,32 @@
+name: smiley-head13-16
+size: 16
+essence: a 13px round head on rows 3-15 that leaves rows 0-2 for a hat, halo or horns
+keep: the stepped circle and its rim light; features move down 2 rows
+drop: everything else; the span warning goes away once the hat, halo or horns are on
+view: front
+note: a 13px head on rows 3-15 that leaves rows 0-2 for a hat, halo or horns; move features down 2 rows
+
+[palette]
+W #ffffcf glint (one pixel)
+S #ffff93 skin light (upper-left rim)
+s #ffe600 skin base (the Darkproject smiley yellow)
+t #ffbf00 skin shade (lower-right rim)
+u #f08e00 skin deep shade
+
+[grid]
+................
+................
+................
+......#####.....
+....##SSSSs##...
+...#SSsssssss#..
+...#SWsssssss#..
+..#Sssssssssst#.
+..#Sssssssssst#.
+..#Sssssssssst#.
+..#Ssssssssstu#.
+..#ssssssssstu#.
+...#sssssstuu#..
+...#sssssttuu#..
+....##tttuu##...
+......#####.....

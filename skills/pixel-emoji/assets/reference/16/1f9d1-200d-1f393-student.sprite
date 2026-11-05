@@ -1,0 +1,40 @@
+name: student
+size: 16
+code: 1f9d1-200d-1f393
+file: student
+category: People
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #283039
+b #36414d
+c #8a3a00
+d #4c5a68
+e #b8361a
+f #ef5a2a
+g #77879a
+h #e07f16
+i #ff8a55
+j #e8a417
+k #ffbf00
+l #ffd34d
+m #ffe600
+n #ffff93
+
+[grid]
+...###########..
+.##ggggggggggg##
+.#ddddddddddddd#
+#l#aaaaaaaaaaa#.
+#l#hmm#mmm#mmc#.
+#j#hmm#mmm#mmc#.
+.##nmmmmmmmmmk#.
+..#nmm#mmm#mmk#.
+..#nmmm###mmmk#.
+...#mmmmmmmkk#..
+...####kkk####..
+..#ddiiifffeba#.
+.#ddbbiiffebbba#
+.#dbbbbifebbbaa#
+.#bbbbbbfbbbaaa#
+..#############.

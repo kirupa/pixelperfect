@@ -1,0 +1,32 @@
+name: smiley-head-16
+size: 16
+essence: a round yellow head lit from the upper left: the base every 16px smiley starts from
+keep: the 15px stepped circle, S rim upper left, t and u rim lower right, one W glint
+drop: everything else; eyes, mouth and extras go on per subject
+view: front
+note: the 15px round head on columns 1-15 (mirror axis x + x' = 16); features go on with ink
+
+[palette]
+W #ffffcf glint (one pixel)
+S #ffff93 skin light (upper-left rim)
+s #ffe600 skin base (the Darkproject smiley yellow)
+t #ffbf00 skin shade (lower-right rim)
+u #f08e00 skin deep shade
+
+[grid]
+......#####.....
+....##SSSSs##...
+...#SSsssssss#..
+..#SWsssssssss#.
+..#Sssssssssss#.
+.#Sssssssssssst#
+.#Sssssssssssst#
+.#Sssssssssssst#
+.#Ssssssssssstu#
+.#ssssssssssstu#
+..#ssssssssstu#.
+..#ssssssssttu#.
+...#sssssttuu#..
+....##tttuu##...
+......#####.....
+................

@@ -1,0 +1,35 @@
+name: old man
+size: 16
+code: 1f474
+file: old-man
+category: People
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #4a505c
+b #79808e
+c #f08e00
+d #adb3be
+e #ffbf00
+f #ffe600
+g #d3d7de
+h #ffff93
+i #ffffcf
+
+[grid]
+......#####.....
+....##hhhff##...
+...#hhfffffff#..
+..##hifffffff##.
+.#gdhffffffffba#
+.#dbfffffffffba#
+..#bfffffffffb#.
+.#ehff#fff#ffec#
+.#ehff#fff#ffec#
+.#ehfffffffffec#
+..#fffbbbbbffe#.
+..#ffbf###fbee#.
+...#eefffffec#..
+....##eeecc##...
+......#####.....
+................

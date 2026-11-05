@@ -1,0 +1,35 @@
+name: yawning face
+size: 16
+code: 1f971
+file: yawning-face
+category: Smileys
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #8a2c1a
+b #c86400
+c #f08e00
+d #f4900c
+e #ffbf00
+f #ffb547
+g #ffe600
+h #ffff93
+i #ffffcf
+
+[grid]
+......#####.....
+....##hhhhg##...
+...#hhggggggg#..
+..#higgggggggg#.
+..#hg##ggg##gg#.
+.#hg#gg#g#gg#ge#
+.#hggggggggggge#
+.#hggggg####gge#
+.#hgggddaaaa#ec#
+.#ggggddaaaa#ec#
+..#ggdd#fdaa#c#.
+..#ggdd#fd##ec#.
+...#dd#fd#fbc#..
+...#dd#fd#fb#...
+..#dddddddb#....
+...########.....

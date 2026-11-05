@@ -1,0 +1,28 @@
+name: flag: Japan
+size: 16
+code: 1f1ef-1f1f5
+file: flag-japan
+category: Flags
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #ed1b2f
+b #eeeeee
+
+[grid]
+................
+................
+.##############.
+##bbbbbbbbbbbb##
+#bbbbbbbbbbbbbb#
+#bbbbbaaaabbbbb#
+#bbbbaaaaaabbbb#
+#bbbbaaaaaabbbb#
+#bbbbaaaaaabbbb#
+#bbbbaaaaaabbbb#
+#bbbbbaaaabbbbb#
+#bbbbbbbbbbbbbb#
+##bbbbbbbbbbbb##
+.##############.
+................
+................

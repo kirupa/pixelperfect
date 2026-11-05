@@ -1,0 +1,40 @@
+name: hushed face
+size: 24
+code: 1f62f
+file: hushed-face
+category: Smileys
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #c8283a
+b #f08e00
+c #ffbf00
+d #ffe600
+e #ffff93
+f #ffffcf
+
+[grid]
+........................
+........########........
+......##eeeeeedd##......
+.....####dddddd####.....
+....#eddd#dddd#ddcc#....
+...#eddffdddddddddcc#...
+..#edddfdddddddddddcc#..
+..#edddddddddddddddcc#..
+.#edddddd#dddd#dddddcc#.
+.#edddddd#dddd#dddddcc#.
+.#edddddd#dddd#dddddcc#.
+.#edddddd#dddd#dddddcb#.
+.#edddddd#dddd#dddddcb#.
+.#edddddddddddddddddcb#.
+.#edddddddddddddddddcb#.
+.#edddddddd##dddddddcb#.
+..#ddddddd#aa#dddddcb#..
+..#ddddddd#aa#dddddcb#..
+...#ddddddd##dddddcb#...
+....#cccddddddddccc#....
+.....#ccccccccccbb#.....
+......##cccccbbb##......
+........########........
+........................

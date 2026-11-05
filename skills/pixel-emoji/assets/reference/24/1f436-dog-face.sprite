@@ -1,0 +1,50 @@
+name: dog face
+size: 24
+code: 1f436
+file: dog-face
+category: Animals
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #4a140a
+b #292f33
+c #662113
+d #86341e
+e #be1931
+f #8c3b2e
+g #9a5236
+h #dd2e44
+i #66757f
+j #c07a5c
+k #d99e82
+l #e2aa98
+m #ebbb9f
+n #f4c7b5
+o #fde2d6
+p #ffffff
+
+[grid]
+........................
+...####..........####...
+..#ddda##########ddda#..
+.#dccca#mmmmmmmj#dccca#.
+.#dccca#mkkkkkkj#dccca#.
+.#dccca#mkkkkkkj#dccca#.
+.#dccca#mkkkkkkj#accca#.
+.#dcca#mkkkkkkkkj#dcca#.
+.#dcca#mp#kkkkp#j#dcca#.
+.#acca#m##kkkk##j#acca#.
+..#aa#mkkkkkkkkkkj#aa#..
+...##mkkkkkkkkkkkkj##...
+...#mkkkkolllllkkkkj#...
+...#mkkkolibbbolkkkj#...
+...#mkkonlbbbbonlkkj#...
+...#mkonlnlbbonlnlkj#...
+...#jkolfllffllfolkg#...
+....#jonlffheffonlg#....
+.....#lnnlheehlnnl#.....
+......#ll#heee#ll#......
+.......###eeee###.......
+..........####..........
+........................
+........................

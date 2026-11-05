@@ -1,0 +1,45 @@
+name: detective
+size: 24
+code: 1f575
+file: detective
+category: People
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #1c2330
+b #3b4650
+c #8a3a00
+d #66757f
+e #f08e00
+f #f0901e
+g #99aab5
+h #ffbf00
+i #ffe600
+j #ccd6dd
+k #ffff93
+
+[grid]
+.......####..####.......
+......#gddd##dddb#......
+.....#ggddddddddbb#.....
+.....#gdddddddddbb#.....
+..####aaaaaaaaaaaa####..
+.#ggddddddddddddddddbb#.
+#ggddddddddddddddddddbb#
+.######################.
+....#f#iiiiiiiiii#c#....
+...#k#i#j#####j##i#h#...
+...#kii####ii####iih#...
+...#hiiiiiiiiiiiiiie#...
+..#j#hii#iiiiii#iie#g#..
+..#jg#hhi######iee#gg#..
+..#jgg##hiiiiiie##ggb#..
+..#jgggg########ggggb#..
+..#gggggggggbgggggggb#..
+..#gddddddddbdddddddb#..
+..#gdddddddddbddddddb#..
+..#gdddddddddbddddddb#..
+..#gdddddddddbddddddb#..
+..#gdddddddddbddddddb#..
+..#ddddddddddbdddddbb#..
+..####################..

@@ -1,0 +1,31 @@
+name: smiling face with horns
+size: 16
+code: 1f608
+file: smiling-face-with-horns
+category: Smileys
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #643c9e
+b #8a5ccc
+c #ad86e6
+d #cfb0f7
+e #f1e4ff
+
+[grid]
+..#...........#.
+.#d#.........#c#
+.#dc#.#####.#cb#
+..#dc#deddc#cb#.
+...#ddddccccc#..
+...#d##ccc##c#..
+...#dd##c##cc#..
+..#dcc#ccc#ccb#.
+..#dcc#ccc#ccb#.
+..#dcccccccccb#.
+..#d#ccccccc#a#.
+..#cc#ccccc#ba#.
+...#cc#####aa#..
+...#cccccbbaa#..
+....##bbbaa##...
+......#####.....

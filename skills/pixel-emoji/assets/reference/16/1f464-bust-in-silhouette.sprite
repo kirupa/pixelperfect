@@ -1,0 +1,28 @@
+name: bust in silhouette
+size: 16
+code: 1f464
+file: bust-in-silhouette
+category: People
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #1a4f78
+b #226699
+
+[grid]
+.....######.....
+....#bbbbbb#....
+...#bbbbbbbb#...
+...#bbbbbbbb#...
+...#bbbbbbbb#...
+..#bbbbbbbbbb#..
+..#bbbbbbbbbb#..
+...##bbbbbb##...
+.....#bbbb#.....
+.....#aaaa#.....
+..####aaaa####..
+.#bbbbbaabbbbb#.
+#bbbbbbbbbbbbbb#
+#bbbbbbbbbbbbbb#
+#bbbbbbbbbbbbbb#
+################

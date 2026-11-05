@@ -1,0 +1,48 @@
+name: person getting massage
+size: 24
+code: 1f486
+file: person-getting-massage
+category: People
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #b8361a
+b #c8620a
+c #b8642e
+d #ef5a2a
+e #f08e00
+f #f0901e
+g #ff8a55
+h #e8955a
+i #ffb23a
+j #ffbf00
+k #ffc894
+l #ffe600
+m #ffe6c8
+n #ffff93
+
+[grid]
+#####..............#####
+#mmh#..............#mmh#
+#mkh#..............#mkh#
+#mkkh#...######...#mkkh#
+#mkkkh###iiiffb###mkkkh#
+#mkkkkmmk#ffff#mmkkkkkh#
+#mkkkkkkh#ffff#kkkkkkkh#
+#mkkkh####ffff####kkkkh#
+#mckch#ffffffffff#mckch#
+#mckch#ffff##ffff#mckch#
+#m#k#h#####ll#####m#k#h#
+.#.####llllllllll####.#.
+...#n#l#ll#ll#ll#l#j#...
+...#nlll##llll##lllj#...
+...#jlllllllllllllle#...
+....#jlll#llll#llle#....
+.....#jjll####llee#.....
+......##jlllllle##......
+........########........
+.....#####jjjj#####.....
+....#ggggddjjddddda#....
+...#gdddddddddddddda#...
+..#gdddddddddddddddda#..
+..####################..

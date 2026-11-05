@@ -1,0 +1,45 @@
+name: astronaut
+size: 24
+code: 1f9d1-200d-1f680
+file: astronaut
+category: People
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #8a3a00
+b #4f5d73
+c #76869c
+d #f08e00
+e #5dadec
+f #f0901e
+g #ffbf00
+h #c7cde0
+i #ffe600
+j #e6e9f2
+k #ffffff
+
+[grid]
+.......##########.......
+.....##kkkjjjjjjh##.....
+....#kkjjjjjjjjjjhh#....
+...#kkjjjjjjjjjjjhhh#...
+..#kkjjj########jjhhh#..
+..#kkj##ffffffff##hhh#..
+.#kkj#fffff##fffff#hhh#.
+.#kk#ff####ii####fa#hh#.
+.#kk#f#iiiiiiiiii#a#hh#.
+.#kk#iii##iiii##iii#hh#.
+.#kk#iii##iiii##iii#hh#.
+.#kk#iiiiiiiiiiiiii#hh#.
+.#kk#gii#iiiiii#iid#hh#.
+..#kj#ggi######idd#jh#..
+...#kj##giiiiiid##jh#...
+....#jjj########jjh#....
+...#cccccccccccccccc#...
+...#bbbbbbbbbbbbbbbb#...
+..#kkjjjjjjjjjjjjjjjh#..
+..#kjjjjjjjjjjjeejjjh#..
+..#kjjjjjjjjjjjeejjjh#..
+..#kjjjjjjjjjjjjjjjhh#..
+..#jjjjjjjjjjjjjjjjhh#..
+..####################..

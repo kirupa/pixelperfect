@@ -1,0 +1,37 @@
+name: old woman
+size: 16
+code: 1f475
+file: old-woman
+category: People
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #2f323a
+b #4d515b
+c #e0243c
+d #7a4cb0
+e #757a85
+f #a070d0
+g #f08e00
+h #9da2ac
+i #ffbf00
+j #ffe600
+k #ffff93
+
+[grid]
+......#####.....
+.....#hheeb#....
+....##aaaaa##...
+...#hheebeeaa#..
+..#hheeebeeeea#.
+..#hebjjbjjbea#.
+..#ejjjjjjjjja#.
+.#ikjj#jjj#jjig#
+.#ikjj#jjj#jjig#
+.#fkjjjjjjjjjid#
+..#jjjcjjjcjji#.
+..#jjjjcccjjii#.
+...#iijjjjjig#..
+....##iiigg##...
+......#####.....
+................

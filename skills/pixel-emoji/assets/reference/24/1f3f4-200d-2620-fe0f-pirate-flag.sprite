@@ -1,0 +1,37 @@
+name: pirate flag
+size: 24
+code: 1f3f4-200d-2620-fe0f
+file: pirate-flag
+category: Flags
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #141414
+b #3d444c
+c #f5f8fa
+
+[grid]
+........................
+........................
+........................
+.######################.
+##bbbbbbbbbbbbbbbbbbbb##
+#bbbbbbbbbccccbbbbbbbbb#
+#bbbbbbbbccccccbbbbbbbb#
+#bbbbbbbccccccccbbbbbbb#
+#bbbbbbbcaaccaacbbbbbbb#
+#bbbbbbbcaaccaacbbbbbbb#
+#bbbbbbbcccaacccbbbbbbb#
+#bbbbbbbbccccccbbbbbbbb#
+#bbbbbbbbcaccacbbbbbbbb#
+#bbbbbbbbbccccbbbbbbbbb#
+#bbccbbbbbbbbbbbbbbccbb#
+#bcccccbbbbbbbbbbcccccb#
+#bbbbbccccbbbbccccbbbbb#
+#bbbbbbbbbccccbbbbbbbbb#
+#bbbbbccccbbbbccccbbbbb#
+##cccccbbbbbbbbbbccccc##
+.######################.
+........................
+........................
+........................

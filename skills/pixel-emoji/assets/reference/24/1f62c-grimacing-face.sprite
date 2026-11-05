@@ -1,0 +1,40 @@
+name: grimacing face
+size: 24
+code: 1f62c
+file: grimacing-face
+category: Smileys
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #f08e00
+b #ffbf00
+c #ffe600
+d #ffff93
+e #ffffcf
+f #ffffff
+
+[grid]
+........................
+........########........
+......##ddddddcc##......
+.....#ddcccccccccb#.....
+....#dcccccccccccbb#....
+...#dcceecccccccccbb#...
+..#dcccec#cccc#ccccbb#..
+..#dccccc#cccc#ccccbb#..
+.#dcccccc#cccc#cccccbb#.
+.#dcccccc#cccc#cccccbb#.
+.#dcccccc#cccc#cccccbb#.
+.#dcccccccccccccccccba#.
+.#dcccccccccccccccccba#.
+.#dcccccccccccccccccba#.
+.#dcc#############ccba#.
+.#dcc#ff#ff#ff#ff#ccba#.
+..#cc#############cba#..
+..#cc#ff#ff#ff#ff#cba#..
+...#c#############ba#...
+....#bbbccccccccbbb#....
+.....#bbbbbbbbbbaa#.....
+......##bbbbbaaa##......
+........########........
+........................

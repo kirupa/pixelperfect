@@ -1,0 +1,32 @@
+name: waving hand
+size: 16
+code: 1f44b
+file: waving-hand
+category: People
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #3b88c3
+b #f08e00
+c #ffbf00
+d #ffe600
+e #ffff93
+f #ffffcf
+
+[grid]
+.....##.....a...
+..###fd###...a..
+.#fd#ed#fd#...a.
+..#ed#ed#ed#..a.
+.##ed#ed#ed#..a.
+#fd#ed#ed#ed#...
+#ed#ed#ed#ed#.#.
+.#ed#ed#ed#ed#c#
+.#edddddddddddc#
+.#edddddddddccc#
+a.#eddddddddcc#.
+a.#edddddddddc#.
+.a.#cccccccccb#.
+.a..#ccccccbb#..
+..a..#bbbbb##...
+......#####.....

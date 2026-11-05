@@ -1,0 +1,32 @@
+name: soccer ball
+size: 16
+code: 26bd
+file: soccer-ball
+category: Activities
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #31373d
+b #4b555e
+c #ccd6dd
+d #e1e8ed
+e #f5f8fa
+f #ffffff
+
+[grid]
+.....#####......
+...##fbbbe##....
+..#ffffbeeed#...
+.#fffffeeeedd#..
+.#bbffeeeeeaa#..
+#bbbfeeaeedaaa#.
+#bbbeeaaaddaaa#.
+#bbeeaaaaaddaa#.
+#eeeeaaaaaddcc#.
+#eeeedaaaddccc#.
+.#ddddddddccc#..
+.#daadddccaac#..
+..#aaacccaaa#...
+...##accca##....
+.....#####......
+................

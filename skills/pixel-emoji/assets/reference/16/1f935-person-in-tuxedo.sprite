@@ -1,0 +1,39 @@
+name: person in tuxedo
+size: 16
+code: 1f935
+file: person-in-tuxedo
+category: People
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #262b30
+b #292f33
+c #3b4148
+d #8a3a00
+e #a04a06
+f #5d6873
+g #e07f16
+h #ffb23a
+i #ffbf00
+j #ffe600
+k #d5dde3
+l #ffff93
+m #ffffff
+
+[grid]
+......#####.....
+....##hhggd##...
+...#hhggggggd#..
+..#heeeejeeeed#.
+..#gjj#jjj#jjd#.
+..#gjj#jjj#jjd#.
+..#ljjjjjjjjji#.
+..#ljj#jjj#jji#.
+..#ljjj###jjji#.
+...#jjjjjjjii#..
+...####iii####..
+..#ffmbbmbbmca#.
+.#ffcmbbbbbmcaa#
+.#fccmbbmbbmcaa#
+.#ccccfmmkfcaaa#
+..#############.

@@ -1,0 +1,37 @@
+name: hot face
+size: 16
+code: 1f975
+file: hot-face
+category: Smileys
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #8a2c1a
+b #b52b46
+c #2273c3
+d #d63d56
+e #ee5a6e
+f #3fa9f0
+g #f07f97
+h #ff9aaa
+i #ffc4cf
+j #b8e6ff
+k #ffe1e6
+
+[grid]
+......#####..#..
+....##hhhhe##j#.
+...#hh##e##ejff#
+..#hk#eeeee#ffc#
+..#heeeeeeeeec#.
+.#hjee#eee#eeed#
+.#jfee#eee#eeed#
+.#fceeeeeeeeeed#
+.#heee#####eedb#
+.#eee#aaaaa#edb#
+..#ee#aigia#db#.
+..#eee#iii#ddb#.
+...#eee###dbb#..
+....##dddbb##...
+......#####.....
+................

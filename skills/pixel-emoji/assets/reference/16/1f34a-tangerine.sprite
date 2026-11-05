@@ -1,0 +1,35 @@
+name: tangerine
+size: 16
+code: 1f34a
+file: tangerine
+category: Food
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #5b3417
+b #a54806
+c #3f9a25
+d #d4690a
+e #f58f0c
+f #7ccf3a
+g #ffae3d
+h #ffd28c
+i #ffffff
+
+[grid]
+....##....#####.
+....#a#..#fffc#.
+.....#a##ccc##..
+....##ggge##....
+...#ghhggeee#...
+..#ghhhhggeee#..
+..#hhiihggeee#..
+.#ghhihhggeeee#.
+.#gghhhgggeeee#.
+.#gggggggeeeed#.
+.#eeggggeeeedd#.
+..#eeeeeeeedd#..
+..#eeeeeeeddb#..
+...#eeeeeddb#...
+....##eedd##....
+......####......

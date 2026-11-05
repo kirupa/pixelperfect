@@ -1,0 +1,34 @@
+name: face with hand over mouth
+size: 16
+code: 1f92d
+file: face-with-hand-over-mouth
+category: Smileys
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #c86400
+b #f08e00
+c #f4900c
+d #ffbf00
+e #ffb547
+f #ffe600
+g #ffff93
+h #ffffcf
+
+[grid]
+......#####.....
+....##ggggf##...
+...#ggfffffff#..
+..#ghfffffffff#.
+..#gf##fff##ff#.
+.#gf#ff#f#ff#fd#
+.#gfffffffffffd#
+.#gfffffffffffd#
+.#gfffffffcafdb#
+.#fffffcc#eafdb#
+..#fcc#ec#eadb#.
+..#fcc#ec#eadb#.
+...#ccccccca##..
+...#cccccca##...
+..#cccccaa#.....
+...#######......

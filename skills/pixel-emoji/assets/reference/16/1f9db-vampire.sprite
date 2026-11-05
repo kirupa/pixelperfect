@@ -1,0 +1,39 @@
+name: vampire
+size: 16
+code: 1f9db
+file: vampire
+category: People
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #2a2f39
+b #86121f
+c #323844
+d #8a2c1a
+e #be1931
+f #464e5c
+g #e0243c
+h #66707f
+i #e8445a
+j #ffbf00
+k #ffe600
+l #ffff93
+m #ffffff
+
+[grid]
+......#####.....
+....##hhffa##...
+...#hhffffffa#..
+..#hcccckcccca#.
+..#fkkgkkkgkka#.
+..#fkkgkkkgkka#.
+..#lkkkkkkkkkj#.
+.#i#lk#####kj#b#
+.#ie#k#mdm#j#eb#
+.#iee#k###j#eeb#
+.#hiee#jjj#eebc#
+#hfieeejjjeebcc#
+#hffieekkkebbcc#
+#hfffiekkkebccc#
+#fffffiekebcccc#
+.##############.

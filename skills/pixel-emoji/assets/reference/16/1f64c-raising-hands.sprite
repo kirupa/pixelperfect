@@ -1,0 +1,32 @@
+name: raising hands
+size: 16
+code: 1f64c
+file: raising-hands
+category: People
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #3b88c3
+b #f08e00
+c #ffbf00
+d #ffe600
+e #ffff93
+f #ffffcf
+
+[grid]
+....a...a...a...
+.....a..a..a....
+................
+....#.#...#.#...
+..##f#f#.#f#f##.
+.#f#e#e#.#e#e#f#
+.#e#e#e#.#e#e#e#
+.#e#e#e#.#e#e#e#
+.#eded#...#eded#
+.#eddcf#.#feddd#
+.#eddce#.#eeddc#
+.#eddddd#dddddc#
+.#dddddc#edddcb#
+..#cccb#.#cccb#.
+...####...####..
+................

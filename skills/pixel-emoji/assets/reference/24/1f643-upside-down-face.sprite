@@ -1,0 +1,39 @@
+name: upside-down face
+size: 24
+code: 1f643
+file: upside-down-face
+category: Smileys
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #f08e00
+b #ffbf00
+c #ffe600
+d #ffff93
+e #ffffcf
+
+[grid]
+........................
+........########........
+......##ddddddcc##......
+.....#ddcccccccccb#.....
+....#dcccccccccccbb#....
+...#dcceecccccccccbb#...
+..#dcccecccccccccccbb#..
+..#dccccc######ccccbb#..
+.#dccccc#cccccc#ccccbb#.
+.#dcccc#cccccccc#cccbb#.
+.#dcccccccccccccccccbb#.
+.#dcccccccccccccccccba#.
+.#dcccccccccccccccccba#.
+.#dcccccc#cccc#cccccba#.
+.#dcccccc#cccc#cccccba#.
+.#dcccccc#cccc#cccccba#.
+..#cccccc#cccc#ccccba#..
+..#cccccc#cccc#ccccba#..
+...#ccccccccccccccba#...
+....#bbbccccccccbbb#....
+.....#bbbbbbbbbbaa#.....
+......##bbbbbaaa##......
+........########........
+........................

@@ -1,0 +1,34 @@
+name: person: red hair
+size: 16
+code: 1f9d1-200d-1f9b0
+file: person-red-hair
+category: People
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #7a1c0a
+b #a8321a
+c #dc4f26
+d #f08e00
+e #fb7c46
+f #ffbf00
+g #ffe600
+h #ffff93
+
+[grid]
+.....#######....
+...##eeeccca##..
+..#eeecccccaaa#.
+.#eecccccccccaa#
+.#ecccccbccccca#
+.#ecbbbbgbbbbca#
+.#ebgggggggggba#
+.#bggg#ggg#gggb#
+.#hggg#ggg#gggf#
+.#hgggggggggggf#
+.#gggg#ggg#gggf#
+.#ggggg###gggdf#
+..#fffgggggfdf#.
+...##fffffdd##..
+.....#######....
+................

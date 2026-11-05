@@ -1,0 +1,30 @@
+name: game die
+size: 16
+code: 1f3b2
+file: game-die
+category: Activities
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #a0041e
+b #dd2e44
+c #ea596e
+d #ffffff
+
+[grid]
+.......##.......
+.....##cc##.....
+...##cccccc##...
+.##ccccddcccc##.
+#ccccccddcccccc#
+#bbccccccccccaa#
+#bbbbccccccaada#
+#bdbbbbccaaaada#
+#bdbbbbbaaaaaaa#
+#bbbbbbbaaadaaa#
+#bbbbbbbaaadaaa#
+#bbbbbdbaaaaaaa#
+.##bbbdbadaaa##.
+...##bbbada##...
+.....##ba##.....
+.......##.......

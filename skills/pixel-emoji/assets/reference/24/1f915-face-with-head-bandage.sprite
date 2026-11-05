@@ -1,0 +1,41 @@
+name: face with head-bandage
+size: 24
+code: 1f915
+file: face-with-head-bandage
+category: Smileys
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #f08e00
+b #9aa7b2
+c #ffbf00
+d #ffe600
+e #e2e8ed
+f #ffff93
+g #ffffff
+
+[grid]
+........................
+........########........
+......##ggggggbe##......
+.....#gggbgggggbge#.....
+....#gggggbgggggbge#....
+...#gggggggbgggggbge#...
+..#eeeeeeeeebeeeeeeee#..
+..####################..
+.#fdddddddddddddddddcc#.
+.#fdddddddddddddddddcc#.
+.#fd#dddd#dddd#dddd#cc#.
+.#fdd####dddddd####dca#.
+.#fdddddddddddddddddca#.
+.#fdddddddddddddddddca#.
+.#fdddddddddddddddddca#.
+.#fdddddddddddddddddca#.
+..#ddddddd####dddddca#..
+..#dddddd#dddd#ddddca#..
+...#dddd#dddddd#ddca#...
+....#cccddddddddccc#....
+.....#ccccccccccaa#.....
+......##cccccaaa##......
+........########........
+........................

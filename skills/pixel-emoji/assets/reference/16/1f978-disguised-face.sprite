@@ -1,0 +1,35 @@
+name: disguised face
+size: 16
+code: 1f978
+file: disguised-face
+category: Smileys
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #e05a72
+b #f08e00
+c #ff8fa0
+d #ffbf00
+e #ffe600
+f #ffc4cc
+g #ffff93
+h #ffffcf
+i #ffffff
+
+[grid]
+......#####.....
+....##gggge##...
+...#gg##e##ee#..
+..#gheeeeeeeee#.
+..######e######.
+.#g#i#i###i#i#d#
+.#ge###ffc###ed#
+.#geeeffccaeeed#
+.#geeeecaaeeedb#
+.#eee#######edb#
+..#e#eeeeeee#b#.
+..#eeeeeeeeddb#.
+...#eeeeeddbb#..
+....##dddbb##...
+......#####.....
+................

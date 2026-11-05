@@ -1,0 +1,40 @@
+name: smiling face with smiling eyes
+size: 24
+code: 1f60a
+file: smiling-face-with-smiling-eyes
+category: Smileys
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #f08e00
+b #ff8f8f
+c #ffbf00
+d #ffe600
+e #ffff93
+f #ffffcf
+
+[grid]
+........................
+........########........
+......##eeeeeedd##......
+.....#eedddddddddc#.....
+....#edddddddddddcc#....
+...#eddffdddddddddcc#...
+..#edddfdddddddddddcc#..
+..#ed####dddddd####cc#..
+.#ed#dddd#dddd#dddd#cc#.
+.#ed#dddd#dddd#dddd#cc#.
+.#edddddddddddddddddcc#.
+.#edddddddddddddddddca#.
+.#edddddddddddddddddca#.
+.#ebbb#dddddddddd#bbba#.
+.#ebbb#dddddddddd#bbba#.
+.#edddd#dddddddd#dddca#.
+..#ddddd########dddca#..
+..#ddddddddddddddddca#..
+...#ddddddddddddddca#...
+....#cccddddddddccc#....
+.....#ccccccccccaa#.....
+......##cccccaaa##......
+........########........
+........................

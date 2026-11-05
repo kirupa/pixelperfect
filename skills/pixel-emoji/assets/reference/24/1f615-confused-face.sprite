@@ -1,0 +1,39 @@
+name: confused face
+size: 24
+code: 1f615
+file: confused-face
+category: Smileys
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #f08e00
+b #ffbf00
+c #ffe600
+d #ffff93
+e #ffffcf
+
+[grid]
+........................
+........########........
+......##ddddddcc##......
+.....#ddcccccccccb#.....
+....#dcccccccccccbb#....
+...#dcceecccccccccbb#...
+..#dcccecccccccccccbb#..
+..#dcccccccccccccccbb#..
+.#dcccccc#cccc#cccccbb#.
+.#dcccccc#cccc#cccccbb#.
+.#dcccccc#cccc#cccccbb#.
+.#dcccccc#cccc#cccccba#.
+.#dcccccccccccccccccba#.
+.#dcccccccccccccccccba#.
+.#dcccccccccccccccccba#.
+.#dcccccccc#####ccccba#.
+..#cccccc##ccccccccba#..
+..#ccccc#ccccccccccba#..
+...#ccc#ccccccccccba#...
+....#bbbccccccccbbb#....
+.....#bbbbbbbbbbaa#.....
+......##bbbbbaaa##......
+........########........
+........................

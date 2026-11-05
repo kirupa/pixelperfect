@@ -1,0 +1,44 @@
+name: owl
+size: 24
+code: 1f989
+file: owl
+category: Animals
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #552716
+b #6b3420
+c #a8520a
+d #9c5233
+e #c1694f
+f #f4900c
+g #d99e82
+h #ffac33
+i #f2c9a8
+j #ffffff
+
+[grid]
+........................
+..##................##..
+.#ee#..............#bb#.
+.#eed##############dbb#.
+.#eddddddddddddddddddb#.
+.#ediiiiiiddddiiiiiidb#.
+.#eiihhhhiiddiihhhhiib#.
+.#dihhhhhhiddihhhhhhid#.
+.#dihhj#hhiiiihhj#hhid#.
+.#dihh##hhiiiihh##hhid#.
+.#dihhhhhhifcihhhhhhid#.
+.#diihhhhiifciihhhhiid#.
+.#ddiiiiiii##iiiiiiidd#.
+.#edddddddggggdddddddb#.
+.#e#ddddggggggggdddd#b#.
+.#eb#ddgegeggegegdd#ab#.
+.#ebb#dggeggggeggd#aab#.
+.#ebb#dggggggggggd#aab#.
+..#bb#dgggeggegggd#aa#..
+..#bb#dggggeeggggd#aa#..
+...##ddggggggggggdd##...
+....#dddggggggggddd#....
+.....###ff####ff###.....
+........##....##........

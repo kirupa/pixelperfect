@@ -1,0 +1,37 @@
+name: person shrugging
+size: 16
+code: 1f937
+file: person-shrugging
+category: People
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #8a3a00
+b #b8361a
+c #a04a06
+d #ef5a2a
+e #e07f16
+f #ff8a55
+g #ffb23a
+h #ffbf00
+i #ffe600
+j #ffff93
+k #ffffcf
+
+[grid]
+......#####.....
+....##ggeea##...
+...#ggeeeeeea#..
+..#gccccicccca#.
+..#eii#iii#iia#.
+..#eii#iii#iia#.
+..#jiiiiiiiiih#.
+..#jiiiiiiiiih#.
+..#jiii###iiih#.
+..##iiiiiiihh##.
+.#k####hhh####j#
+.#kk#ffdbddd#jj#
+.#ih#fddbddd#hh#
+..##ffddbdddb##.
+.#ffddddbddddbb#
+..#############.

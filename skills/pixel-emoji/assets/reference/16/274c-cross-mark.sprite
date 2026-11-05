@@ -1,0 +1,27 @@
+name: cross mark
+size: 16
+code: 274c
+file: cross-mark
+category: Symbols
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #dd2e44
+
+[grid]
+................
+..##........##..
+.#aa#......#aa#.
+.#aaa#....#aaa#.
+..#aaa#..#aaa#..
+...#aaa##aaa#...
+....#aaaaaa#....
+.....#aaaa#.....
+.....#aaaa#.....
+....#aaaaaa#....
+...#aaa##aaa#...
+..#aaa#..#aaa#..
+.#aaa#....#aaa#.
+.#aa#......#aa#.
+..##........##..
+................

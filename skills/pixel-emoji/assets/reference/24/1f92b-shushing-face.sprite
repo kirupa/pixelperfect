@@ -1,0 +1,43 @@
+name: shushing face
+size: 24
+code: 1f92b
+file: shushing-face
+category: Smileys
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #8a3c00
+b #c86400
+c #f08e00
+d #f4900c
+e #ffbf00
+f #ffb547
+g #ffe600
+h #ffff93
+i #ffffcf
+
+[grid]
+........................
+........########........
+......##hhhhhhgg##......
+.....####gggggg####.....
+....#hggg#gggg#ggee#....
+...#hggiigggggggggee#...
+..#hgggigggggggggggee#..
+..#hgggggggggggggggee#..
+.#hgggggg#gggg#gggggee#.
+.#hgggggg#gggg#gggggee#.
+.#hgggggg#gggg#gggggee#.
+.#hgggggg#gggg#gggggec#.
+.#hgggggggg##gggggggec#.
+.#hggggggg#ff#ggggggec#.
+.#hggggggg#fd#ggggggec#.
+.#hggggg###dd###ggggec#.
+..#ggggggg#dd###gggec#..
+..#ggggggg#ddfff#ggec#..
+...#gggggg#ddaadb#ec#...
+....#eeegg#dddddb#e#....
+.....#eeee#daaadb##.....
+......##eee#dddb##......
+........########........
+........................

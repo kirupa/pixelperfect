@@ -1,0 +1,31 @@
+name: face with spiral eyes
+size: 16
+code: 1f635-200d-1f4ab
+file: face-with-spiral-eyes
+category: Smileys
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #f08e00
+b #ffbf00
+c #ffe600
+d #ffff93
+e #ffffcf
+
+[grid]
+......#####.....
+....##ddddc##...
+...#ddccccccc#..
+..#deccccccccc#.
+..#d###ccc###c#.
+.#d#ccc#c#ccc#b#
+.#d#c#c#c#c#c#b#
+.#d#cc#cc#cc#cb#
+.#dc#ccccc#ccba#
+.#cccccccccccba#
+..#cc##ccc##ba#.
+..#c#cc###cb#a#.
+...#cccccbbaa#..
+....##bbbaa##...
+......#####.....
+................

@@ -1,0 +1,33 @@
+name: writing hand
+size: 16
+code: 270d
+file: writing-hand
+category: People
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #1f4a85
+b #3b78c4
+c #6aa5e6
+d #f08e00
+e #ffbf00
+f #ffe600
+g #ffff93
+
+[grid]
+.............##.
+............#cb#
+...........#cb#.
+..........#cb#..
+.........#cb###.
+....#####cb#ggf#
+...#gggg###gffe#
+...#gfffffffffe#
+...#eeeeeeffffe#
+...#######ffffe#
+....#ggggg#fffe#
+..###eeeed#fffe#
+.#cb######eeed#.
+#cb#......####..
+#a#.............
+.#..............

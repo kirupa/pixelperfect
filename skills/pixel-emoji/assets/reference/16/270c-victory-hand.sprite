@@ -1,0 +1,31 @@
+name: victory hand
+size: 16
+code: 270c
+file: victory-hand
+category: People
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #f08e00
+b #ffbf00
+c #ffe600
+d #ffff93
+e #ffffcf
+
+[grid]
+......##.....##.
+.....#ec#...#ec#
+.....#dc#...#dc#
+......#dc#.#dc#.
+......#dc#.#dc#.
+.....##dc#.#dc#.
+..###ec#dc#dc#..
+.#ec#dcadc#dcb#.
+.#dcadcadc#dcb#.
+.#dcad#########.
+.#dca#dddddddb#.
+.#dca#cccccccb#.
+.#aaaabbbbbbba#.
+..#cccccccbba#..
+...#bbbbbbaa#...
+....########....

@@ -1,0 +1,32 @@
+name: smiling face
+size: 16
+code: 263a
+file: smiling-face
+category: Smileys
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #f08e00
+b #ff8f8f
+c #ffbf00
+d #ffe600
+e #ffff93
+f #ffffcf
+
+[grid]
+......#####.....
+....##eeeed##...
+...#eeddddddd#..
+..#efddddddddd#.
+..#edddddddddd#.
+.#ed#dd#d#dd#dc#
+.#edd##ddd##ddc#
+.#ebbdddddddbbc#
+.#ed#ddddddd#ca#
+.#ddd#ddddd#dca#
+..#ddd#####dca#.
+..#ddddddddcca#.
+...#dddddccaa#..
+....##cccaa##...
+......#####.....
+................

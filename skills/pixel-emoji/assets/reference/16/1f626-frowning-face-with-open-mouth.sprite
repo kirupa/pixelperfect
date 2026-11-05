@@ -1,0 +1,32 @@
+name: frowning face with open mouth
+size: 16
+code: 1f626
+file: frowning-face-with-open-mouth
+category: Smileys
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #8a2c1a
+b #f08e00
+c #ffbf00
+d #ffe600
+e #ffff93
+f #ffffcf
+
+[grid]
+......#####.....
+....##eeeed##...
+...#eeddddddd#..
+..#efddddddddd#.
+..#edd#ddd#ddd#.
+.#eddd#ddd#dddc#
+.#eddd#ddd#dddc#
+.#edddddddddddc#
+.#eddddddddddcb#
+.#ddddd###dddcb#
+..#ddd#aaa#dcb#.
+..#dd#aaaaa#cb#.
+...#dd#####bb#..
+....##cccbb##...
+......#####.....
+................

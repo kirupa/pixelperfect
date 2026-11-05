@@ -1,0 +1,28 @@
+name: radioactive
+size: 16
+code: 2622
+file: radioactive
+category: Symbols
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #f4900c
+b #ffffff
+
+[grid]
+......#####.....
+....##aaaaa##...
+...#aaaaaaaaa#..
+..#abbaaaaabba#.
+..#abbbaaabbba#.
+.#abbbbaaabbbba#
+.#abbbabbbabbba#
+.#abbbabbbabbba#
+.#aaaaabbbaaaaa#
+.#aaaaaaaaaaaaa#
+..#aaaabbbaaaa#.
+..#aaabbbbbaaa#.
+...#aabbbbbaa#..
+....##aaaaa##...
+......#####.....
+................

@@ -1,0 +1,35 @@
+name: birthday cake
+size: 16
+code: 1f382
+file: birthday-cake
+category: Food
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #c0264c
+b #e5455f
+c #e88c1c
+d #f57585
+e #ef7eae
+f #ffadc9
+g #f3d39d
+h #ffe066
+i #fff6e2
+
+[grid]
+...#.........#..
+..#c#.......#c#.
+.#ih#...#..#ih#.
+..##...#c#..##..
+.#ig#.#ih#.#ig#.
+.#ig#..##..#ig#.
+.#ig###ig###ig#.
+#ffddddigdddddb#
+#fddhddigdddfdb#
+#bbbbbbbbbbbbba#
+#fbbffbbbffbbea#
+#ffbfffbffffbea#
+#fffffffffffeea#
+.#fffffffffeea#.
+..############..
+................

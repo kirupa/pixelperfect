@@ -1,0 +1,42 @@
+name: thinking face
+size: 24
+code: 1f914
+file: thinking-face
+category: Smileys
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #c86400
+b #f08e00
+c #f4900c
+d #ffbf00
+e #ffb547
+f #ffe600
+g #ffff93
+h #ffffcf
+
+[grid]
+........................
+........########........
+......##ggggggff##......
+.....#ggffffff#####.....
+....#gfffffff#fffd##....
+...#gffhhfffffffffdd#...
+..#gf#####fffffffffdd#..
+..#gfffffffffffffffdd#..
+.#gffffff#ffff#fffffdd#.
+.#gffffff#ffff#fffffdd#.
+.#gffffff#ffff#fffffdd#.
+.#gffffff#ffff#fffffdb#.
+.#gfffff##ffffffffffdb#.
+.#gffff#ee#fffffffffdb#.
+.#gffff#ec#fffffffffdb#.
+.#gfff#ecc#######fffdb#.
+..#ff#eccceeeeee#ffdb#..
+..#ff#ccccccccca#ffdb#..
+...#f#ccc#######ffdb#...
+....##cccccca#ffddd#....
+.....#ccc#####ddbb#.....
+.....#cccccca#bb##......
+......#cccaa####........
+.......#####............

@@ -1,0 +1,37 @@
+name: anxious face with sweat
+size: 16
+code: 1f630
+file: anxious-face-with-sweat
+category: Smileys
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #8a2c1a
+b #2273c3
+c #3fa9f0
+d #f08e00
+e #ffbf00
+f #a7d7f6
+g #ffe600
+h #b8e6ff
+i #dcf1ff
+j #ffff93
+k #ffffff
+
+[grid]
+......#####.....
+....##iiiif##...
+...#ii##f##ff#..
+..#ik#fffff#ff#.
+..#iffffffffff#.
+.#jggg#ggg#ggge#
+.#jggg#ggg#ggge#
+.#jhgggggggggge#
+.#jhcgggggggged#
+.#gcbgg###ggged#
+..#ggg#aaa#ged#.
+..#gg#aaaaa#ed#.
+...#gg#####dd#..
+....##eeedd##...
+......#####.....
+................

@@ -1,0 +1,35 @@
+name: hot beverage
+size: 16
+code: 2615
+file: hot-beverage
+category: Food
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #4a2414
+b #7a3e20
+c #4b4f5c
+d #a65a2e
+e #7f8799
+f #a7aebd
+g #cfd4de
+h #eceef3
+i #ffffff
+
+[grid]
+......c..c......
+.....c..c.......
+......c..c......
+..##########....
+.#haaaaaaaag#...
+.#hdbbbbbbbg#...
+.#hiiiiiiigf#...
+.#giihhhhgfe###.
+.#giihhhhgfe#hg#
+.#giihhhhgfe##f#
+.#giihhhhgfe##f#
+.#giihhhhgfe#gf#
+.#giihhhhgfe###.
+.#giihhhhgfe#...
+.#giihhhhgfe#...
+..##########....

@@ -1,0 +1,31 @@
+name: relieved face
+size: 16
+code: 1f60c
+file: relieved-face
+category: Smileys
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #f08e00
+b #ffbf00
+c #ffe600
+d #ffff93
+e #ffffcf
+
+[grid]
+......#####.....
+....##ddddc##...
+...#ddccccccc#..
+..#de##ccc##cc#.
+..#d#cc#c#cc#c#.
+.#dcccccccccccb#
+.#dc#cc#c#cc#cb#
+.#dcc##ccc##ccb#
+.#dccccccccccba#
+.#cc#ccccccc#ba#
+..#cc#ccccc#ba#.
+..#ccc#####bba#.
+...#cccccbbaa#..
+....##bbbaa##...
+......#####.....
+................

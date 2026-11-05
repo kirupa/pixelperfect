@@ -1,0 +1,41 @@
+name: butterfly
+size: 24
+code: 1f98b
+file: butterfly
+category: Animals
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #292f33
+b #3b4650
+c #1b4f9a
+d #2f7fd6
+e #66757f
+f #5dadec
+g #a6d6ff
+
+[grid]
+........................
+......##........##......
+.##.....#......#.....##.
+#gg##....#....#....##gg#
+#ffgg##...####...##ggff#
+#ffccgg##.#eb#.##ggccff#
+.#fffccgg##eb##ggccfff#.
+.#fffffccggbaggccfffff#.
+.#fffffffccbaccfffffff#.
+..#fffffffdbadfffffff#..
+..#fffffdddbadddfffff#..
+...#fffddddbaddddfff#...
+...########ba########...
+..#ddddddddbadddddddd#..
+.#fgfffffcdbadcfffffgf#.
+.#fggfffcddbaddcfffggf#.
+.#ffgffcdddbadddcffgff#.
+..#fffcddddbaddddcfff#..
+..#ffcdddddbadddddcff#..
+...#dddddd#ba#dddddd#...
+....#dddd#.##.#dddd#....
+.....####......####.....
+........................
+........................

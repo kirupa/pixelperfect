@@ -1,0 +1,44 @@
+name: loudly crying face
+size: 24
+code: 1f62d
+file: loudly-crying-face
+category: Smileys
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #c8283a
+b #3fa9f0
+c #f08e00
+d #ff6f8a
+e #ffbf00
+f #ffb8c6
+g #ffe600
+h #b8e6ff
+i #ffff93
+j #ffffcf
+
+[grid]
+........................
+........########........
+......##iiiiiigg##......
+.....#iiggggggggge#.....
+....#igg##gggg##gee#....
+...#ig##jggggggg##ee#...
+..#i##gjgggggggggg##e#..
+..#ig####gggggg####ee#..
+.#ig#gggg#gggg#gggg#ee#.
+.#ig####g#gggg#g####ee#.
+.#ig#hb#gggggggg#hb#ee#.
+.#ig#hb#gggggggg#hb#ec#.
+.#ig#hb#gggggggg#hb#ec#.
+.#ig#hb#gg####gg#hb#ec#.
+.#ig#hb#g#aaaa#g#hb#ec#.
+.#ig#hb##aaaaaa##hb#ec#.
+..#g#hb##adddda##hb#c#..
+..#g#hb#g#dfdd#g#hb#c#..
+...##hb#gg####gg#hb##...
+....###egggggggge###....
+.....#eeeeeeeeeecc#.....
+......##eeeeeccc##......
+........########........
+........................

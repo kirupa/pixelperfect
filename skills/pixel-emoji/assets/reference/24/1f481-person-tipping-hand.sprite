@@ -1,0 +1,45 @@
+name: person tipping hand
+size: 24
+code: 1f481
+file: person-tipping-hand
+category: People
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #8a3a00
+b #b8361a
+c #c8620a
+d #ef5a2a
+e #f08e00
+f #f0901e
+g #ff8a55
+h #ffb23a
+i #ffbf00
+j #ffe600
+k #ffff93
+
+[grid]
+.........######.........
+.......##hhhffc##.......
+......#hhfffffffc#......
+.....#hffffffffffc#.....
+....#hffffffffffffc#....
+....#hffffffffffffa#....
+....#ffffff##fffffa#....
+....#ff####jj####fa#....
+....#f#jjjjjjjjjj#a#....
+...#k#jj##jjjj##jj#i#...
+...#kjjj##jjjj##jjji#...
+...#ijjjjjjjjjjjjjje#.#.
+....#ijj#jjjjjj#jje###k#
+.....#iij######jee#kkkk#
+......##ijjjjjje##kiiii#
+........##########gdb##.
+.....#####iiii####gdb#..
+....#ggggddiidddb#gdb#..
+...#gdddddddddddb#gdb#..
+...#gdddddddddddb#gdb#..
+..#gddddddddddddb#gdb#..
+..#gddddddddddddb#gdb#..
+..#dddddddddddddb#gdb#..
+..####################..

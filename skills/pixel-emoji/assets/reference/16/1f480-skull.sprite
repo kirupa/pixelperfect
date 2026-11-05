@@ -1,0 +1,31 @@
+name: skull
+size: 16
+code: 1f480
+file: skull
+category: Smileys
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #39424c
+b #8696a4
+c #b3c1cc
+d #e1e8ed
+e #ffffff
+
+[grid]
+.....######.....
+...##eedddd##...
+..#eedddddddc#..
+.#eedddddddddc#.
+.#eddddddddddc#.
+.#dd##dddd##cc#.
+.#d####dd####c#.
+.#d###add###ac#.
+.#dd#adddd#acc#.
+.#ddddd##dddcc#.
+..#dddd##ddcb#..
+...#ddddddcb#...
+...#dd#dd#cb#...
+...#dd#dd#bb#...
+....########....
+................

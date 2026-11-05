@@ -1,0 +1,42 @@
+name: face with monocle
+size: 24
+code: 1f9d0
+file: face-with-monocle
+category: Smileys
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #f08e00
+b #9aa7b2
+c #ffbf00
+d #ffe600
+e #b8e6ff
+f #e2e8ed
+g #ffff93
+h #ffffcf
+
+[grid]
+........................
+........########........
+......##ggggggdd##......
+.....#ggdddddddddc#.....
+....#g####ddd#######....
+...#g#dhhd#d#bbbbbb##...
+..#gdddhdddd#beeeef#c#..
+..#gdddddddd#be##eb#c#..
+.#gdddddd#dd#be##eb#cc#.
+.#gdddddd#dd#beeeef#cc#.
+.#gdddddd#dd#bbbbbb#cc#.
+.#gdddddd#ddd######dca#.
+.#gdddddddddddddddd#ca#.
+.#gdddddddddddddddd#ca#.
+.#gdddddddddddddddd#ca#.
+.#gdddddddddddddddd#ca#.
+..#dddd######ddddddca#..
+..#ddddddddddddddddca#..
+...#ddddddddddddddca#...
+....#cccddddddddccc#....
+.....#ccccccccccaa#.....
+......##cccccaaa##......
+........########........
+........................

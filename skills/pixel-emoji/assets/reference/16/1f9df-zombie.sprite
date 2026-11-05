@@ -1,0 +1,36 @@
+name: zombie
+size: 16
+code: 1f9df
+file: zombie
+category: People
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #2e3440
+b #662113
+c #454d5c
+d #b8361a
+e #677183
+f #ef5a2a
+g #99aab5
+h #ff8a55
+i #ccd6dd
+j #e1e8ed
+
+[grid]
+......#####.#...
+....##eecca#a#..
+...#eecccccca#..
+..#eaaaaiaaaaa#.
+..#cii#iii#iia#.
+..#cii#iii#iia#.
+..#jiggiiiggig#.
+..#jiii###iiig#.
+..#jii#iii#iig#.
+...#iiiiiiigg#..
+...####ggg####..
+..#hhhffdffffd#.
+.#hhfjffffffffd#
+.#hiifffffffffd#
+.#bbffffffffddd#
+..#############.

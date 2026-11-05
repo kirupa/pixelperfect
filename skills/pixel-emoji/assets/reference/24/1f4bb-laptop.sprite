@@ -1,0 +1,42 @@
+name: laptop
+size: 24
+code: 1f4bb
+file: laptop
+category: Objects
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #2f7fd6
+b #66757f
+c #5dadec
+d #99aab5
+e #a6d6ff
+f #ccd6dd
+g #e1e8ed
+h #f5f8fa
+
+[grid]
+........................
+....################....
+...#gggggggggggggggd#...
+..#gffffffffffffffffd#..
+..#gfcccccceececcccfd#..
+..#gfccccceececccccfd#..
+..#gfcccceececcccccfd#..
+..#gfccceececccccccfd#..
+..#gfcceececcccccccfd#..
+..#gfceececccccccccfd#..
+..#gfeececccccccccafd#..
+..#gfececccccccccaafd#..
+..#gfcecccccccccaaafd#..
+..#gfecccccccccaaaafd#..
+..#gffffffffffffffffd#..
+..##gffffffffffffffd##..
+.#hhhhhhhhhhgggggggggg#.
+.#gggbbbbbbbbbbbbbbggg#.
+#gggbbbbbbbbbbbbbbbbggg#
+#gggggggggddddggggggggg#
+#dddddddddddddddddddddd#
+.######################.
+........................
+........................

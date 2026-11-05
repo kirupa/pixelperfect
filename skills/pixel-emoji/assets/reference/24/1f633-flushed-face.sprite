@@ -1,0 +1,40 @@
+name: flushed face
+size: 24
+code: 1f633
+file: flushed-face
+category: Smileys
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #f08e00
+b #ff8f8f
+c #ffbf00
+d #ffe600
+e #ffff93
+f #ffffff
+
+[grid]
+........................
+........########........
+......##eeeeeedd##......
+.....#eedddddddddc#.....
+....#edddddddddddcc#....
+...#e####dddddd####c#...
+..#e#ffff#dddd#ffff#c#..
+..#e#f##f#dddd#f##f#c#..
+.#ed#f##f#dddd#f##f#cc#.
+.#ed#ffff#dddd#ffff#cc#.
+.#edd####dddddd####dcc#.
+.#edddddddddddddddddca#.
+.#edddddddddddddddddca#.
+.#ebbbbddddddddddbbbba#.
+.#ebbbbddddddddddbbbba#.
+.#edddddddddddddddddca#.
+..#dddddd######ddddca#..
+..#ddddddddddddddddca#..
+...#ddddddddddddddca#...
+....#cccddddddddccc#....
+.....#ccccccccccaa#.....
+......##cccccaaa##......
+........########........
+........................

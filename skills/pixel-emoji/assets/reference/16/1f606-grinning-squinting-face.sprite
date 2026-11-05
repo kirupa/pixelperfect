@@ -1,0 +1,33 @@
+name: grinning squinting face
+size: 16
+code: 1f606
+file: grinning-squinting-face
+category: Smileys
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #8a2c1a
+b #f08e00
+c #ffbf00
+d #ffe600
+e #ffff93
+f #ffffcf
+g #ffffff
+
+[grid]
+......#####.....
+....##eeeed##...
+...#eeddddddd#..
+..#efddddddddd#.
+..#ed#ddddd#dd#.
+.#eddd##d##dddc#
+.#edd#ddddd#ddc#
+.#edddddddddddc#
+.#ed#########cb#
+.#dd#ggggggg#cb#
+..#dd#aaaaa#cb#.
+..#ddd#####ccb#.
+...#dddddccbb#..
+....##cccbb##...
+......#####.....
+................

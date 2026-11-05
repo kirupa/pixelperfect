@@ -1,0 +1,33 @@
+name: drooling face
+size: 16
+code: 1f924
+file: drooling-face
+category: Smileys
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #3fa9f0
+b #f08e00
+c #ffbf00
+d #ffe600
+e #b8e6ff
+f #ffff93
+g #ffffcf
+
+[grid]
+......#####.....
+....##ffffd##...
+...#ffddddddd#..
+..#fgddddddddd#.
+..#fd##ddd##dd#.
+.#fd#dd#d#dd#dc#
+.#fdddddddddddc#
+.#fdddddddddddc#
+.#fd#ddddddd#cb#
+.#ddd#ddddd#dcb#
+..#ddd#####dcb#.
+..#ddddddedccb#.
+...#dddddecbb#..
+....##cccee##...
+......###aa#....
+.........##.....

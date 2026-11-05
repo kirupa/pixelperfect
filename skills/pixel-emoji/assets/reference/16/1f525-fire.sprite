@@ -1,0 +1,30 @@
+name: fire
+size: 16
+code: 1f525
+file: fire
+category: Travel
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #d9620b
+b #f4900c
+c #ffcc4d
+d #fff1b8
+
+[grid]
+......#.........
+.....#b#........
+.....#bb#...#...
+....#bbbb#.#b#..
+..##bbbbb##bb#..
+.#b#bbbcbbbbb#..
+.#bbbbbccbbbba#.
+#bbbbbcccbbbba#.
+#bbbbcccccbcbab#
+#bbbccccccccaaa#
+#bbbccdddcccaaa#
+#bbbccddddccaaa#
+.#bbbccddccbaa#.
+..#aaaccccaaa#..
+...##aaaaaa##...
+.....######.....

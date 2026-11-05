@@ -1,0 +1,30 @@
+name: water wave
+size: 16
+code: 1f30a
+file: water-wave
+category: Travel
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #1b4f9a
+b #3b88c3
+c #5dadec
+d #ffffff
+
+[grid]
+.......####.....
+.....##dddd##...
+....#ddccccdd#..
+...#dcccccccdd#.
+...#cccbbbbccdd#
+..#cccbbaaaaccd#
+..#ccbba####add#
+.#ccbba#..#dd##.
+.#cbbaa#...##...
+#bbbaaa#........
+#bbaaaab#.......
+#baaaaaab###....
+#baaaaaaabbb####
+#aaaaaaaaaaabbb#
+#aaaaaaaaaaaaaa#
+.##############.

@@ -1,0 +1,30 @@
+name: octopus
+size: 16
+code: 1f419
+file: octopus
+category: Animals
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #6340ad
+b #7f58cf
+c #9d7ae6
+d #c0a3f7
+
+[grid]
+.....######.....
+....#cddcbb#....
+...#cddcbbba#...
+..#ccdcbbbbaa#..
+..#cccbbbbbaa#..
+..#cb#bbbb#aa#..
+..#bb#bbbb#aa#..
+..#bbbbbbbaaa#..
+.#.#bbbbaaaa#.#.
+#b#bbbbbaaaaa#a#
+#bbbbbbbaaaaaaa#
+.#bb#bb##aa#aa#.
+#bb##bb##aa##aa#
+#b##bb#..#aa##a#
+.#..##....##..#.
+................

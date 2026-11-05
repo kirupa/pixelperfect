@@ -1,0 +1,51 @@
+name: hamburger
+size: 24
+code: 1f354
+file: hamburger
+category: Food
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #4a2414
+b #6e3820
+c #b81d2e
+d #8c4516
+e #2f7a35
+f #8f5030
+g #dd2e44
+h #b8662a
+i #4f9e3a
+j #d98a0c
+k #d98c41
+l #86c44a
+m #efb15f
+n #ffc22e
+o #fbd58e
+p #ffe680
+q #fff6dc
+
+[grid]
+........................
+........########........
+.....###mmooommk###.....
+....#kmmooommqqmmkk#....
+...#kmmqqommmmmmmkkh#...
+..#kkmmmmmmmmmmmqqkkh#..
+..#kkkmmmmmqqmkkkkkhh#..
+..#hkqqkkkkkkkkkkkkhd#..
+..#hhkkkkkkkkkkqqhhhd#..
+..##dhhhhhhhhhhhhhhd##..
+.#llilllilllilllilllie#.
+.#eigeiegeiegeiegeiece#.
+..#ggggggggggggggggcc#..
+.#pnnnnnnnnnnnnnnnnnnj#.
+.#nnffffffffffffffffnj#.
+..#bffbbbbbbbbbbbbbba#..
+..#bbbbbbbbbbbbbbbaaa#..
+...#aaaaaaaaaaaaaaaa#...
+..#kmmmmmmmmmmmmmmkkh#..
+..#hkkkkkkkkkkkkkkhhd#..
+...#dhhhhhhhhhhhhhdd#...
+....################....
+........................
+........................

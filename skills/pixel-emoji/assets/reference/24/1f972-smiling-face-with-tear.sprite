@@ -1,0 +1,42 @@
+name: smiling face with tear
+size: 24
+code: 1f972
+file: smiling-face-with-tear
+category: Smileys
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #2273c3
+b #3fa9f0
+c #f08e00
+d #ffbf00
+e #ffe600
+f #b8e6ff
+g #ffff93
+h #ffffcf
+
+[grid]
+........................
+........########........
+......##ggggggee##......
+.....#ggeeeeeeeeed#.....
+....#geeeeeeeeeeedd#....
+...#geehheeeeeeeeedd#...
+..#geeehe#eeee#eeeedd#..
+..#geeeee#eeee#eeeedd#..
+.#geeeeee#eeee#eeeeedd#.
+.#geeeeee#eeee#eeeeedd#.
+.#geeeeee#eeee#eeeeedd#.
+.#geeeeeeeeeeeeeeee#dc#.
+.#geeeeeeeeeeeeeee#f#c#.
+.#geeeeeeeeeeeeeee#b#c#.
+.#geeee#eeeeeeee##fbb##.
+.#geeeee#eeeeee#e#bba##.
+..#eeeeee######ee#bba#..
+..#eeeeeeeeeeeeeee####..
+...#eeeeeeeeeeeeeedc#...
+....#dddeeeeeeeeddd#....
+.....#ddddddddddcc#.....
+......##dddddccc##......
+........########........
+........................

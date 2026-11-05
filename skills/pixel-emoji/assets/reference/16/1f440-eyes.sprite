@@ -1,0 +1,32 @@
+name: eyes
+size: 16
+code: 1f440
+file: eyes
+category: People
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #66757f
+b #99aab5
+c #ccd6dd
+d #e1e8ed
+e #f5f8fa
+f #ffffff
+
+[grid]
+................
+..###......###..
+.#ffe#....#ffe#.
+#ffeed#..#ffeed#
+#feeed#..#feeed#
+#feeed#..#feeed#
+#feeed#..#feeed#
+#fbbed#..#fbbed#
+#b#fad#..#b#fad#
+#b##ad#..#b##ad#
+#b##ad#..#b##ad#
+#eaaed#..#eaaed#
+#eeedc#..#eeedc#
+.#ddc#....#ddc#.
+..###......###..
+................

@@ -1,0 +1,40 @@
+name: astonished face
+size: 24
+code: 1f632
+file: astonished-face
+category: Smileys
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #c8283a
+b #f08e00
+c #ffbf00
+d #ffe600
+e #ffff93
+f #ffffff
+
+[grid]
+........................
+........########........
+......##eeeeeedd##......
+.....#eedddddddddc#.....
+....#edddddddddddcc#....
+...#e####dddddd####c#...
+..#e#ffff#dddd#ffff#c#..
+..#e#f##f#dddd#f##f#c#..
+.#ed#f##f#dddd#f##f#cc#.
+.#ed#ffff#dddd#ffff#cc#.
+.#edd####dddddd####dcc#.
+.#edddddddddddddddddcb#.
+.#edddddddddddddddddcb#.
+.#eddddddd####ddddddcb#.
+.#edddddd#aaaa#dddddcb#.
+.#eddddd#aaaaaa#ddddcb#.
+..#ddddd#aaaaaa#dddcb#..
+..#ddddd#aaaaaa#dddcb#..
+...#ddddd#aaaa#dddcb#...
+....#cccdd####ddccc#....
+.....#ccccccccccbb#.....
+......##cccccbbb##......
+........########........
+........................

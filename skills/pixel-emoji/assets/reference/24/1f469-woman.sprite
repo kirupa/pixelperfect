@@ -1,0 +1,41 @@
+name: woman
+size: 24
+code: 1f469
+file: woman
+category: People
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #8a3a00
+b #e0243c
+c #c8620a
+d #f0901e
+e #ffb23a
+f #ffbf00
+g #ffe600
+
+[grid]
+........................
+.........######.........
+.......##eeedcc##.......
+.....##eeddddddcc##.....
+....#eeddddddddddcc#....
+...#edddddddddddddcc#...
+...#edddddddddddddcc#...
+..#edddddddddddddddcc#..
+..#edddd########dddcc#..
+..#edd##gggggggg##dcc#..
+..#ed#gggggggggggg#cc#..
+..#ed#gggggggggggg#ca#..
+..#e#ggg##gggg##ggg#a#..
+..#e#ggg##gggg##ggg#a#..
+..#e#ggg##gggg##ggg#a#..
+..#e#gggggggggggggg#a#..
+..#d#gggggggggggggg#a#..
+..#dd#ggbggggggbgg#ca#..
+..#dd#gggbbbbbbggg#ca#..
+..#ddd#gggggggggg#dca#..
+..#cccc##ffffff##ccca#..
+..#cccccc######aaaaaa#..
+...##################...
+........................

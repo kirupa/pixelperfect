@@ -1,0 +1,28 @@
+name: sun
+size: 16
+code: 2600
+file: sun
+category: Travel
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #ffac33
+b #ffcc4d
+
+[grid]
+.......##.......
+......#aa#......
+..#...#aa#...#..
+.#a#..####..#a#.
+..#a##bbbb##a#..
+...##bbbbbb##...
+.###bbbbbbbb###.
+#aa#bbbbbbbb#aa#
+#aa#bbbbbbbb#aa#
+.###bbbbbbbb###.
+...##bbbbbb##...
+..#a##bbbb##a#..
+.#a#..####..#a#.
+..#...#aa#...#..
+......#aa#......
+.......##.......

@@ -1,0 +1,40 @@
+name: face vomiting
+size: 24
+code: 1f92e
+file: face-vomiting
+category: Smileys
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #2f8a3a
+b #f08e00
+c #7fcf4b
+d #ffbf00
+e #ffe600
+f #ffff93
+
+[grid]
+........................
+........########........
+......##ffffffee##......
+.....#ffeeeeeeeeed#.....
+....###eeeeeeeeee###....
+...#f####eeeeee####d#...
+..#feee####ee####eedd#..
+..#fe#eee##ee##eee#dd#..
+.#fee##eeeeeeeeee##edd#.
+.#feee###eeeeee###eedd#.
+.#fee##eeeeeeeeee##edd#.
+.#fee#eeeeeeeeeeee#edb#.
+.#feeeeeeeeeeeeeeeeedb#.
+.#feeeeeeeeeeeeeeeeedb#.
+.#feeee########eeeeedb#.
+.#feee#cccccccc#eeeedb#.
+..#eee#cacccacc#eeedb#..
+..#ee#cccccccccc#eedb#..
+...#e#ccaccccacca#db#...
+....##ccccccccccca##....
+.....#accccaccccca#.....
+......#aaaaaaaaaa#......
+.......##########.......
+........................

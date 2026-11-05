@@ -1,0 +1,31 @@
+name: glasses
+size: 16
+code: 1f453
+file: glasses
+category: Objects
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #3d434a
+b #4a96d9
+c #7cc0f2
+d #bfe4ff
+e #ffffff
+
+[grid]
+................
+................
+................
+................
+................
+.##############.
+#aaaaaaaaaaaaaa#
+#edddc####edddc#
+#deddc#..#deddc#
+#dddcc#..#dddcc#
+#ccccb#..#ccccb#
+.#bbb#....#bbb#.
+..###......###..
+................
+................
+................

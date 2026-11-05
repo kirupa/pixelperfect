@@ -1,0 +1,32 @@
+name: anguished face
+size: 16
+code: 1f627
+file: anguished-face
+category: Smileys
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #8a2c1a
+b #f08e00
+c #ffbf00
+d #ffe600
+e #ffff93
+f #ffffcf
+
+[grid]
+......#####.....
+....##eeeed##...
+...#ee##d##dd#..
+..#ef#ddddd#dd#.
+..#edddddddddd#.
+.#eddd#ddd#dddc#
+.#eddd#ddd#dddc#
+.#edddddddddddc#
+.#eddddddddddcb#
+.#ddddd###dddcb#
+..#ddd#aaa#dcb#.
+..#dd#aaaaa#cb#.
+...#dd#####bb#..
+....##cccbb##...
+......#####.....
+................

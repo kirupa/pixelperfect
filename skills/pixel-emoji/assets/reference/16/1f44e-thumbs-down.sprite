@@ -1,0 +1,31 @@
+name: thumbs down
+size: 16
+code: 1f44e
+file: thumbs-down
+category: People
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #f08e00
+b #ffbf00
+c #ffe600
+d #ffff93
+e #ffffcf
+
+[grid]
+...#######......
+..#edddddc#.....
+.#edcccdddc#....
+.#dccccabbbb#...
+.#dccccdddddc#..
+.#dccccabbbbb#..
+.#dccccddddddc#.
+.#dccccabbbbbb#.
+.#dccccddddddc#.
+.#dccccabbbbbb#.
+.#dcccb#######..
+..#dccb#........
+...#dcb#........
+...#dcb#........
+...#db#.........
+....##..........

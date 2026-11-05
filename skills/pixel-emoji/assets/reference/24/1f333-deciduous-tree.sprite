@@ -1,0 +1,45 @@
+name: deciduous tree
+size: 24
+code: 1f333
+file: deciduous-tree
+category: Animals
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #2b1610
+b #10362a
+c #4a2a1a
+d #1e5631
+e #6e4026
+f #2f7a35
+g #965c34
+h #4f9e3a
+i #bf8248
+j #86c44a
+k #c9e86e
+
+[grid]
+.........######.........
+.......##jjjjhh##.......
+......#jjkkjjhhhf#......
+...###jjkkjhhhhhff###...
+..#jjjjddhhhhffddjjhh#..
+.#jkkjjjhdhfffdjjhhhhf#.
+#jkjhhhhhhdffdjhhhhhffd#
+#jjhhhhhhhfbbjhhhhhfffd#
+#jhhhddffdjjjhdhhhffffd#
+#hfddjjddjkkhhfddjhddfd#
+.#djkkjhjjhhhhffdjhhhd#.
+.#jkhhhdjhhhhfffdhhhff#.
+#jjhhhfdhhhhffffdffffdd#
+#hhhfffdhffffffddfffddd#
+.#fffffddffdddddddddbb#.
+..##dddd##ddbb##bbbb##..
+....####..####..####....
+.........#ceca#.........
+.........#egec#.........
+.........#giec#.........
+.........#giec#.........
+........#egiecc#........
+.........######.........
+........................

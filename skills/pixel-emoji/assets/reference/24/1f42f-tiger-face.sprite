@@ -1,0 +1,42 @@
+name: tiger face
+size: 24
+code: 1f42f
+file: tiger-face
+category: Animals
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #2e2422
+b #6b4a3a
+c #e8891c
+d #ffac33
+e #ffc866
+f #c9d3da
+g #eef2f5
+h #ffffff
+
+[grid]
+........................
+........................
+...###............###...
+..#eec#..........#eec#..
+.#eggdc##########edggc#.
+.#eggddeeeeeeeeeeddggc#.
+.#eddddddaaaaaaddddddc#.
+.#eddddddddddddddddddc#.
+.#edddddddaaaadddddddc#.
+.#aaaddddddddddddddaaa#.
+.#eddddddddaaddddddddc#.
+.#aaddddcddddddcddddaa#.
+.#eddddh#eddddch#ddddc#.
+.#edddc##eddddc##edddc#.
+.#aadddeeddddddeedddaa#.
+.#hhhhhhfddddddhhhhhhf#.
+.#hggggggfaaaahggggggf#.
+.#fgggggggfaahgggggggf#.
+..#fggggbggbbggbggggf#..
+...#ffgggbbggbbgggff#...
+....##ffffffffffff##....
+......############......
+........................
+........................

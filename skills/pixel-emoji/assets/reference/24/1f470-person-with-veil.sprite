@@ -1,0 +1,48 @@
+name: person with veil
+size: 24
+code: 1f470
+file: person-with-veil
+category: People
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #8a3a00
+b #c8620a
+c #f08e00
+d #f0901e
+e #ffb23a
+f #ffbf00
+g #c7cde0
+h #ffe600
+i #f7d6c2
+j #ffe9dc
+k #ffff93
+l #fff6f0
+m #f7f8fc
+n #ffffff
+
+[grid]
+........########........
+......##lllljjjj##......
+.....#lljeeeddbjjj#.....
+....#ljnnnnnnnnnnjj#....
+...#ljeddddddddddbii#...
+...#leddddddddddddbi#...
+...#leddddddddddddai#...
+..#ljdddddd##dddddaii#..
+..#ljdd####hh####daii#..
+..#lid#hhhhhhhhhh#aii#..
+..#ik#hhh#hhhh#hhh#fi#..
+..#ikhhhh#hhhh#hhhhfi#..
+.#jifhhhhhhhhhhhhhhcii#.
+.#jjifhh#hhhhhh#hhciii#.
+.#jjjiffh######hcciiii#.
+.#jjjjiifhhhhhhciiiiii#.
+.#jjjjjji######iiiiiii#.
+#jjjjiiiiiffffiiiiiiiii#
+#jjjinnnnmmffmmmmmgiiii#
+#jjinmmmmmmmmmmmmmmgiii#
+#jjinmmmmmmmmmmmmmmgiii#
+#jinmmmmmmmmmmmmmmmmgii#
+#jinmmmmmmmmmmmmmmmmgii#
+########################

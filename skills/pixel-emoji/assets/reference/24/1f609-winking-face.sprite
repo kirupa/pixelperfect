@@ -1,0 +1,39 @@
+name: winking face
+size: 24
+code: 1f609
+file: winking-face
+category: Smileys
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #f08e00
+b #ffbf00
+c #ffe600
+d #ffff93
+e #ffffcf
+
+[grid]
+........................
+........########........
+......##ddddddcc##......
+.....#ddcccccccccb#.....
+....#dcccccccccccbb#....
+...#dcceecccccccccbb#...
+..#dcccec#cccccccccbb#..
+..#dccccc#cccccc##cbb#..
+.#dcccccc#ccccc#cc#cbb#.
+.#dcccccc#cccc#cccc#bb#.
+.#dcccccc#ccccccccccbb#.
+.#dcccccccccccccccccba#.
+.#dcccccccccccccccccba#.
+.#dcccccccccccccccccba#.
+.#dcccc#cccccccc#cccba#.
+.#dccccc#cccccc#ccccba#.
+..#cccccc######ccccba#..
+..#ccccccccccccccccba#..
+...#ccccccccccccccba#...
+....#bbbccccccccbbb#....
+.....#bbbbbbbbbbaa#.....
+......##bbbbbaaa##......
+........########........
+........................

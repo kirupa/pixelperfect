@@ -1,0 +1,34 @@
+name: girl
+size: 16
+code: 1f467
+file: girl
+category: People
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #8a3a00
+b #a04a06
+c #e0243c
+d #e07f16
+e #f08e00
+f #ffb23a
+g #ffbf00
+h #ffe600
+
+[grid]
+................
+................
+......#####.....
+....##ffbdd##...
+...#ffddbddaa#..
+..#ffdddbdddda#.
+..#fddbbhbbdda#.
+..#dbhhhhhhhba#.
+..#dhh#hhh#hha#.
+..#dhh#hhh#hha#.
+.#c#hhhhhhhhh#c#
+.#ddhhchhhchhda#
+.#fd#hhccchh#da#
+.#db#hhhhhge#ba#
+..##.#gggee#.##.
+......#####.....

@@ -1,0 +1,31 @@
+name: melting face
+size: 16
+code: 1fae0
+file: melting-face
+category: Smileys
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #f08e00
+b #ffbf00
+c #ffe600
+d #ffff93
+e #ffffcf
+
+[grid]
+.......#####....
+.....##ddddc##..
+....#ddccccccc#.
+....#de#ccc#cc#.
+...#dcc#ccc#ccb#
+...#dcc#ccc#ccb#
+...#dcccccccccb#
+...#d#ccccccc#a#
+..#dcc#ccccc#ba#
+..#cccc#####baa#
+.#dcccccccccbba#
+.#cccccccccbba#.
+#dccccccccbbaa#.
+#cccccbbbbbaa#..
+.############...
+................

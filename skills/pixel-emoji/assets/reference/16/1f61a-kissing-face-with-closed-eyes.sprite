@@ -1,0 +1,32 @@
+name: kissing face with closed eyes
+size: 16
+code: 1f61a
+file: kissing-face-with-closed-eyes
+category: Smileys
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #f08e00
+b #ff8f8f
+c #ffbf00
+d #ffe600
+e #ffff93
+f #ffffcf
+
+[grid]
+......#####.....
+....##eeeed##...
+...#eeddddddd#..
+..#efddddddddd#.
+..#edddddddddd#.
+.#ed#dd#d#dd#dc#
+.#edd##ddd##ddc#
+.#ebbdddddddbbc#
+.#edddd##ddddca#
+.#ddddddd#dddca#
+..#dddd##dddca#.
+..#dddddd#dcca#.
+...#ddd##ccaa#..
+....##cccaa##...
+......#####.....
+................

@@ -1,0 +1,40 @@
+name: angry face with horns
+size: 24
+code: 1f47f
+file: angry-face-with-horns
+category: Smileys
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #643c9e
+b #8a5ccc
+c #ad86e6
+d #b48ae8
+e #cfb0f7
+f #f1e4ff
+
+[grid]
+.#....................#.
+.##..................##.
+.#d#................#d#.
+.#dd#..............#dd#.
+.#ddd#...######...#ddd#.
+..#ddd###eeeeec###ddd#..
+..#ddd#eecccccccb#ddd#..
+...#d#effcccccccbb#d#...
+...##e###cccccc###b##...
+...#eccc###cc###ccbb#...
+...#ecccccccccccccbb#...
+..#eccccc#cccc#ccccbb#..
+..#eccccc#cccc#ccccbb#..
+..#eccccc#cccc#ccccba#..
+..#ecccccccccccccccba#..
+..#ecccccccccccccccba#..
+..#eccccc######ccccba#..
+...#ccc##cccccc##cba#...
+...#cc#cccccccccc#ba#...
+....#ccccccccccccba#....
+.....#bbbccccccbbb#.....
+......#bbbbbbbbbb#......
+.......##bbbaaa##.......
+.........######.........

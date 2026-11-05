@@ -1,0 +1,42 @@
+name: frog
+size: 24
+code: 1f438
+file: frog
+category: Animals
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #1e4d2b
+b #5e9e3e
+c #77b255
+d #8fc46d
+e #a6d388
+f #d4efb0
+g #e1e8ed
+h #ffffff
+
+[grid]
+....####........####....
+...#dddb#......#dddb#...
+..#dhhhhb#....#dhhhhb#..
+.#dhhhhhhb#..#dhhhhhhb#.
+.#dhh##hhb#..#dhh##hhb#.
+#dchh##hhcb##dchh##hhcb#
+#dchhhhhgccddcchhhhhgcb#
+#bcchgggcccccccchgggccb#
+.#bccccccccccccccccccb#.
+..#dccccccccccccccccb#..
+.#dccccccccccccccccccb#.
+.#dcccccccaccacccccccb#.
+#dccccccccccccccccccccb#
+#dccccccccccccccccccccb#
+#bbccccccccccccccccccbb#
+#efbbbccccccccccccbbbfe#
+.#ffffbbbbbbbbbbbbfffe#.
+.#effffffffffffffffffe#.
+..#effffffffffffffffe#..
+...#eeffffffffffffee#...
+....##eeffffffffee##....
+......##eeeeeeee##......
+........########........
+........................

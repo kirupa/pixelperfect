@@ -1,0 +1,35 @@
+name: person-head-16
+size: 16
+essence: 1f9d1 person: a big round head under a golden-orange hair cap
+keep: the hair cap separated from skin by value (d borders the face), 1x2 eyes, a small smile
+drop: ears, nose, neck, brows
+view: front
+note: 1f9d1: a big head with a hair cap; 1x2 eyes under the fringe
+
+[palette]
+S #ffff93 skin light (upper-left rim)
+s #ffe600 skin base (the Darkproject smiley yellow)
+t #ffbf00 skin shade (lower-right rim)
+H #ffb23a hair light
+u #f08e00 skin deep shade
+h #e07f16 hair base
+d #a04a06 hair shade
+k #8a3a00 hair deep shade
+
+[grid]
+.....#######....
+...##HHHhhhk##..
+..#HHHhhhhhkkk#.
+.#HHhhhhhhhhhkk#
+.#Hhhhhhdhhhhhk#
+.#Hhddddsddddhk#
+.#Hdsssssssssdk#
+.#dsss#sss#sssd#
+.#Ssss#sss#ssst#
+.#Sssssssssssst#
+.#ssss#sss#ssst#
+.#sssss###sssut#
+..#tttssssstut#.
+...##tttttuu##..
+.....#######....
+................

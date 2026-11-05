@@ -1,0 +1,39 @@
+name: person gesturing OK
+size: 16
+code: 1f646
+file: person-gesturing-ok
+category: People
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #8f2a10
+b #8a3a00
+c #b8361a
+d #a04a06
+e #ef5a2a
+f #e07f16
+g #f08e00
+h #ff8a55
+i #ffb23a
+j #ffbf00
+k #ffe600
+l #ffff93
+m #ffffcf
+
+[grid]
+.....######.....
+...##mlglkj##...
+..#hhlkglkjec#..
+.#haa######aae#.
+#ha..#iifb#..ae#
+#ha.#iddkdb#.ae#
+#ha.#k#kk#k#.ae#
+#ha.#k#kk#k#.ae#
+#ha.#lkkkkj#.ae#
+#ha.#l#kk#j#.ae#
+#ha.#lk##kj#.ae#
+#ha..#kkjj#..ae#
+#hh####jj####ec#
+#hheeeecceeeeec#
+#eeeeeeeeeeeecc#
+.##############.

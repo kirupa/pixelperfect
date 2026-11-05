@@ -1,0 +1,42 @@
+name: face with tongue
+size: 24
+code: 1f61b
+file: face-with-tongue
+category: Smileys
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #c8283a
+b #f08e00
+c #ff6f8a
+d #ffbf00
+e #ffb8c6
+f #ffe600
+g #ffff93
+h #ffffcf
+
+[grid]
+........................
+........########........
+......##ggggggff##......
+.....#ggfffffffffd#.....
+....#gfffffffffffdd#....
+...#gffhhfffffffffdd#...
+..#gfffhf#ffff#ffffdd#..
+..#gfffff#ffff#ffffdd#..
+.#gffffff#ffff#fffffdd#.
+.#gffffff#ffff#fffffdd#.
+.#gffffff#ffff#fffffdd#.
+.#gfffffffffffffffffdb#.
+.#gfffffffffffffffffdb#.
+.#gfff############ffdb#.
+.#gfff#aaaaaaaaaa#ffdb#.
+.#gffff##cccccc##fffdb#.
+..#fffff#cecccc#fffdb#..
+..#fffff#cccccc#fffdb#..
+...#fffff######fffdb#...
+....#dddffffffffddd#....
+.....#ddddddddddbb#.....
+......##dddddbbb##......
+........########........
+........................

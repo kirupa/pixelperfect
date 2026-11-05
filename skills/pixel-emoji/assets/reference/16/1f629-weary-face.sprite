@@ -1,0 +1,33 @@
+name: weary face
+size: 16
+code: 1f629
+file: weary-face
+category: Smileys
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #8a2c1a
+b #f08e00
+c #ffbf00
+d #ffe600
+e #ffff93
+f #ffffcf
+g #ffffff
+
+[grid]
+......#####.....
+....##eeeed##...
+...#ee##d##dd#..
+..#ef#ddddd#dd#.
+..#edddddddddd#.
+.#ed#dd#d#dd#dc#
+.#edd##ddd##ddc#
+.#edddddddddddc#
+.#edddd###dddcb#
+.#dddd#ggg#ddcb#
+..#dd#aaaaa#cb#.
+..#dd#######cb#.
+...#dddddccbb#..
+....##cccbb##...
+......#####.....
+................

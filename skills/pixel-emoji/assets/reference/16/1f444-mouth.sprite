@@ -1,0 +1,32 @@
+name: mouth
+size: 16
+code: 1f444
+file: mouth
+category: People
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #5c2c1a
+b #c43150
+c #ea596e
+d #f7899a
+e #e1e8ed
+f #ffffff
+
+[grid]
+................
+................
+...###....###...
+..#dcc#..#dcc#..
+.#dcccc##ccccb#.
+#dccccccccccccb#
+#cbbbbbbbbbbbbb#
+#cb##########bb#
+###fffffffffe###
+#ccaaaaaaaaaacb#
+.#ccaaaaaaaacb#.
+..#cddddddddb#..
+...#cccccccb#...
+....##bbbb##....
+......####......
+................

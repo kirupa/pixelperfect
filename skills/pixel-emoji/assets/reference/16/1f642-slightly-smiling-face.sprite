@@ -1,0 +1,31 @@
+name: slightly smiling face
+size: 16
+code: 1f642
+file: slightly-smiling-face
+category: Smileys
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #f08e00
+b #ffbf00
+c #ffe600
+d #ffff93
+e #ffffcf
+
+[grid]
+......#####.....
+....##ddddc##...
+...#ddccccccc#..
+..#deccccccccc#.
+..#dcc#ccc#ccc#.
+.#dccc#ccc#cccb#
+.#dccc#ccc#cccb#
+.#dcccccccccccb#
+.#dccccccccccba#
+.#ccc#ccccc#cba#
+..#ccc#####cba#.
+..#ccccccccbba#.
+...#cccccbbaa#..
+....##bbbaa##...
+......#####.....
+................

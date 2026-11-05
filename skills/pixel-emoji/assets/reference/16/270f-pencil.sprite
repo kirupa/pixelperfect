@@ -1,0 +1,39 @@
+name: pencil
+size: 16
+code: 270f
+file: pencil
+category: Objects
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #3a4249
+b #c23a52
+c #ea596e
+d #b97a5c
+e #f19a1f
+f #99aab5
+g #e3a886
+h #ff9cae
+i #ffcc4d
+j #ccd6dd
+k #fad7bd
+l #ffe58f
+m #ffffff
+
+[grid]
+...#............
+..#h#...........
+.#cch#..........
+#bccch#.........
+.#bccjm#........
+..#bjjfm#.......
+...#ffjil#......
+....#fiiil#.....
+.....#eiiil#....
+......#eiiil#...
+.......#eiikk#..
+........#edkkk#.
+.........#ddgg#.
+..........##da#.
+............#a#.
+.............#..

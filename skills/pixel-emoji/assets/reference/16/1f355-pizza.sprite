@@ -1,0 +1,33 @@
+name: pizza
+size: 16
+code: 1f355
+file: pizza
+category: Food
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #e0303f
+b #d98a3a
+c #ff7a6a
+d #f0a020
+e #f7c46c
+f #ffd23f
+g #ffe680
+
+[grid]
+................
+..############..
+.#eeeeeeeeeeee#.
+#bbbbbbbbbbbbbb#
+.#ggggfffffffd#.
+.#gfcafffffffd#.
+..#faaafffcad#..
+..#faaafffaad#..
+...#fffffffd#...
+...#fffcaffd#...
+....#ffaaad#....
+....#ffaaad#....
+.....#fffd#.....
+.....#fffd#.....
+......#fd#......
+.......##.......

@@ -1,0 +1,41 @@
+name: face blowing a kiss
+size: 24
+code: 1f618
+file: face-blowing-a-kiss
+category: Smileys
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #ef3349
+b #f08e00
+c #ff98a6
+d #ffbf00
+e #ffe600
+f #ffff93
+g #ffffcf
+
+[grid]
+........................
+........########........
+......##ffffffee##......
+.....#ffeeeeeeeeed#.....
+....#####eeeeee#####....
+...##eegg#eeee#eeed##...
+..#feeege#eeeeeeeeedd#..
+..#feeeee#eeeeee##edd#..
+.#feeeeee#eeeee#ee#edd#.
+.#feeeeee#eeee#eeee#dd#.
+.#feeeeee#eeeeeeeeeedd#.
+.#feeeeeeeeeeeeeeeeedb#.
+.#feeeeeeeeeeeeeeeeedb#.
+.#feeeeeee###eeeeeeedb#.
+.#feeeeeeeeee#eeeeeedb#.
+.#feeeeeeee##eeee##e###.
+..#eeeeeeeeee#ee#ca#aa#.
+..#eeeeeee###eee#aaaaa#.
+...#eeeeeeeeeeeee#aaa#..
+....#dddeeeeeeeedd#a#...
+.....#ddddddddddbb##....
+......##dddddbbb##......
+........########........
+........................

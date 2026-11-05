@@ -1,0 +1,39 @@
+name: face without mouth
+size: 24
+code: 1f636
+file: face-without-mouth
+category: Smileys
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #f08e00
+b #ffbf00
+c #ffe600
+d #ffff93
+e #ffffcf
+
+[grid]
+........................
+........########........
+......##ddddddcc##......
+.....#ddcccccccccb#.....
+....#dcccccccccccbb#....
+...#dcceecccccccccbb#...
+..#dcccec#cccc#ccccbb#..
+..#dccccc#cccc#ccccbb#..
+.#dcccccc#cccc#cccccbb#.
+.#dcccccc#cccc#cccccbb#.
+.#dcccccc#cccc#cccccbb#.
+.#dcccccccccccccccccba#.
+.#dcccccccccccccccccba#.
+.#dcccccccccccccccccba#.
+.#dcccccccccccccccccba#.
+.#dcccccccccccccccccba#.
+..#ccccccccccccccccba#..
+..#ccccccccccccccccba#..
+...#ccccccccccccccba#...
+....#bbbccccccccbbb#....
+.....#bbbbbbbbbbaa#.....
+......##bbbbbaaa##......
+........########........
+........................

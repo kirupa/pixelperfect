@@ -1,0 +1,35 @@
+name: red apple
+size: 16
+code: 1f34e
+file: red-apple
+category: Food
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #7d1022
+b #5b3417
+c #ad1a2c
+d #d82a36
+e #3f9a25
+f #f04c4c
+g #7ccf3a
+h #ff8a80
+i #ffffff
+
+[grid]
+..........####..
+.......b.#gge#..
+.......b#gee#...
+...####bb####...
+..#fffd##dddc#..
+.#fhhfddddddcc#.
+#fhihfdddddddcc#
+#fhifdddddddcca#
+#ffdddddddddcca#
+#dfddddddddccaa#
+#ddddddddddccaa#
+#dddddddddccaaa#
+.#dddddddccaaa#.
+.#ddddddccaaaa#.
+..#cccc##aaaa#..
+...####..####...

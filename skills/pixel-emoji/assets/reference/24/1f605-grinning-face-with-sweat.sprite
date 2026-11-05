@@ -1,0 +1,44 @@
+name: grinning face with sweat
+size: 24
+code: 1f605
+file: grinning-face-with-sweat
+category: Smileys
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #c8283a
+b #2273c3
+c #3fa9f0
+d #f08e00
+e #ffbf00
+f #ffe600
+g #b8e6ff
+h #ffff93
+i #ffffcf
+j #ffffff
+
+[grid]
+....................#...
+........########...#g#..
+......##hhhhhhff##.#c#..
+.....#hhfffffffffe#gcc#.
+....#hfffffffffff#gcccc#
+...#hffiiffffffff#ccccb#
+..#hfffiffffffffff#ccb#.
+..#hf####ffffff#######..
+.#hf#ffff#ffff#ffff#ee#.
+.#hf#ffff#ffff#ffff#ee#.
+.#hfffffffffffffffffee#.
+.#hfffffffffffffffffed#.
+.#hfffffffffffffffffed#.
+.#hfff############ffed#.
+.#hfff#jjjjjjjjjj#ffed#.
+.#hfff#aaaaaaaaaa#ffed#.
+..#ffff#aaaaaaaa#ffed#..
+..#fffff#aaaaaa#fffed#..
+...#fffff######fffed#...
+....#eeeffffffffeee#....
+.....#eeeeeeeeeedd#.....
+......##eeeeeddd##......
+........########........
+........................

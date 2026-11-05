@@ -1,0 +1,30 @@
+name: key
+size: 16
+code: 1f511
+file: key
+category: Objects
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #9c5233
+b #c1694f
+c #d99e82
+d #f2c9a8
+
+[grid]
+.........####...
+........#cccb#..
+.......#cdbbbb#.
+......#cdbaabbb#
+......#cba##cba#
+......#cba##cba#
+......#bbbccbba#
+......##cbbbba#.
+...###ccaaaaa#..
+..#cccba#####...
+.###cba#........
+#cccba#.........
+.#cba#..........
+#baa#...........
+.###............
+................

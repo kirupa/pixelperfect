@@ -1,0 +1,37 @@
+name: health worker
+size: 16
+code: 1f9d1-200d-2695-fe0f
+file: health-worker
+category: People
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #1f4a85
+b #8a3a00
+c #a04a06
+d #3b78c4
+e #e07f16
+f #6aa5e6
+g #ffb23a
+h #ffbf00
+i #ffe600
+j #ffff93
+k #f4f7f9
+
+[grid]
+......#####.....
+....##ggeeb##...
+...#ggeeeeeeb#..
+..#gcccciccccb#.
+..#eii#iii#iib#.
+..#eii#iii#iib#.
+..#jiiiiiiiiih#.
+..#jii#iii#iih#.
+..#jiii###iiih#.
+...#iiiiiiihh#..
+...####hhh####..
+..#fffdhhhddda#.
+.#ffkdddhddddda#
+.#fkkkdddddddda#
+.#ddkdddddddaaa#
+..#############.

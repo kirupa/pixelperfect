@@ -1,0 +1,38 @@
+name: man cook
+size: 16
+code: 1f468-200d-1f373
+file: man-cook
+category: People
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #1f4a85
+b #8a3a00
+c #3b78c4
+d #7f909e
+e #e07f16
+f #6aa5e6
+g #a9b8c4
+h #ffbf00
+i #ffe600
+j #dfe7ed
+k #ffff93
+l #ffffff
+
+[grid]
+...###.###.###..
+..#lll#llj#jjg#.
+.#lljjjjjjjjjgd#
+..#gjgjgjgjgjd#.
+..#eii#iii#iib#.
+..#iii#iii#iii#.
+..#kiiiiiiiiih#.
+..#kii#iii#iih#.
+..#kiii###iiih#.
+...#iiiiiiihh#..
+...####hhh####..
+..#ljffccccajg#.
+.#lljjfcccajjgg#
+.#ljjjjccajjjgg#
+.#jjjjjjajjjggg#
+..#############.

@@ -1,0 +1,33 @@
+name: frog
+size: 16
+code: 1f438
+file: frog
+category: Animals
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #3e721d
+b #5c913b
+c #77b255
+d #a6d388
+e #b8dc9a
+f #d4ecbe
+g #ffffff
+
+[grid]
+................
+...###....###...
+..#dcc#..#dcc#..
+.#dgggc##dgggc#.
+.#cg#gc##cg#gc#.
+#dcgggccccgggcb#
+#dccccccccccccb#
+#cccccccccccccb#
+#cccccaccaccccb#
+#acccccccccccca#
+#baaaaaaaaaaaab#
+#bfffffffffffeb#
+.#ffffffffffee#.
+..#beeeeeeeeb#..
+...##########...
+................

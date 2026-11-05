@@ -1,0 +1,33 @@
+name: panda
+size: 16
+code: 1f43c
+file: panda
+category: Animals
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #272b2b
+b #4a5258
+c #dd2e44
+d #8899a6
+e #ccd6dd
+f #eeeeee
+g #ffffff
+
+[grid]
+..##........##..
+.#aa#......#aa#.
+#abaa######aaba#
+#aaaaggggggaaaa#
+.#affffffffffa#.
+#gfffffffffffff#
+#gfaaaffffaaafe#
+#gaadaffffadaae#
+#gaadaffffadaae#
+#gaaaffffffaaae#
+#gfffgaaaagfffe#
+#fffgggaagggffe#
+.#fffggccggffe#.
+..#fefggggfee#..
+...##feeeee##...
+.....######.....

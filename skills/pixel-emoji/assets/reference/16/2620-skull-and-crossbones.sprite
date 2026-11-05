@@ -1,0 +1,31 @@
+name: skull and crossbones
+size: 16
+code: 2620
+file: skull-and-crossbones
+category: Smileys
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #39424c
+b #8696a4
+c #b3c1cc
+d #e1e8ed
+e #ffffff
+
+[grid]
+..##........##..
+.#ee#......#ed#.
+#edd#......#ddc#
+.##dd######dc##.
+...##eedddc##...
+...#eedddddc#...
+...#eddddddc#...
+...#d##dd##c#...
+...#d#add#ac#...
+...#ddd##dcc#...
+...#ddddddcc#...
+...##ddddcc##...
+.##d#d#dd#c#c##.
+#ddc#d#dd#c#ccb#
+.#dc########cb#.
+..##........##..

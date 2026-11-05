@@ -1,0 +1,40 @@
+name: beaming face with smiling eyes
+size: 24
+code: 1f601
+file: beaming-face-with-smiling-eyes
+category: Smileys
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #f08e00
+b #ffbf00
+c #ffe600
+d #ffff93
+e #ffffcf
+f #ffffff
+
+[grid]
+........................
+........########........
+......##ddddddcc##......
+.....#ddcccccccccb#.....
+....#dcccccccccccbb#....
+...#dcceecccccccccbb#...
+..#dcccecccccccccccbb#..
+..#dcc##cccccccc##cbb#..
+.#dcc#cc#cccccc#cc#cbb#.
+.#dc#cccc#cccc#cccc#bb#.
+.#dcccccccccccccccccbb#.
+.#dcccccccccccccccccba#.
+.#dcccccccccccccccccba#.
+.#dcc##############cba#.
+.#dcc#ffffffffffff#cba#.
+.#dcc##############cba#.
+..#ccc#ffffffffff#cba#..
+..#cccc##########ccba#..
+...#ccccccccccccccba#...
+....#bbbccccccccbbb#....
+.....#bbbbbbbbbbaa#.....
+......##bbbbbaaa##......
+........########........
+........................

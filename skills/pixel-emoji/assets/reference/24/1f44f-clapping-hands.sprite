@@ -1,0 +1,39 @@
+name: clapping hands
+size: 24
+code: 1f44f
+file: clapping-hands
+category: People
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #ef5a2a
+b #f08e00
+c #ffbf00
+d #ffe600
+e #ffff93
+
+[grid]
+.................#......
+........##......#a#..#..
+.......#ec#.....#a#.#a#.
+......##edc#..##.#.#a#..
+.....#ec#edc##ec#...#...
+....##edc#edc#edc#...##.
+...#ec#edc#edc#edc#.#aa#
+...#edc#edc#edc#edc#.##.
+....#edc#edc#edc#edc#...
+....##edc#ededddedddc#..
+...#ec#edc#edddddddddc#.
+..##edc#ededdddddddddc#.
+.#cb#edc#edddddddddddc#.
+.#cbb#ededdddddddddddc#.
+..#cbb#edddddddddddddb#.
+...#cbb#edddddddddddb#..
+.##.#cbb#edddddddddb#...
+#aa#.#cbb#edddddddb#....
+.##...#cbb#edddddb#.....
+...#...#cbb#ecccb#......
+..#a#.#.#cbb#####.......
+.#a#.#a#.#cbbbbb#.......
+..#..#a#..#cbbb#........
+......#....####.........

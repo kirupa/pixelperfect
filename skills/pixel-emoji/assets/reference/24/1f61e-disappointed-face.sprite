@@ -1,0 +1,39 @@
+name: disappointed face
+size: 24
+code: 1f61e
+file: disappointed-face
+category: Smileys
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #f08e00
+b #ffbf00
+c #ffe600
+d #ffff93
+e #ffffcf
+
+[grid]
+........................
+........########........
+......##ddddddcc##......
+.....#dd##cccc##cb#.....
+....#d##cccccccc##b#....
+...###ceeccccccccc###...
+..#dcccecccccccccccbb#..
+..#dcccccccccccccccbb#..
+.#dcccccccccccccccccbb#.
+.#dcc####cccccc####cbb#.
+.#dc#cccc#cccc#cccc#bb#.
+.#dcccccccccccccccccba#.
+.#dcccccccccccccccccba#.
+.#dcccccccccccccccccba#.
+.#dcccccccccccccccccba#.
+.#dcccccc######cccccba#.
+..#cccc##cccccc##ccba#..
+..#ccc#cccccccccc#cba#..
+...#ccccccccccccccba#...
+....#bbbccccccccbbb#....
+.....#bbbbbbbbbbaa#.....
+......##bbbbbaaa##......
+........########........
+........................

@@ -1,0 +1,35 @@
+name: rocket
+size: 16
+code: 1f680
+file: rocket
+category: Travel
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #292f33
+b #a0182c
+c #dd2e44
+d #3b88c3
+e #55acee
+f #ffac33
+g #bfe4ff
+h #ffe8a0
+i #ffffff
+
+[grid]
+................
+..........####..
+.........#ggee#.
+........#ggeee#.
+.......#ggiaed#.
+......#ggeaadd#.
+...###ggeeedd#..
+.##ccggeeedd#...
+#cccggebedd#....
+.#c#gebbdd#.....
+..##ebbdd#......
+.#fhbbddb#......
+.#fhh##bb#......
+.#hff#bb#.......
+..###.#b#.......
+.......#........

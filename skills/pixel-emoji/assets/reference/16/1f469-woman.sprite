@@ -1,0 +1,34 @@
+name: woman
+size: 16
+code: 1f469
+file: woman
+category: People
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #8a3a00
+b #a04a06
+c #e0243c
+d #e07f16
+e #f08e00
+f #ffb23a
+g #ffbf00
+h #ffe600
+
+[grid]
+.....#######....
+...##fffddda##..
+..#fffdddddaaa#.
+.#ffdddddddddaa#
+.#fddbbbbbbbdda#
+.#fdbhhhhhhhbda#
+.#fdhhhhhhhhhda#
+.#ddhh#hhh#hhda#
+.#ddhh#hhh#hhda#
+.#ddhhhhhhhhhda#
+.#ddhh#hhh#hhda#
+.#ddhhhccchhhaa#
+..#ddghhhhhgaa#.
+...##gggggee##..
+.....#######....
+................

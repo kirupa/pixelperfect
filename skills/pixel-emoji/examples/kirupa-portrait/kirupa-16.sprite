@@ -1,0 +1,39 @@
+name: kirupa-16
+size: 16
+essence: Kirupa: a big toothy grin under short black hair
+keep: short slate-black hair in lit clumps with sideburns down to the ears, a big toothy grin, warm brown sampled skin, ears at eye level
+drop: nose, brows, stubble, the surprised moment, pointing hand, tee shirt, background, flash lighting
+view: front
+asymmetric: the notch at (7,0) splits the top of the hair into two clumps for the volume on top in the photos; the face is exactly symmetric
+note: round 11 (G2), the one promoted. The grin is the house 4-row grammar on the person head: ink lip x4-12 on row 9, white upper teeth x5-11 on row 10, light-grey lower teeth x6-10 on row 11 between ink at x5 and x11 (1f601's teeth), ink base x6-10 on row 12. Rounds that failed and why: r2-r5 used 1f600's dark mouth interior, which reviewers did not read as teeth; r8 tried 1f600's 2px cheeks (the grin read neutral, 0 of 3); r9 a white-filled D; r10 a U-shaped bottom (no change). Rounds that stayed: r6 cut the hair cap a row and put the 1x2 eyes on rows 6-7 with one skin row above the lip; r7 ran the sideburns down to the ears with a continuous side outline, 2px light dashes in the hair, the off-centre notch and the fringe dip. Blind: rounds 6 and 7 named the big toothy grin 2 of 3 and the dark hair 3 of 3; rounds 8-10 named teeth 1 of 3, the same as an approved 1f600 control recoloured to this skin.
+rev: 11
+template: person-head-16
+
+[palette]
+H #66717c hair light (slate, lit top of each clump)
+h #3a4148 hair base (slate)
+k #262b30 hair deep shade (slate shadow, right side)
+S #e2ac8e skin light (upper-left rim)
+s #cb8d71 skin base (a lit mid-tone cluster of the bio photo's cheek)
+t #b47058 skin shade (lower-right rim, left ear)
+u #9d5541 skin deep shade (right ear, jaw)
+w #ffffff teeth
+e #cfd6e6 lower teeth (house MOUTH_TEETH light grey, as in 1f601)
+
+[grid]
+.....##.####....
+...##HH#HHhk##..
+..#hhhhhhhhkkk#.
+.#hHHhhhHHhkkkk#
+.#hhSskkssssskk#
+.#hhSsssssssskk#
+.#tSss#sss#sstu#
+.#tSss#sss#sstu#
+.#tSssssssssstu#
+..#S#########t#.
+..#S#wwwwwww#t#.
+..#ss#eeeee#tt#.
+...#ss#####tt#..
+....##tttuu##...
+......#####.....
+................

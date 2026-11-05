@@ -1,0 +1,35 @@
+name: crown
+size: 16
+code: 1f451
+file: crown
+category: Objects
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #dd2e44
+b #a23fe0
+c #5c913b
+d #f4900c
+e #8cc152
+f #ffac33
+g #ffcc4d
+h #ffe066
+i #fff6c8
+
+[grid]
+.......##.......
+...#..#ii#..#...
+.##i#.#ff#.#i##.
+#i#f##hhgg##f#i#
+#f#hd#hggg#dg#f#
+#hdhgdhgggdggdg#
+#hgggghgggggggg#
+#dddddddddddddd#
+#haggbgecgbggag#
+#hgggggccgggggg#
+#dddddddddddddd#
+#hhhhhhhggggggg#
+#ffffffffffffff#
+.##############.
+................
+................

@@ -1,0 +1,43 @@
+name: game die
+size: 24
+code: 1f3b2
+file: game-die
+category: Activities
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #b81d2e
+b #dd2e44
+c #ee6478
+d #d27380
+e #ec8a98
+f #f59aa8
+g #ecb5bd
+h #fde2e6
+i #ffffff
+
+[grid]
+..........####..........
+........##cccc##........
+......##cccccccc##......
+....##cccccccccccc##....
+..##ccccccfiifcccccc##..
+.#cccccccciiiicccccccc#.
+.#bbffccccfiifccccffaa#.
+.#bbbbffccccccccffaaaa#.
+.#bbbbbbffccccffaadgda#.
+.#behebbbbffffaaaaggga#.
+.#bhhhbbbbbbaaaaaadgda#.
+.#behebbbbbbaaaaaaaaaa#.
+.#bbbbbbbbbbaaadgdaaaa#.
+.#bbbbbbbbbbaaagggaaaa#.
+.#bbbbbbbbbbaaadgdaaaa#.
+.#bbbbbbbbbbaaaaaaaaaa#.
+.#bbbbbbehebadgdaaaaaa#.
+..##bbbbhhhbagggaaaa##..
+....##bbehebadgdaa##....
+......##bbbbaaaa##......
+........##bbaa##........
+..........####..........
+........................
+........................

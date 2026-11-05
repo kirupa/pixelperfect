@@ -1,0 +1,31 @@
+name: sign of the horns
+size: 16
+code: 1f918
+file: sign-of-the-horns
+category: People
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #f08e00
+b #ffbf00
+c #ffe600
+d #ffff93
+e #ffffcf
+
+[grid]
+..##.......##...
+.#ec#.....#ec#..
+.#dc#.....#dc#..
+.#dc#.....#dc#..
+.#dc#.....#dc#..
+.#dc###.###dc#..
+.#dc#ec#ec#dc#..
+.#dcadcadcadcb#.
+.#dcadcadcadcb#.
+.#dca##########.
+.#dc#ddddddddb#.
+.#dc#ccccccccb#.
+.#dcabbbbbbbba#.
+..#cccccccbba#..
+...#bbbbbbaa#...
+....########....

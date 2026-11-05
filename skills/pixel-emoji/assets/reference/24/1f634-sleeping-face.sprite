@@ -1,0 +1,43 @@
+name: sleeping face
+size: 24
+code: 1f634
+file: sleeping-face
+category: Smileys
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #c8283a
+b #2273c3
+c #3fa9f0
+d #f08e00
+e #ffbf00
+f #ffe600
+g #b8e6ff
+h #ffff93
+i #ffffcf
+
+[grid]
+..........##############
+........###gggg##gggggg#
+......##hh###c#######cc#
+.....#hhff##c###fe##cc#.
+....#hffff#cccb#fe#cc#..
+...#h####f########cc####
+..#h#ffif#ffff#f#cccccb#
+..#hffffffffffff########
+.#hfffffffffffffffffee#.
+.#hf#ffff#ffff#ffff#ee#.
+.#hff####ffffff####fee#.
+.#hfffffffffffffffffed#.
+.#hfffffffffffffffffed#.
+.#hfffffffffffffffffed#.
+.#hfffffffffffffffffed#.
+.#hffffffff##fffffffed#.
+..#fffffff#aa#fffffed#..
+..#fffffff#aa#fffffed#..
+...#fffffff##fffffed#...
+....#eeeffffffffeee#....
+.....#eeeeeeeeeedd#.....
+......##eeeeeddd##......
+........########........
+........................

@@ -1,0 +1,35 @@
+name: elf
+size: 16
+code: 1f9dd
+file: elf
+category: People
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #5c1f12
+b #7f3220
+c #b8361a
+d #a34c30
+e #ef5a2a
+f #ff8a55
+g #ffbf00
+h #ffe600
+i #ffff93
+
+[grid]
+......#####.....
+....##ddbba##...
+..#.#ddbbbba#.#.
+.#h#dbaahaaba#h#
+.#hhgh#hhh#hghh#
+..#hgh#hhh#hgh#.
+..#bbihhhhhgaa#.
+..#bbh#hhh#haa#.
+..#bbhh###hgaa#.
+..#bbbhhhhhgaa#.
+.#bbbb#ggg#baaa#
+.#bbbfeeceeebaa#
+.#bbfeeeeeeeeca#
+.#bfeeeeeeeeecc#
+.#beeeeeeeeeccc#
+..#############.

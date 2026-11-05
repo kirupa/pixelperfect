@@ -1,0 +1,33 @@
+name: face savoring food
+size: 16
+code: 1f60b
+file: face-savoring-food
+category: Smileys
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #c8283a
+b #ef3349
+c #f08e00
+d #ffbf00
+e #ffe600
+f #ffff93
+g #ffffcf
+
+[grid]
+......#####.....
+....##ffffe##...
+...#ffeeeeeee#..
+..#fgeeeeeeeee#.
+..#fe##eee##ee#.
+.#fe#ee#e#ee#ed#
+.#feeeeeeeeeeed#
+.#feeeeeeeeeeed#
+.#fe#eeeeeee#dc#
+.#eee#eeeee#edc#
+..#eee#######c#.
+..#eeeee#bba#c#.
+...#eeeee#b#c#..
+....##dddc###...
+......#####.....
+................

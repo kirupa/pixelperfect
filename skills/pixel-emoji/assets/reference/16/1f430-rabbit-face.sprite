@@ -1,0 +1,33 @@
+name: rabbit face
+size: 16
+code: 1f430
+file: rabbit-face
+category: Animals
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #66757f
+b #ea7f93
+c #99aab5
+d #f4abba
+e #ccd6dd
+f #e1e8ed
+g #ffffff
+
+[grid]
+...##......##...
+..#ec#....#ec#..
+.#eda#....#edc#.
+.#eda#....#eda#.
+.#eda#....#eda#.
+.#cda#....#eda#.
+..#ea######ea#..
+.#ecceeeeeeccc#.
+#ecccaccccacccc#
+#ecca#ecca#ecca#
+#ecca#ecca#ecca#
+#cccceffffeccca#
+.#ccccfbbfccca#.
+..#cccfggfcca#..
+...#caaaaaaa#...
+....########....

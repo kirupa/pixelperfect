@@ -1,0 +1,37 @@
+name: books
+size: 16
+code: 1f4da
+file: books
+category: Objects
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #5f3f9e
+b #2a6fb0
+c #9266cc
+d #d9780a
+e #55acee
+f #ffac33
+g #c3a6f5
+h #8ccaf7
+i #ccd6dd
+j #ffd27a
+k #f5f8fa
+
+[grid]
+................
+..###########...
+.#heeeeeeeeee#..
+#hekkkkkkkkkk#..
+#ebiiiiiiiiii#..
+.#bbbbbbbbbbb##.
+..#jfffffffffff#
+.#jfkkkkkkkkkkk#
+.#fdiiiiiiiiiii#
+..#dddddddddddd#
+.#gccccccccccc#.
+#gckkkkkkkkkkk#.
+#caiiiiiiiiiii#.
+.#aaaaaaaaaaaa#.
+..############..
+................

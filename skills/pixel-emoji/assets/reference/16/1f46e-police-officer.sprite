@@ -1,0 +1,38 @@
+name: police officer
+size: 16
+code: 1f46e
+file: police-officer
+category: People
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #1b2a3a
+b #1d3f66
+c #1f4a85
+d #8a3a00
+e #24548f
+f #3b78c4
+g #e07f16
+h #6aa5e6
+i #ffbf00
+j #ffd25e
+k #ffe600
+l #ffff93
+
+[grid]
+..#############.
+.#hhfffffffffee#
+..#bbbbbjbbbbb#.
+..#eeaaaaaaaaa#.
+..#gkk#kkk#kkd#.
+..#gkk#kkk#kkd#.
+..#lkkkkkkkkki#.
+..#lkk#kkk#kki#.
+..#lkkk###kkki#.
+...#kkkkkkkii#..
+...####iii####..
+..#hhhhhbhhhhc#.
+.#hhffffbfffffc#
+.#hfffffbfffffc#
+.#fffffbbbffccc#
+..#############.

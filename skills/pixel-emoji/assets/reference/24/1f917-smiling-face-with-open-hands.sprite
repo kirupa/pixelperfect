@@ -1,0 +1,43 @@
+name: smiling face with open hands
+size: 24
+code: 1f917
+file: smiling-face-with-open-hands
+category: Smileys
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #8a3c00
+b #c86400
+c #f08e00
+d #f4900c
+e #ffbf00
+f #ffb547
+g #ffe600
+h #ffff93
+i #ffffcf
+
+[grid]
+........................
+........########........
+......##hhhhhhgg##......
+.....#hhggggggggge#.....
+....#hgggggggggggee#....
+...#hggiigggggggggee#...
+..#hg####gggggg####ee#..
+..#h#gggg#gggg#gggg#e#..
+.#hg#gggg#gggg#gggg#ee#.
+.#hgggggggggggggggggee#.
+.#hggg#gggggggggg#ggee#.
+.#hggg#gggggggggg#ggec#.
+.#hgggg#gggggggg#gggec#.
+.#hggggg########ggggec#.
+.#hgggggggggggggggggec#.
+.#h##g##g##gg##g##g##c#.
+..#ff#ff#ff##ff#ff#ff#..
+..#df#df#df##fd#fd#fd#..
+.##dd#dd#dd##dd#dd#dd##.
+#f#ddaddadd##ddaddadd#f#
+#dddddddddd##dddddddddd#
+.#bddddddd#ee#dddddddb#.
+..#bbdddd######ddddbb#..
+...######......######...

@@ -1,0 +1,40 @@
+name: chequered flag
+size: 24
+code: 1f3c1
+file: chequered-flag
+category: Flags
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #31373d
+b #5f6f7d
+c #8899a6
+d #ccd6dd
+e #e1e8ed
+f #ffffff
+
+[grid]
+..##....................
+.#dd#...................
+#dfdc#..................
+#ddcb#...........######.
+.#cb####......###aaaeee#
+.#dc#aaa######eeeaaaeee#
+.#dc#aaaeeeaaaeeeaaaeee#
+.#dc#aaaeeeaaaeeeeeeaaa#
+.#dc#eeeeeeaaaaaaeeeaaa#
+.#dc#eeeaaaeeeaaaeeeaaa#
+.#dc#eeeaaaeeeaaaaaaeee#
+.#dc#aaaaaaeeeeeeaaaeee#
+.#dc#aaaeeeaaaeeeaaaeee#
+.#dc#aaaeeeaaaeeeeeeaaa#
+.#dc#eeeeeeaaaaaaeeeaaa#
+.#dc#eeeaaaeeeaaaeeeaaa#
+.#dc#eeeaaaeeeaaa######.
+.#dc####aaaeee###.......
+.#dc#...######..........
+.#dc#...................
+.#dc#...................
+.#dc#...................
+.#dc#...................
+..##....................

@@ -1,0 +1,29 @@
+name: flag: United States
+size: 16
+code: 1f1fa-1f1f8
+file: flag-united-states
+category: Flags
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #3c3b6e
+b #b22334
+c #eeeeee
+
+[grid]
+................
+................
+.##############.
+##aaaaaabbbbbb##
+#acacacabbbbbbb#
+#aacacaaccccccc#
+#acacacabbbbbbb#
+#aaaaaaaccccccc#
+#bbbbbbbbbbbbbb#
+#cccccccccccccc#
+#bbbbbbbbbbbbbb#
+#cccccccccccccc#
+##bbbbbbbbbbbb##
+.##############.
+................
+................

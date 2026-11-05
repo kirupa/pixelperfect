@@ -1,0 +1,45 @@
+name: person raising hand
+size: 24
+code: 1f64b
+file: person-raising-hand
+category: People
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #8a3a00
+b #b8361a
+c #c8620a
+d #ef5a2a
+e #f08e00
+f #f0901e
+g #ff8a55
+h #ffb23a
+i #ffbf00
+j #ffe600
+k #ffff93
+
+[grid]
+.#.#.#......######......
+#k#k#k#...##hhhffc##....
+#k#j#j#..#hhfffffffc#...
+#kjjji#.#hffffffffffc#..
+#kjii#.#hffffffffffffc#.
+#gdb#..#hffffffffffffa#.
+#gdb#..#ffffff##fffffa#.
+#gdb#..#ff####jj####fa#.
+#gdb#..#f#jjjjjjjjjj#a#.
+#gdb#.#k#jj##jjjj##jj#i#
+#gdb#.#kjjj##jjjj##jjji#
+#gdb#.#ijjjjjjjjjjjjjje#
+#gdb#..#ijj#jjjjjj#jje#.
+#gdb#...#iij######jee#..
+#gdb#....##ijjjjjje##...
+#gdb#......########.....
+#gdb#########iiii####...
+#gdbgggggggdddiiddddb#..
+#gdbdddddddddddddddddb#.
+#gdbdddddddddddddddddb#.
+#gdbddddddddddddddddddb#
+#gdbddddddddddddddddddb#
+#ddbddddddddddddddddddb#
+########################

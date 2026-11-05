@@ -1,0 +1,29 @@
+name: flag: United Kingdom
+size: 16
+code: 1f1ec-1f1e7
+file: flag-united-kingdom
+category: Flags
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #12328c
+b #cf1b2b
+c #eeeeee
+
+[grid]
+................
+................
+.##############.
+##caaacbbcaaab##
+#abccacbbcaabca#
+#aabcccbbcbccaa#
+#ccccccbbcccccc#
+#bbbbbbbbbbbbbb#
+#bbbbbbbbbbbbbb#
+#ccccccbbcccccc#
+#aaccbcbbcccbaa#
+#acbaacbbcaccba#
+##baaacbbcaaac##
+.##############.
+................
+................

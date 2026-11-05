@@ -1,0 +1,3979 @@
+{
+ "description": "A curated reference library of approved drawings from the kirupa.com Pixel set, as text sprites: every drawing the skill cites, the smiley, person and hand family that faces depend on, and a few exemplars per category. It is not the full set; see assets/LICENSE.md for the license and https://www.kirupa.com/tools/icon_gallery_pixel.htm for the whole set.",
+ "count": 248,
+ "sizes": [
+  16,
+  24
+ ],
+ "pixelSha256": "sha256 of the drawing's RGBA bytes (row-major, clear pixels 0,0,0,0), as rendered by scripts/sprite_tool.py",
+ "icons": [
+  {
+   "code": "1f600",
+   "slug": "grinning-face",
+   "name": "grinning face",
+   "emoji": "😀",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "24e970cead89ce35cbf5679429d15786799af8b5301e021147d71b5cad0bdde3",
+    "24": "9ff2ab0249be58c0015f5398be00923de79f631c207573005e4ca8fff5716b42"
+   }
+  },
+  {
+   "code": "1f603",
+   "slug": "grinning-face-with-big-eyes",
+   "name": "grinning face with big eyes",
+   "emoji": "😃",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "862309d9c3f9212708f2c730fe5721506764fe214523aa516a270e72aae5657b",
+    "24": "163a357283caa5df546f93718605f82c4ef6b577f2dc19cf5aaf225b376f5253"
+   }
+  },
+  {
+   "code": "1f604",
+   "slug": "grinning-face-with-smiling-eyes",
+   "name": "grinning face with smiling eyes",
+   "emoji": "😄",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "4d7f2abb29c67dc601c3d2ceaffb0f5e41ed0ced0150d421837ad699cb220055",
+    "24": "e739c2104e5f6e799cf23348323f05d2255502b2c0ad6eeada15383fa3aff5c4"
+   }
+  },
+  {
+   "code": "1f601",
+   "slug": "beaming-face-with-smiling-eyes",
+   "name": "beaming face with smiling eyes",
+   "emoji": "😁",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "7ad17a065bd4df27a13d4ecb6f37f86b7160bcca8a9d88ac67a91a5296e40a11",
+    "24": "7df64394f8b5298716453c077875ff9c546560cf326fdb7efb22fdff783bd31e"
+   }
+  },
+  {
+   "code": "1f606",
+   "slug": "grinning-squinting-face",
+   "name": "grinning squinting face",
+   "emoji": "😆",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "a063e854c555d41fcee11726012e30974895bcd7180656946d17f8b15c377865",
+    "24": "303df5584833927ecab2d0dfb59f0e4f807b0c857a037c779d54582f7c4530f7"
+   }
+  },
+  {
+   "code": "1f605",
+   "slug": "grinning-face-with-sweat",
+   "name": "grinning face with sweat",
+   "emoji": "😅",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "21c71f171ad9bd8d8d14f9ea2fcdc9e8144f5bac928a1deb82570006806181b3",
+    "24": "508c93f025db9a074d219e24de9c3d2b5d6eb1ec60554698eec13ba204a931b6"
+   }
+  },
+  {
+   "code": "1f923",
+   "slug": "rolling-on-the-floor-laughing",
+   "name": "rolling on the floor laughing",
+   "emoji": "🤣",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "d36c489c50a52f16c3c8bdc7224d014ae6a60058d6f519e2718bc272c458dd36",
+    "24": "12db5ebfaf20ed905198a92eca7997886a8f9d7577cca118e33efa6fae263af4"
+   }
+  },
+  {
+   "code": "1f602",
+   "slug": "face-with-tears-of-joy",
+   "name": "face with tears of joy",
+   "emoji": "😂",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "304d46548916a6b6bfcb25e9eb2095b9a3c82d141313d9c10087775682d0f116",
+    "24": "24378dbfe6acc9ef84260b864c41ef3be3dc667653bd56626fad9389839c6843"
+   }
+  },
+  {
+   "code": "1f642",
+   "slug": "slightly-smiling-face",
+   "name": "slightly smiling face",
+   "emoji": "🙂",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "5645b61c0c8669f698011d49fccafff1b843b68ef46da8761c55c36f1e95de1b",
+    "24": "89fa551ee1c11e2a04a8679e38c307fa669f9038fe932c1812d4fc10427e536f"
+   }
+  },
+  {
+   "code": "1f643",
+   "slug": "upside-down-face",
+   "name": "upside-down face",
+   "emoji": "🙃",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "9043c7f5e71707e7a4e5ff2db45465a8cb9b2f0b2592a50a57ea95fee179fb0e",
+    "24": "ab6982d0a234d2afcfd7878515f339efcda72dece0e34ab37482664c9ee0af5b"
+   }
+  },
+  {
+   "code": "1fae0",
+   "slug": "melting-face",
+   "name": "melting face",
+   "emoji": "🫠",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "smiley family",
+   "pixelSha256": {
+    "16": "f82658109d157a91178ef8ca69ce7d7ce4d66499681720a7212311dd135fd4ff",
+    "24": "a09ded78c76f0b47bc0b2c5b602e40ab454606978867aac4dc3280d1cb3cdde5"
+   }
+  },
+  {
+   "code": "1f609",
+   "slug": "winking-face",
+   "name": "winking face",
+   "emoji": "😉",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "568ed1d6621c96176e88c3df76be1d6a9cd6890fa33ea32b0c0a65465a22707e",
+    "24": "0bf68f473d8aeea37695cc4a42e3fe81508b178e4b7839851c83c767970bb9f6"
+   }
+  },
+  {
+   "code": "1f60a",
+   "slug": "smiling-face-with-smiling-eyes",
+   "name": "smiling face with smiling eyes",
+   "emoji": "😊",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "f8f6505659ecbbab3cabdc3ba47f15031a150cc20e6b4c34ba6692fbc21f4924",
+    "24": "57055abc845d26c62eea269e8d8a3368c2e8f0107aaf6089a818cafa932cafe5"
+   }
+  },
+  {
+   "code": "1f607",
+   "slug": "smiling-face-with-halo",
+   "name": "smiling face with halo",
+   "emoji": "😇",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "f20f6bd55a5531024ef0ad099940607405eb9ed01a6b95c17e87e4c650fd8f92",
+    "24": "8cdd642cd36cbc6974d258a7dcc8036ee7b6ca701c8e34106dc933b98f73de5f"
+   }
+  },
+  {
+   "code": "1f970",
+   "slug": "smiling-face-with-hearts",
+   "name": "smiling face with hearts",
+   "emoji": "🥰",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "b730dfd61f6fdf7382e662ffcafe76ea3dd8b1c4de080068cdbef70b10dca8ce",
+    "24": "698c4c1f1e067e7d0a8cdb0f07a65ece05dd6a2881fbaaba3538df41a5f158a2"
+   }
+  },
+  {
+   "code": "1f60d",
+   "slug": "smiling-face-with-heart-eyes",
+   "name": "smiling face with heart-eyes",
+   "emoji": "😍",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "cd8edf9aae2cd485ea5eefb39db92afb71c797a1b9b3229cbb3d3db84ff0ee95",
+    "24": "c4374af2d8243ead51360712926e0f79e2f4f9081100f0e93a627b2e266caba3"
+   }
+  },
+  {
+   "code": "1f929",
+   "slug": "star-struck",
+   "name": "star-struck",
+   "emoji": "🤩",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "f327a7cbc5b1a594c215d184f43bb186b30fbcfbd6a3f2acd2ad7860131c0c72",
+    "24": "17d757e3d069b478af47f73d8ebdff45ad1df967bdc79bc03a0dcd444fe4a2c8"
+   }
+  },
+  {
+   "code": "1f618",
+   "slug": "face-blowing-a-kiss",
+   "name": "face blowing a kiss",
+   "emoji": "😘",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "3f51226ef9def9b06f8559e64729bdac1ae0a286dc9011fe908aad9608981601",
+    "24": "e75442ec68d5c1a5adce487a18e55e82b879267008f71416c2d4a5379d96cb1a"
+   }
+  },
+  {
+   "code": "1f617",
+   "slug": "kissing-face",
+   "name": "kissing face",
+   "emoji": "😗",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "c079f67a7550f726e7a2ce347dde45a2f629ba815db9b46cebbb122b01fafe87",
+    "24": "5457589d42a482328a43610c1b36aa971c0f3ab76e233e3ff6bdce2268d3dbe9"
+   }
+  },
+  {
+   "code": "263a",
+   "slug": "smiling-face",
+   "name": "smiling face",
+   "emoji": "☺️",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "ad62d20c6cae6968775d7e95a2324752a1f621450d944ebf2fbd320cade2c85a",
+    "24": "42d073c4971a5eb698c13a4d9cf5592907a12e1d9ec7fadcb0ac9d46096cf59f"
+   }
+  },
+  {
+   "code": "1f61a",
+   "slug": "kissing-face-with-closed-eyes",
+   "name": "kissing face with closed eyes",
+   "emoji": "😚",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "2f0324b3c286de59ae7eba8567c4565972d9983753f9ed1f32d3808985dfea44",
+    "24": "d439ad79af1ffc9da779d732792c0b6b243c19e5ad7dd536d65f9863270dfd63"
+   }
+  },
+  {
+   "code": "1f619",
+   "slug": "kissing-face-with-smiling-eyes",
+   "name": "kissing face with smiling eyes",
+   "emoji": "😙",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "7c4400c7aa59896f7785a8b487ab5603f4063173394f61348c6055a136fff807",
+    "24": "fe96a19590f7bf152b47627e446401131bfec8f5bf488ae7003cc5f5e9c39c36"
+   }
+  },
+  {
+   "code": "1f972",
+   "slug": "smiling-face-with-tear",
+   "name": "smiling face with tear",
+   "emoji": "🥲",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "c59e3af07ba3b770dacbce2084e7fc508e0099aef183fb3f918bf5c46acb8dad",
+    "24": "427057ddf4fd6eb762ff54aa5e98fa034319b5362530b9c4602ad94b8374c119"
+   }
+  },
+  {
+   "code": "1f60b",
+   "slug": "face-savoring-food",
+   "name": "face savoring food",
+   "emoji": "😋",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "48bcb05f22030c5eb4405b778b468c23450f6929d123c647672e1a0196b8c3ad",
+    "24": "83eff32d670490f8d7c95962fe9745917f3769ceecfdfe08a38193d0b1f9f66c"
+   }
+  },
+  {
+   "code": "1f61b",
+   "slug": "face-with-tongue",
+   "name": "face with tongue",
+   "emoji": "😛",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "1ca885b6005ab33f7c72b349f2445d0ec882db683ebeedbe441c89ad4b57ead8",
+    "24": "b22688b2e35352ebd65655d45c8cdb8b017969e4039a86321ec6c3c2e960e91d"
+   }
+  },
+  {
+   "code": "1f61c",
+   "slug": "winking-face-with-tongue",
+   "name": "winking face with tongue",
+   "emoji": "😜",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "447dedb65e8087cae5bbfa801f953f5111354bb2cf48969d3297f25fdfd86f84",
+    "24": "42edd8d8ec395840c242de54016d77f3cd730813e941fd1ef17057136af72f9a"
+   }
+  },
+  {
+   "code": "1f92a",
+   "slug": "zany-face",
+   "name": "zany face",
+   "emoji": "🤪",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "dbd59ca6eeab5606b9e7b4d16d00f3a618a9ad5dd296c376fb1eeb0b8b561b26",
+    "24": "9386cb893365126230f980295af322a81c67203434d2f48b823cfa52b3a7ddaf"
+   }
+  },
+  {
+   "code": "1f61d",
+   "slug": "squinting-face-with-tongue",
+   "name": "squinting face with tongue",
+   "emoji": "😝",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "758b72ae3aa59f5665d2a3b2e5ed4ee48940c9e8bdcac1ae05533d4493c4f625",
+    "24": "bbd4754a7cd5caefaf26f8dfdc4ed404818554e80453cc3e35d0d68dd59096ff"
+   }
+  },
+  {
+   "code": "1f911",
+   "slug": "money-mouth-face",
+   "name": "money-mouth face",
+   "emoji": "🤑",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "1ad86e28948b82d3213faf203d890d3a3d0b8008b60dcc9e528e656214fb3049",
+    "24": "25168f8a695c47d51e0237e7527a60c9ae224116fbb72abf840ef4fbdf81c621"
+   }
+  },
+  {
+   "code": "1f917",
+   "slug": "smiling-face-with-open-hands",
+   "name": "smiling face with open hands",
+   "emoji": "🤗",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "84a1864247f63db3a1b335a1d970bcaa58d4d8092248e29ba52415c156276ac9",
+    "24": "1cd01595674c0ebcc71f671f89cb28e32b1d3a664c06f85b85ef159d793397ef"
+   }
+  },
+  {
+   "code": "1f92d",
+   "slug": "face-with-hand-over-mouth",
+   "name": "face with hand over mouth",
+   "emoji": "🤭",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "f37e26ba1226d4480a07251e3931d84ad77190703cbcb26dcdcd8184904b7fb4",
+    "24": "fa20afe8f1f336582b69c11ec20607c1fd05b8e2bd90f8d69367e8dcf5b39dbb"
+   }
+  },
+  {
+   "code": "1fae2",
+   "slug": "face-with-open-eyes-and-hand-over-mouth",
+   "name": "face with open eyes and hand over mouth",
+   "emoji": "🫢",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "2dbeed6fa4afbb63c99f5c0201ad903cf3906f2b0fd3dc9efd175b2a39defe48",
+    "24": "2875028a42872de0a8ee9a1e4c5015de82d98cc16440f612adba7a553f5cbca5"
+   }
+  },
+  {
+   "code": "1fae3",
+   "slug": "face-with-peeking-eye",
+   "name": "face with peeking eye",
+   "emoji": "🫣",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "f46c944eff22bd15009553cf34b9d15207b36b6c6d9786141c576bf404eb696a",
+    "24": "f2877a009221f830e4caddaba56fa6f66365edadd27fd9281433d8afa7650f2d"
+   }
+  },
+  {
+   "code": "1f92b",
+   "slug": "shushing-face",
+   "name": "shushing face",
+   "emoji": "🤫",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "2f2195449ea6a9369061b3491420b17d6da135c3df3f8a7b5a68458e0cf050fb",
+    "24": "122415ccf17ed51fb4de0e03b82bd19a628661d5480a1a9fa9880164914ca04b"
+   }
+  },
+  {
+   "code": "1f914",
+   "slug": "thinking-face",
+   "name": "thinking face",
+   "emoji": "🤔",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "a003dd5aaf90f32c28cfdd112b18e1d9ec37548675b0c84e90d8ace426a93553",
+    "24": "fac57597ccbb23d3861a80be49c48bdf8799faadb70671ce29253b6be61c322c"
+   }
+  },
+  {
+   "code": "1fae1",
+   "slug": "saluting-face",
+   "name": "saluting face",
+   "emoji": "🫡",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "96d4b820fb2f805a8516751ebe407204bda46dcaffcbff1313f7f7b0a9f10580",
+    "24": "e87c23fce0fb2e99ae585a4707286a3339f6ab517845d2237d1f5c680aa439ef"
+   }
+  },
+  {
+   "code": "1f910",
+   "slug": "zipper-mouth-face",
+   "name": "zipper-mouth face",
+   "emoji": "🤐",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "0032ccdf09adf3d2c2f98539e3d61eaf981239fc52ea6c0fbf6841819527be40",
+    "24": "4b558b6a57a86da9a6af8c6104901ebbae9f13eca5209f300c2ac62013aaf432"
+   }
+  },
+  {
+   "code": "1f928",
+   "slug": "face-with-raised-eyebrow",
+   "name": "face with raised eyebrow",
+   "emoji": "🤨",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "67e88dfc0c1f8c715ac515976ac57e2403f96488c8242e75287b11c63f408ea3",
+    "24": "909619974b30cde4c1c453134865e35070b8e9b41ea0da8d780d910dc99dacaf"
+   }
+  },
+  {
+   "code": "1f610",
+   "slug": "neutral-face",
+   "name": "neutral face",
+   "emoji": "😐️",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "d168ea98d009312971eb69ad5bfbaabaffb7d7969343a9b8aa8774833ddea6d6",
+    "24": "c947181ef927bcea366e9445ff7da3942981b2af594eab38c979604ae0292d83"
+   }
+  },
+  {
+   "code": "1f611",
+   "slug": "expressionless-face",
+   "name": "expressionless face",
+   "emoji": "😑",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "b70eddb1526f2dba538297dc60ba1ab2c3fc9e82ad2565b0f975a82263f16f23",
+    "24": "4ce436d0c88b745f48ce3f828a0070485419ccd769a35babedb07175ad2d82f3"
+   }
+  },
+  {
+   "code": "1f636",
+   "slug": "face-without-mouth",
+   "name": "face without mouth",
+   "emoji": "😶",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "bdd9f3657d38c6b5b6b6578636d303a997a3d7d5997ec88c25bd861c7f45059c",
+    "24": "f0b917560440bcab316d9677fbc52524d9abca6a913bb8e362864bfcac53aefd"
+   }
+  },
+  {
+   "code": "1fae5",
+   "slug": "dotted-line-face",
+   "name": "dotted line face",
+   "emoji": "🫥",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "smiley family",
+   "pixelSha256": {
+    "16": "e31cd0be6fac6d1da04f510419c53dd90033caa1d7e9b85d2cdf5f387d8b8cd8",
+    "24": "f5414ae84595a4dfe01c33c4f1af09999be30ce7f844564e746a31e97227760b"
+   }
+  },
+  {
+   "code": "1f636-200d-1f32b-fe0f",
+   "slug": "face-in-clouds",
+   "name": "face in clouds",
+   "emoji": "😶‍🌫️",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "smiley family",
+   "pixelSha256": {
+    "16": "c21ee16bab44b0d63312086d9f3bbc9e83d4676d1a87efa58674e344e1a80a0e",
+    "24": "725a5c7ce5a13d7fb84cdc7c7fa1cda1dceff54ec88acabd4f37fa21a6627bda"
+   }
+  },
+  {
+   "code": "1f60f",
+   "slug": "smirking-face",
+   "name": "smirking face",
+   "emoji": "😏",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "ef09bafdbac8221465e11fc9fb451b817de754a7bc8d39c7bf833e81acfcaf25",
+    "24": "a455b5ddaf6a1e6e0a1550b625ae2946cfe297061ab54bbe8a7f7ff0fcc9b9cd"
+   }
+  },
+  {
+   "code": "1f612",
+   "slug": "unamused-face",
+   "name": "unamused face",
+   "emoji": "😒",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "4fd38aa2fa91744b418d8d31d0bf0dd8d0d6ed89ba5518a9aeee1b71c09d81fe",
+    "24": "307daa4bd1df999f01577067e9280d69afdb83f9cc4dacf0efddde66eafad390"
+   }
+  },
+  {
+   "code": "1f644",
+   "slug": "face-with-rolling-eyes",
+   "name": "face with rolling eyes",
+   "emoji": "🙄",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "0d842e197c72052fd24a30878049f954e3797444d7bda7cd140f9dc48ec1941c",
+    "24": "beb058c44a42f29f9549130e485a92b445390f7f4e86d0e8f8e3222de894f8c4"
+   }
+  },
+  {
+   "code": "1f62c",
+   "slug": "grimacing-face",
+   "name": "grimacing face",
+   "emoji": "😬",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "54f310d97df7acb2261a44b18a9db4598817c81e4b1d5fbb119ae50c44df55d6",
+    "24": "1dddf6d6b5843bb0ddd99f920522dca36d5c69348fc4d5b6319d002b068182c8"
+   }
+  },
+  {
+   "code": "1f62e-200d-1f4a8",
+   "slug": "face-exhaling",
+   "name": "face exhaling",
+   "emoji": "😮‍💨",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "a3db355fba4dfe523370146e6acb95f79fd219a2cf4f4e716fcc7ebad5e8dc7c",
+    "24": "0640e29545649ffb33d4511850391c208535a795af34fb2f68a5d43c89a983af"
+   }
+  },
+  {
+   "code": "1f925",
+   "slug": "lying-face",
+   "name": "lying face",
+   "emoji": "🤥",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "85cb96796b35770bdfcafe304c0cff5374c92a248249998ca45e7ed62035d1bd",
+    "24": "f9e213885c1ffde6c0fcf778dc6e4aadfff832f729073af842fba48c50b90164"
+   }
+  },
+  {
+   "code": "1fae8",
+   "slug": "shaking-face",
+   "name": "shaking face",
+   "emoji": "🫨",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "204010ea650963cfeeee238cd41dbba05040bc270584e5e5d834511fb39bac87",
+    "24": "dd0da46aff5a5cda6b776115e9c076d2e650b44f761edecdae36008772a385cd"
+   }
+  },
+  {
+   "code": "1f642-200d-2194-fe0f",
+   "slug": "head-shaking-horizontally",
+   "name": "head shaking horizontally",
+   "emoji": "🙂‍↔️",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "892f3d41282dc3b01e9688b338b4c639f63ec29d9860b1096266089785a837f3",
+    "24": "847785b0dccceb8f3f801414e3c0045cbb70f3a6a68de5f5db9e0de3888e7bbb"
+   }
+  },
+  {
+   "code": "1f642-200d-2195-fe0f",
+   "slug": "head-shaking-vertically",
+   "name": "head shaking vertically",
+   "emoji": "🙂‍↕️",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "493d27a6c9b698dd46bb5730c32ec0f8b3a8bdce4137fe6fe2822f6e479fb3a9",
+    "24": "9de64a3935349a9a4ef83be2014e8b44bee2e4998b249aa5c148743e8f3729af"
+   }
+  },
+  {
+   "code": "1f60c",
+   "slug": "relieved-face",
+   "name": "relieved face",
+   "emoji": "😌",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "2efc6d6e5a3151d982ca87f68787c9460dafb23379233de0dca9846cdb22da3a",
+    "24": "bef59764fcb31ec214e7219d2faba15869a3a7432b2eb5aa48aaae1a7cc8808f"
+   }
+  },
+  {
+   "code": "1f614",
+   "slug": "pensive-face",
+   "name": "pensive face",
+   "emoji": "😔",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "c59bb2e872763d710c09711e547634376f2888690437a27d587785295f40ee88",
+    "24": "80031ec4e8044dc561951f515c7438c96c7a2d7bd3cdb7c2d1f2dc73c318f85e"
+   }
+  },
+  {
+   "code": "1f62a",
+   "slug": "sleepy-face",
+   "name": "sleepy face",
+   "emoji": "😪",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "0f3935e930cc124a52f4c2b9055cec745e439f6c635db12cd680fc1fb1c0d607",
+    "24": "fae41329dddcc211adc1a7d941bdb777191d55b28144fab0eba5be0c8fd32ef4"
+   }
+  },
+  {
+   "code": "1f924",
+   "slug": "drooling-face",
+   "name": "drooling face",
+   "emoji": "🤤",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "0a56ea374b3e4ceac99b16da40aecfec75910bc8aaf7455ec44c8c49dbfe1621",
+    "24": "7ed57997b5a06925b5141d62ffb366b8185b625a95c702057cae8dd465f6ef76"
+   }
+  },
+  {
+   "code": "1f634",
+   "slug": "sleeping-face",
+   "name": "sleeping face",
+   "emoji": "😴",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "87c4036d3856ec74cf15d19ad313da0a9d2a52c66a50ca088cf6e84e1e51f395",
+    "24": "814c19dcf4aef76c8486d20528dc9330fd33b88b03d3cf8cc8f8ddf5c9bb321c"
+   }
+  },
+  {
+   "code": "1fae9",
+   "slug": "face-with-bags-under-eyes",
+   "name": "face with bags under eyes",
+   "emoji": "🫩",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "19645f830357257cc7c1a32dc585ab768f75c29b61d26745ac22a9cb99797ea8",
+    "24": "5dbf32081db335ef178009420b4ca3aa5bca9aec6dcb2ff9347a366861e9ec38"
+   }
+  },
+  {
+   "code": "1f637",
+   "slug": "face-with-medical-mask",
+   "name": "face with medical mask",
+   "emoji": "😷",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "5c1b4d0bb1e0252a131c962fc48ff81166088e8d075b181da058affcaefb13f0",
+    "24": "4fa837af83359401436a4c2fdea9a261d1632abd569e41144eb1a84fd8fd7398"
+   }
+  },
+  {
+   "code": "1f912",
+   "slug": "face-with-thermometer",
+   "name": "face with thermometer",
+   "emoji": "🤒",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "4a4594b58161a5d1efe1e7f55f27bf9707737752d1a9d03494d6a200fc725b08",
+    "24": "cdb8aed6809aec63ce7cbcf5d24e9cbda45ba8a3438a80a76f4ce62e7f7045cb"
+   }
+  },
+  {
+   "code": "1f915",
+   "slug": "face-with-head-bandage",
+   "name": "face with head-bandage",
+   "emoji": "🤕",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "8817425e1efab9bdce788eb5e201f3aa929a319ae5fcb05716dc4d7790df12c1",
+    "24": "040b7eb183e17a72b2ac4e680e089b657985354e83d627a4280785d0fa3b3b10"
+   }
+  },
+  {
+   "code": "1f922",
+   "slug": "nauseated-face",
+   "name": "nauseated face",
+   "emoji": "🤢",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "3cc01ea89ea854126a23bffe775c8306cd1d8812e2197464f45e121f8d750f6b",
+    "24": "df341e1146a40dfa2de08dade6daa29b5f76099c5d6430cb024a5f18320f5411"
+   }
+  },
+  {
+   "code": "1f92e",
+   "slug": "face-vomiting",
+   "name": "face vomiting",
+   "emoji": "🤮",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "bc6a94e62a3e2963a9b2e4421bcbf78eac4a4af87bf637237b3d97ccc07a86b5",
+    "24": "75ba513a3c096074b1b0c6e5a4c5f70384292ed62a0bf66185ff01c5535a425f"
+   }
+  },
+  {
+   "code": "1f927",
+   "slug": "sneezing-face",
+   "name": "sneezing face",
+   "emoji": "🤧",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "52b52291ce9c8cdc583878008f1d1bb66d08df624822562f62831d6594cb7f55",
+    "24": "69b070f3c7ed05af4960897725686fdba74cfb9486be954e2fea6c8760a47243"
+   }
+  },
+  {
+   "code": "1f975",
+   "slug": "hot-face",
+   "name": "hot face",
+   "emoji": "🥵",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "6b670d3be2253abcd5e485315da88e3b0f25a9c3f00e4d0083fbfb2749395932",
+    "24": "ea65501e172c952787e5d192c2d7e7556812b4fbd4144e4d2413e27f3a1ad904"
+   }
+  },
+  {
+   "code": "1f976",
+   "slug": "cold-face",
+   "name": "cold face",
+   "emoji": "🥶",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "ade1e64b3cb20e3d76c761d214170651d0aa77269fe01f800aa3f7f8a08cf211",
+    "24": "7153d0fafdd7dea23f4f4b85d151192802a9a5ba57af49d4c8793541dda48e78"
+   }
+  },
+  {
+   "code": "1f974",
+   "slug": "woozy-face",
+   "name": "woozy face",
+   "emoji": "🥴",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "1c5d08b9e4a9aadf7216b5086c4ae4c5ae6c984cc5d066e4616e8c450be94e5a",
+    "24": "c879a2c2f0a55fd0bf987b61aa00079a8bb3e4c9302ce855f31caa7fc6df8329"
+   }
+  },
+  {
+   "code": "1f635",
+   "slug": "face-with-crossed-out-eyes",
+   "name": "face with crossed-out eyes",
+   "emoji": "😵",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "83832dd60e633630e9ab412bb9f304e407e499593ec5f6426f86a67539bca177",
+    "24": "ac1a58b917b7c81c684f351d92ecfdc1732fd349b49369b70ae445b222e26414"
+   }
+  },
+  {
+   "code": "1f635-200d-1f4ab",
+   "slug": "face-with-spiral-eyes",
+   "name": "face with spiral eyes",
+   "emoji": "😵‍💫",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "32be9f7e531c4c388bb344f38f25acde56ee425c3f0879c33c3817aadf5ac7b1",
+    "24": "224fcae1f63367eaeaee2be70e7ee276642eee6cc25cbf2c3105ccc10e8958f0"
+   }
+  },
+  {
+   "code": "1f92f",
+   "slug": "exploding-head",
+   "name": "exploding head",
+   "emoji": "🤯",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "434043a66a7c3a0c815e1d23cbfbf897f7d10a041f126037d22d8efb140226d6",
+    "24": "529084d38871db66f339ba81e7084facd7e06a6dd7262b6d6d8b60cb73a77384"
+   }
+  },
+  {
+   "code": "1f920",
+   "slug": "cowboy-hat-face",
+   "name": "cowboy hat face",
+   "emoji": "🤠",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "1747ddf96187af7d7d2cc12ca8f8df47fe06532b73c3814bfac91a6bc168cb63",
+    "24": "2d1279a45fcd5e9b213decc5317566d4bdc9f6765f33e6f47f5bf6c7013db100"
+   }
+  },
+  {
+   "code": "1f973",
+   "slug": "partying-face",
+   "name": "partying face",
+   "emoji": "🥳",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "a816e20e6175a2c091b6bae9bb6135be79177698acc447edeba65fbbc70ffc0e",
+    "24": "5f4e107508c71c8d3621e1d96048ee5dc5462b98b331afb4d4e0fef792aa8042"
+   }
+  },
+  {
+   "code": "1f978",
+   "slug": "disguised-face",
+   "name": "disguised face",
+   "emoji": "🥸",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "smiley family",
+   "pixelSha256": {
+    "16": "07e9f760bd3e610b16a5775cb44067c09b63682fe62e00deaa0237e24555e7bb",
+    "24": "39fd0984e725b92ab1b3a810bb58f4b09ac242d67583a4b5f3dfb9ea4901f312"
+   }
+  },
+  {
+   "code": "1f60e",
+   "slug": "smiling-face-with-sunglasses",
+   "name": "smiling face with sunglasses",
+   "emoji": "😎",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "5cf625ffe167034e80d8f1022d7344a70fa5c155857dafabc420c7fb9326944e",
+    "24": "b3a03e28fa2c56f3e705156397fb383fe1ef37e101df7751437a696f9db0bafd"
+   }
+  },
+  {
+   "code": "1f913",
+   "slug": "nerd-face",
+   "name": "nerd face",
+   "emoji": "🤓",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "0e70fbc3dd1450b14f3e836fa523f22e926a923a5429c569579104b5b9b9bdd9",
+    "24": "eaa8f4a1e8a7d288486541bda62dde0a1c279c6b805411872fbeb32c3ab3266d"
+   }
+  },
+  {
+   "code": "1f9d0",
+   "slug": "face-with-monocle",
+   "name": "face with monocle",
+   "emoji": "🧐",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "6415f76c0eab0d785aebba58af7e8d124523d1fa82c1463a8ad503ba4ec65bac",
+    "24": "667e74fcc1926084ed3ba9fe3f0a87e51ecdc7d5b67166a14455fcdc8f77b26c"
+   }
+  },
+  {
+   "code": "1f615",
+   "slug": "confused-face",
+   "name": "confused face",
+   "emoji": "😕",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "e9e709b1fc1e94759587b79192c04b7316f4c301a79a06697fcecc8c13d1e7b7",
+    "24": "97fc6cf4eb498784eea47c651e1f85e89e9141bbcf9dda730b4c9e4cd56965be"
+   }
+  },
+  {
+   "code": "1fae4",
+   "slug": "face-with-diagonal-mouth",
+   "name": "face with diagonal mouth",
+   "emoji": "🫤",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "c7f33ba2393547278715303820840d693035991122299fb472f93195b11d255a",
+    "24": "d46bd17883b8b72ebddf37e1b6d1393e40bd47f4e27c292d35f7748443db9d28"
+   }
+  },
+  {
+   "code": "1f61f",
+   "slug": "worried-face",
+   "name": "worried face",
+   "emoji": "😟",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "c5908f7504fa9ee8ffec01f9d005f11e12dcde83177e53a38cf41c40e70f7e87",
+    "24": "d194ed191920c67a9e9dc40c96f48e3f0abbed06545b7880e7b02746f1831597"
+   }
+  },
+  {
+   "code": "1f641",
+   "slug": "slightly-frowning-face",
+   "name": "slightly frowning face",
+   "emoji": "🙁",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "488f7f7b6a9a9b1871eaf18b4ac4ca4128fbf697c817f4bb25a9819f104f2ccc",
+    "24": "d6c897c4780d67224f2fe680cbaad5a78a43339e597271457ea89cfbc862a757"
+   }
+  },
+  {
+   "code": "2639",
+   "slug": "frowning-face",
+   "name": "frowning face",
+   "emoji": "☹️",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "ad1a22402f38ea5f74d1b078e545bf444f9639fef3c14eecb4a50bf7ea0d164f",
+    "24": "a83628628f59cbce40c1019c679fe4a460691a4fbd4da8857fa925bd47e9a775"
+   }
+  },
+  {
+   "code": "1f62e",
+   "slug": "face-with-open-mouth",
+   "name": "face with open mouth",
+   "emoji": "😮",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "e86385607e4cf22b51e9aa123db9555a9d1c23c9f4feb70512594297c4ccfde5",
+    "24": "43fbb5ad753b3be4f5fdb180a1f9b24198ce0482f902b68d5b3827c086b08a2b"
+   }
+  },
+  {
+   "code": "1f62f",
+   "slug": "hushed-face",
+   "name": "hushed face",
+   "emoji": "😯",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "f267121334fa023d722d14a5e44345167ca845811f8baf0ca2b72d0188e2157f",
+    "24": "c9aa63d66c9e43f2e8ec4e2b4ebe3d420350f1f3a4a1102f05d854d8c4191374"
+   }
+  },
+  {
+   "code": "1f632",
+   "slug": "astonished-face",
+   "name": "astonished face",
+   "emoji": "😲",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "bc1b981d0901ddfac4fd1b4f9927f4a75e5bb2258d66a2d06f8c1cb9f76c16e7",
+    "24": "62e8d554f65edde44deddaa212877ae8417a31bf2c61de3088f45eb5a506abaf"
+   }
+  },
+  {
+   "code": "1f633",
+   "slug": "flushed-face",
+   "name": "flushed face",
+   "emoji": "😳",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "4cdf9423de989e7d0133d029a85828f60a760ba3d5182b7ca73d9bc258a19a14",
+    "24": "061e86fa44a484c89bfdad79267a6ad6581a4b717485500202aae3322f5c6105"
+   }
+  },
+  {
+   "code": "1faea",
+   "slug": "distorted-face",
+   "name": "distorted face",
+   "emoji": "🫪",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "9717ef756b722c430e178135d32c6a68ebfd8d87db25118b8f4f1170f7056642",
+    "24": "ee00b1f932eeb07571f6925258ab12e154004cbc04533b89bd4d18f3c95fe294"
+   }
+  },
+  {
+   "code": "1f97a",
+   "slug": "pleading-face",
+   "name": "pleading face",
+   "emoji": "🥺",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "356f08b753e979d60df3f1e12020c1d8c5a1d5bdb4183d8798609167e93de31a",
+    "24": "38639290d8b14864012ef53d8e7fe272352aa90031d8a7150b30cff5a0da0057"
+   }
+  },
+  {
+   "code": "1f979",
+   "slug": "face-holding-back-tears",
+   "name": "face holding back tears",
+   "emoji": "🥹",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "1f2347cfeefcc0d5fe67b965f2633e0d50db2cf5314a93acfeaccd7b734e249b",
+    "24": "87bc0a4f65d15dcd54600e6db336867035c57d724263f35cc051e5818d606d3f"
+   }
+  },
+  {
+   "code": "1f626",
+   "slug": "frowning-face-with-open-mouth",
+   "name": "frowning face with open mouth",
+   "emoji": "😦",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "1481a42696ca7416a6a1b91a4558fe6207fbc050646f26158f758d0d48ffe28e",
+    "24": "f111304171a396d32ab645d26672b49f6db7f5498b39a70e7211a59be21bbc54"
+   }
+  },
+  {
+   "code": "1f627",
+   "slug": "anguished-face",
+   "name": "anguished face",
+   "emoji": "😧",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "971ad5a489e100f2e81c7b2d420335c461fb90a3909f610cc69cdf23a6c67643",
+    "24": "b648d73dd3f9e2d4b566075d83f265044c90fdc6fa535908d346a28586320da3"
+   }
+  },
+  {
+   "code": "1f628",
+   "slug": "fearful-face",
+   "name": "fearful face",
+   "emoji": "😨",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "smiley family",
+   "pixelSha256": {
+    "16": "6aba2643945db7fc582ae8b4530d036a6d13e4a0cd6352c0202a541279b1f0fd",
+    "24": "9c5c179f496b2b1337e16bc7333e89116e78de12367cfd7f1f80f5a7c45e8fb2"
+   }
+  },
+  {
+   "code": "1f630",
+   "slug": "anxious-face-with-sweat",
+   "name": "anxious face with sweat",
+   "emoji": "😰",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "smiley family",
+   "pixelSha256": {
+    "16": "f096ffcb0c1e65697aba4ea512dea7a0e52272dd401ca39d89c0081381be21d7",
+    "24": "9c8956565dc76f84283dff0aef9a63d087cde3cef4c9b39dc531a5bf2a0cb145"
+   }
+  },
+  {
+   "code": "1f625",
+   "slug": "sad-but-relieved-face",
+   "name": "sad but relieved face",
+   "emoji": "😥",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "c5d5190520b5a1e0e3602f0e4c5c5d19acf30f990cc5bd953a7f54333ebf9df8",
+    "24": "99437ba57f2eb1f6140f2656c2070a22b09df42a144b8e8e3bbd66396a9acd39"
+   }
+  },
+  {
+   "code": "1f622",
+   "slug": "crying-face",
+   "name": "crying face",
+   "emoji": "😢",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "703a1147b8d6445e78bf51a6e7eb4dc2d3401126981061fe2800884dd6197299",
+    "24": "c78600c0e7aeed07a528f2767da8ffc6d404f3096fdf264343ccf442219a227e"
+   }
+  },
+  {
+   "code": "1f62d",
+   "slug": "loudly-crying-face",
+   "name": "loudly crying face",
+   "emoji": "😭",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "f9c28e634a41552d14a7716166bcc972ce24678c0e13ad7c151ad40af053d19d",
+    "24": "e333d227a0b700076ee75c40a10a5af7a361bbd43885772d32a419477e7be0f2"
+   }
+  },
+  {
+   "code": "1f631",
+   "slug": "face-screaming-in-fear",
+   "name": "face screaming in fear",
+   "emoji": "😱",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "018c94843aa512fc0de9e96b699216860e2b489c267db0d520eca08112baf121",
+    "24": "819ab3feae212c037f07b499fc2f480ccc28d6a089ba526af3bad1d18d86aecd"
+   }
+  },
+  {
+   "code": "1f616",
+   "slug": "confounded-face",
+   "name": "confounded face",
+   "emoji": "😖",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "da71fccc43c829c1302f5391802f9045f3dd16dd895656649fa93cc83955d673",
+    "24": "cf796921950fb16cb852ce64d41a54af504e85c53b5624696c7e6edc8d33febb"
+   }
+  },
+  {
+   "code": "1f623",
+   "slug": "persevering-face",
+   "name": "persevering face",
+   "emoji": "😣",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "52903d44824824ec196d388d1d58a3551d7a416b88d1f5eeb109c4b6cd02d0e5",
+    "24": "b4a346a39df88db6abe8242d98fc1b6d419ef2ebbf8c266fc04ab98a35149e9e"
+   }
+  },
+  {
+   "code": "1f61e",
+   "slug": "disappointed-face",
+   "name": "disappointed face",
+   "emoji": "😞",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "735dbe7cbd33145f36f1bc2f93aa233b252fe248cb287d081d9873e4fbff333a",
+    "24": "85399e87d442bb71fd1ccb6d6ac858b898e8e1f279d5e2076252d21befe808a9"
+   }
+  },
+  {
+   "code": "1f613",
+   "slug": "downcast-face-with-sweat",
+   "name": "downcast face with sweat",
+   "emoji": "😓",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "a3c7d3c098278751d74b0dc1b8ca78af6e65d72c696676980645630566e5fef1",
+    "24": "9bef7a2f69a985eda2e94054501aba43f7cca10282102a02d0e281bb9e1773b5"
+   }
+  },
+  {
+   "code": "1f629",
+   "slug": "weary-face",
+   "name": "weary face",
+   "emoji": "😩",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "7223e296017a33f7f8b681c94724d97b4d6facb983606254e3c4dca2bc19d923",
+    "24": "59614c65915a6e796537eb14cc8d1fe46d44ac65051425c7c2a39ab914825646"
+   }
+  },
+  {
+   "code": "1f62b",
+   "slug": "tired-face",
+   "name": "tired face",
+   "emoji": "😫",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "ac0edb248d25b46da647ca1f81124104dc9e50da5996e99a8c3672aeaa3e2919",
+    "24": "5e739fa6554170c6610a0e6f4dc136ea22d60d20f934ed2b80d922ac09a38655"
+   }
+  },
+  {
+   "code": "1f971",
+   "slug": "yawning-face",
+   "name": "yawning face",
+   "emoji": "🥱",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "5c05be04604aaff9f2bf4e38feaa45ae31b9093bf64873014aa10d5df10f3c19",
+    "24": "82c9214bd700e6d4a1f8e698e1c49519dbe64bd761bc3dc604640ad0861707c4"
+   }
+  },
+  {
+   "code": "1f624",
+   "slug": "face-with-steam-from-nose",
+   "name": "face with steam from nose",
+   "emoji": "😤",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "313464feea78cc9a36339c1aa399dfd8587ed916b07b64a394d4f4140bc08da3",
+    "24": "03aa167b22e2051b51d4b5950b816de9765acc1baf94ee6a804bf72618d2e860"
+   }
+  },
+  {
+   "code": "1f621",
+   "slug": "enraged-face",
+   "name": "enraged face",
+   "emoji": "😡",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "8b792272573dc28f8ddc085d56a30a0cd87f0d71c30ad52dd62c5fd7d9674f63",
+    "24": "d188af389745b2fab821355f88bf40922085aca84dea44f12001bd09889c7f91"
+   }
+  },
+  {
+   "code": "1f620",
+   "slug": "angry-face",
+   "name": "angry face",
+   "emoji": "😠",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "164e22819c9d62babf074d152a2bd778a7a79b28371e3f9c81864badbdf84329",
+    "24": "2b02798ee5d0e4607922bd7d18cd679d54f6145cbd36b47a8be877f4b6e4ee66"
+   }
+  },
+  {
+   "code": "1f92c",
+   "slug": "face-with-symbols-on-mouth",
+   "name": "face with symbols on mouth",
+   "emoji": "🤬",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "658dea41800f2b24b22a86b9c43bdb5f58647db7e5ce93600828a9d830769fb8",
+    "24": "2cf9ce5351f64586a74a19d053589927e0b922b8ec8fafc1730762512d24d61f"
+   }
+  },
+  {
+   "code": "1f608",
+   "slug": "smiling-face-with-horns",
+   "name": "smiling face with horns",
+   "emoji": "😈",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "smiley family",
+   "pixelSha256": {
+    "16": "910e485d053b26b39dde215e49c317d83bf35979082cf805d8820e8ae6b85a82",
+    "24": "ee442b6f2669e1c0b9306c2e574e3a90f553b9890a1ec64dc074bcc1f465c79f"
+   }
+  },
+  {
+   "code": "1f47f",
+   "slug": "angry-face-with-horns",
+   "name": "angry face with horns",
+   "emoji": "👿",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "smiley family",
+   "pixelSha256": {
+    "16": "01397a7619d66eb9c4734f504f28d32e7f81f0b0ce6c49cd6c5fe643171e1ad9",
+    "24": "ed8ff51353748c40ab53a6b2254fbb28f48a5d41bfed22fb662c0a1bd6abd80f"
+   }
+  },
+  {
+   "code": "1f480",
+   "slug": "skull",
+   "name": "skull",
+   "emoji": "💀",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "3c8830738f5756a3c7655cfd347df0785e35f225ff50bc004f916ce06042e82a",
+    "24": "0f56f7e8f0d7949b1b50656c3dfe943ebd0b551f632de34113b252d626598d95"
+   }
+  },
+  {
+   "code": "2620",
+   "slug": "skull-and-crossbones",
+   "name": "skull and crossbones",
+   "emoji": "☠️",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "e6a46278a0a899da1109ff05f7ef130f2d8f7e8810fa80f2fe31c73ccf03aa57",
+    "24": "5d9fa0b9af715fa5211650c604a05056d4a777ece36c230a017c442a86ff6aed"
+   }
+  },
+  {
+   "code": "2764",
+   "slug": "red-heart",
+   "name": "red heart",
+   "emoji": "❤️",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "09815cd4c5f2174d26bac5174033b4d4e6683ddd7228d5c4c07dec1615096ec2",
+    "24": "c351a5c542a1505b16f0414388df98f0865845f104948afbbc8501c7378f075c"
+   }
+  },
+  {
+   "code": "1f4af",
+   "slug": "hundred-points",
+   "name": "hundred points",
+   "emoji": "💯",
+   "category": "Smileys",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "e5b55d2a0208d8611056245868f656cfa8ac839730621d31854f3cf7c8a221a6",
+    "24": "8c4fb552e924f10ecd982eba01ab49e289be12d184d86cba71b63516b10ec34b"
+   }
+  },
+  {
+   "code": "1f44b",
+   "slug": "waving-hand",
+   "name": "waving hand",
+   "emoji": "👋",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "hands and features",
+   "pixelSha256": {
+    "16": "f7f1afb96acb7a38950406cdf54106181bbdbf040ee1d9c391a807e90fde6612",
+    "24": "5f3905fcd670e3d492cc67b86eb3fc7f3796dd5108b9a3ae67eb70c435a7cd11"
+   }
+  },
+  {
+   "code": "1f590",
+   "slug": "hand-with-fingers-splayed",
+   "name": "hand with fingers splayed",
+   "emoji": "🖐️",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "hands and features",
+   "pixelSha256": {
+    "16": "f490bdde5d11c7b0b56aaff731c9731e83ca114c188e0f9995cc88afa3e24f00",
+    "24": "f84d87c08c00a10d3c3bbe08a772d28f0c62d8585b06cf24fc471838cffb7856"
+   }
+  },
+  {
+   "code": "270b",
+   "slug": "raised-hand",
+   "name": "raised hand",
+   "emoji": "✋️",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "hands and features",
+   "pixelSha256": {
+    "16": "f2b9523aa7560dfbca8e18273257d3c7c7b9402e4c6f8fe697f8ee1c194f9499",
+    "24": "8512f5a99598d4d1ce0f53f0fca5d78029a144dda2e887932a2727059b3fc29d"
+   }
+  },
+  {
+   "code": "1f44c",
+   "slug": "ok-hand",
+   "name": "OK hand",
+   "emoji": "👌",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "hands and features",
+   "pixelSha256": {
+    "16": "8fc77aee0043050a45a7425c43945d7084fe1ea843d56601446136d13aaf0327",
+    "24": "d711eb7053deccca2633ea784f46ca3ce3996271ae9bd14e400f7b9a8bda1411"
+   }
+  },
+  {
+   "code": "270c",
+   "slug": "victory-hand",
+   "name": "victory hand",
+   "emoji": "✌️",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "hands and features",
+   "pixelSha256": {
+    "16": "116126d4c9b7b9c31d363ed47a74140a6967959efde53bdddbb1d56fa76629a2",
+    "24": "fa615138973ea93cdde18713888fb971041d73d11365458b32ac8178f9f2d213"
+   }
+  },
+  {
+   "code": "1f91e",
+   "slug": "crossed-fingers",
+   "name": "crossed fingers",
+   "emoji": "🤞",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "hands and features",
+   "pixelSha256": {
+    "16": "894f627c021b6192eb555e74b03c575a88c7813b4b00b688b141ab637f5133de",
+    "24": "ad291e420e39811857956943ab13bbe5063523b33d1df5dd51d0adef2878fb06"
+   }
+  },
+  {
+   "code": "1f918",
+   "slug": "sign-of-the-horns",
+   "name": "sign of the horns",
+   "emoji": "🤘",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "hands and features",
+   "pixelSha256": {
+    "16": "1118de25c83c24d92d5e4468e3ede4fc06b54ad8bf04bc5129fb7917784fc861",
+    "24": "ceb77f8684fd57def8f2f16e5caa92b74c9ad1f085bbb5e4edf6aafa611af90a"
+   }
+  },
+  {
+   "code": "1f448",
+   "slug": "backhand-index-pointing-left",
+   "name": "backhand index pointing left",
+   "emoji": "👈️",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "hands and features",
+   "pixelSha256": {
+    "16": "5c766b7592ddb1b580920183ee9ead631cc72fa6fd90ed1bc76650133459663f",
+    "24": "2aa2340d32862c47540a98eb4d2b50653f9c46d628b793e1f51bad7ba2822aa2"
+   }
+  },
+  {
+   "code": "261d",
+   "slug": "index-pointing-up",
+   "name": "index pointing up",
+   "emoji": "☝️",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "hands and features",
+   "pixelSha256": {
+    "16": "859651554317b3ef831c35807f0242ceca9f85595dc11f175e400a8235b64c2c",
+    "24": "3bc9eba7d305ef48f29bf7785cda03f94973b295c058aadb889f8a2c1ac8f8d2"
+   }
+  },
+  {
+   "code": "1f44d",
+   "slug": "thumbs-up",
+   "name": "thumbs up",
+   "emoji": "👍️",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "hands and features",
+   "pixelSha256": {
+    "16": "78108fbc33e1d86c55c1eea795e07b87b3136a6956b4fbddbfb4bc50e5198a72",
+    "24": "7446707e4dc5ebe86d45d934b97f3372eeb942c40ede45b36c8d7744bcae32a2"
+   }
+  },
+  {
+   "code": "1f44e",
+   "slug": "thumbs-down",
+   "name": "thumbs down",
+   "emoji": "👎️",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "hands and features",
+   "pixelSha256": {
+    "16": "9f3f7fa7c503e33515915c83a474bc64630751ee45b9d65838204dc4d13c1bfc",
+    "24": "be4da3a5c66d594e86a7705d83f830fe85e6d212c81a206dec6c66651582333c"
+   }
+  },
+  {
+   "code": "270a",
+   "slug": "raised-fist",
+   "name": "raised fist",
+   "emoji": "✊️",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "hands and features",
+   "pixelSha256": {
+    "16": "19a761e6d8069fa0ab0ed57c6f27c679ce0f62e65987f0be0d2c2099377c313b",
+    "24": "a1df7a2e554eb52f911ac37a8c4b6396873d0e21244c3b93d1f21ce3a1889d83"
+   }
+  },
+  {
+   "code": "1f44a",
+   "slug": "oncoming-fist",
+   "name": "oncoming fist",
+   "emoji": "👊",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "hands and features",
+   "pixelSha256": {
+    "16": "e661c016367501aa3fd5f28977ef5ec188aa70c29734ab4f3bc4d5fb3a85e320",
+    "24": "843bb1ee68df85d9273ea828f8bc1744a0dbbe228ce8860db906d49d14847453"
+   }
+  },
+  {
+   "code": "1f44f",
+   "slug": "clapping-hands",
+   "name": "clapping hands",
+   "emoji": "👏",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "hands and features",
+   "pixelSha256": {
+    "16": "4ccde0faa171d255e29d0fd2c5dd98edf4378d7ad5da70e504c2a1c4b9372a57",
+    "24": "06625edb367a5a79465a3b74a4139be352b5962056e2169f91ac2daf4e9b6c5b"
+   }
+  },
+  {
+   "code": "1f64c",
+   "slug": "raising-hands",
+   "name": "raising hands",
+   "emoji": "🙌",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "hands and features",
+   "pixelSha256": {
+    "16": "8e49fe98d385b0bb8bcc9157ee4e9172749b422b0a9f22fa7eec5ebe3822461b",
+    "24": "178564bc9038d0f99bccfd04605b943d9ffb36814cdd3feefd513114a4dc386a"
+   }
+  },
+  {
+   "code": "1f64f",
+   "slug": "folded-hands",
+   "name": "folded hands",
+   "emoji": "🙏",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "hands and features",
+   "pixelSha256": {
+    "16": "89d0faeb70fb17b933737c79a6cddac3b6d93871ff1f19b95a353ae315d62e4f",
+    "24": "5247ba91ef407e4628617eb9db4f5de868aeaa2bdb8c4155308757f75cdd545f"
+   }
+  },
+  {
+   "code": "270d",
+   "slug": "writing-hand",
+   "name": "writing hand",
+   "emoji": "✍️",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "hands and features",
+   "pixelSha256": {
+    "16": "2bbe2669b70400749f56ce155a6b4eece1648edc7dc7d8727a6437e8e3a8000c",
+    "24": "185c195aa5f485b80c9e811a2c66f5eab5f63bf7439f20dc1fc4bed7d907992a"
+   }
+  },
+  {
+   "code": "1f4aa",
+   "slug": "flexed-biceps",
+   "name": "flexed biceps",
+   "emoji": "💪",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "hands and features",
+   "pixelSha256": {
+    "16": "f0e4194f001ad80e32470b14a7452fe42f0d5e034a8c99c544ead1db711da0d1",
+    "24": "c2c222029bdd7bfb3d4e70229eed1d30d36041d4dfdf76521e7ab2d7d2cab68f"
+   }
+  },
+  {
+   "code": "1f440",
+   "slug": "eyes",
+   "name": "eyes",
+   "emoji": "👀",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "hands and features",
+   "pixelSha256": {
+    "16": "e90cf12385629e2873cf2d218ce9104eecabfbf2619cd6684fa795bbd5d9958f",
+    "24": "e9da29fba0fd94a59203ad947836749821de31df3310908020b595492cc554f0"
+   }
+  },
+  {
+   "code": "1f444",
+   "slug": "mouth",
+   "name": "mouth",
+   "emoji": "👄",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "hands and features",
+   "pixelSha256": {
+    "16": "5c3037027a87777f937e1fea6bf7d1f5ce0cc34fcc5c84a90b5088ffcafc6935",
+    "24": "27ec2b7a9db065dadcb49f81772d822b1977fcfbe7321d206c8dc936e8cbebd3"
+   }
+  },
+  {
+   "code": "1f476",
+   "slug": "baby",
+   "name": "baby",
+   "emoji": "👶",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "person family",
+   "pixelSha256": {
+    "16": "402c217bc46896e6d2ddddb6c9bb53508d61ca18b890e1b9e1c96d98c9ef2577",
+    "24": "72300cfe851493aeba0bb7a9507615220e69af0e8e9366d7a98f42fede25bf92"
+   }
+  },
+  {
+   "code": "1f9d2",
+   "slug": "child",
+   "name": "child",
+   "emoji": "🧒",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "person family",
+   "pixelSha256": {
+    "16": "0eb42b70621365c8548bb29e783d2942c6238dcfce7e514f79fec9cb477b2528",
+    "24": "4473aa0742495f56be1f6ad0da8fc1933a76b9bcd8e10d40aa9705b3379dde30"
+   }
+  },
+  {
+   "code": "1f466",
+   "slug": "boy",
+   "name": "boy",
+   "emoji": "👦",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "person family",
+   "pixelSha256": {
+    "16": "c31ac59abd10b71d690347d9bcea8b9844baf4cabe6ce46d63154f7c6ed8c2ad",
+    "24": "5ef3b8b7e805d63079c936055a0225e3baa80100920be7708a2587120fcb9a1d"
+   }
+  },
+  {
+   "code": "1f467",
+   "slug": "girl",
+   "name": "girl",
+   "emoji": "👧",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "person family",
+   "pixelSha256": {
+    "16": "92025155357f4cc2bbf79a6ebd026ddfe0e6f3ae478d2d18cf90520acea10a7d",
+    "24": "f6fccf42c1e21b2cf547fb5976324d167ff019e88d9d0983c067836235021851"
+   }
+  },
+  {
+   "code": "1f9d1",
+   "slug": "person",
+   "name": "person",
+   "emoji": "🧑",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "a4c296c796dc0b4267f2a33e15d6a80b71f0462d41e723244ca534d58d6d0dc2",
+    "24": "b19e7f6ad2461abe7efed729a288a4d8367d8af1daa8a807c8853ae2ad47b12b"
+   }
+  },
+  {
+   "code": "1f471",
+   "slug": "person-blond-hair",
+   "name": "person: blond hair",
+   "emoji": "👱",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "person family",
+   "pixelSha256": {
+    "16": "8043f030c3965980f8fd338ca4ccb7a42a90a732ca0fb74ba2a9fef5eacc5856",
+    "24": "3a224f37413b4235c7140f00ad802e096ffbd529b77bb2072de83b6740230b7d"
+   }
+  },
+  {
+   "code": "1f468",
+   "slug": "man",
+   "name": "man",
+   "emoji": "👨",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "f399e8d2f36cf6137b478e86a191cabe0361b90b2bab28c587a49b72062f421c",
+    "24": "6882d6246d66dafe95864f3f8eeba08946c68f2f39901258e22b66bad82554df"
+   }
+  },
+  {
+   "code": "1f9d4",
+   "slug": "person-beard",
+   "name": "person: beard",
+   "emoji": "🧔",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "e9cd39ea0982f475b97f5edac7b10ba24f12cee07addcb67eec130601175b8b6",
+    "24": "6c1c82586279aa3095f62ed6fc91bb1ef827e3081c0546a5b61c81efcc31da5f"
+   }
+  },
+  {
+   "code": "1f469",
+   "slug": "woman",
+   "name": "woman",
+   "emoji": "👩",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "611348ba4e0ebe63e46546fe443442b89b4deb457bbba2b4702d53fac9f09f91",
+    "24": "69a1475292b4811753ad4188392a2e8240835221a78b627fa75392005b3c9ff2"
+   }
+  },
+  {
+   "code": "1f9d1-200d-1f9b0",
+   "slug": "person-red-hair",
+   "name": "person: red hair",
+   "emoji": "🧑‍🦰",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "9074561c7f73a79866ccec1019bbbcca5242b565dacbe74c5b82c8a5e3aa1eb5",
+    "24": "35fc7e377245b13b960d805a27e4d3a24232c865014cc1adcd5942666e387794"
+   }
+  },
+  {
+   "code": "1f9d1-200d-1f9b1",
+   "slug": "person-curly-hair",
+   "name": "person: curly hair",
+   "emoji": "🧑‍🦱",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "3e664024816262e6b4b5cc1b237608f339ae745a8ca116c33f33bfc0a7fcc0eb",
+    "24": "643a118fcb3660c604f8cc752c265383edeec6ea79d95e0660969d62f3d05eb7"
+   }
+  },
+  {
+   "code": "1f9d1-200d-1f9b3",
+   "slug": "person-white-hair",
+   "name": "person: white hair",
+   "emoji": "🧑‍🦳",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "ad360a5d349dccc7fd535a2b91ce990846f0d2605d7de29d5ae1c759eee5eeea",
+    "24": "7ab2d889f035da3b5684e32faf3b0ac41561419773cbbae5a738c32c2582cb50"
+   }
+  },
+  {
+   "code": "1f9d1-200d-1f9b2",
+   "slug": "person-bald",
+   "name": "person: bald",
+   "emoji": "🧑‍🦲",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "99eda3c4b0baad4ba975893084a634ad2371f96be34f6005cbc8aad3c94c7c52",
+    "24": "555ef444e82fe3ce1e2d75df44a00903742b627e5a7b30b10e54f573b326ed40"
+   }
+  },
+  {
+   "code": "1f9d3",
+   "slug": "older-person",
+   "name": "older person",
+   "emoji": "🧓",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "person family",
+   "pixelSha256": {
+    "16": "cf8e25581d205719a6cfb194e8da4ccad913e7ea863f2668cc71c7085538be63",
+    "24": "74700b99e573d72a540abecda0cbebff892e7e529b755fcc5e2c92f11ce152d4"
+   }
+  },
+  {
+   "code": "1f474",
+   "slug": "old-man",
+   "name": "old man",
+   "emoji": "👴",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "c8630b5d14999a3d60608c8ea5bab71bacd1d7885fd66671f7ca512c048670aa",
+    "24": "27a37f68fcb074054b3032f45cdda4dedb68159231e5b7a76518f20f000f22a8"
+   }
+  },
+  {
+   "code": "1f475",
+   "slug": "old-woman",
+   "name": "old woman",
+   "emoji": "👵",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "person family",
+   "pixelSha256": {
+    "16": "6ba8f152d9ea274f115254fa47a0615ab16bb6340ad6e4e9d06494605ab9fdef",
+    "24": "193108288fccd826ae118909bf26d279670cef8759aca04ec7324907e6fa0216"
+   }
+  },
+  {
+   "code": "1f645",
+   "slug": "person-gesturing-no",
+   "name": "person gesturing NO",
+   "emoji": "🙅",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "person family",
+   "pixelSha256": {
+    "16": "76a86b593d43a05d1c1150b629e3127f1db307f01dd565c41ee75c9c6ffdd762",
+    "24": "5c7dd3b79bd575d84879aae9e1ba52b2445a656811bb3985bf065c5dacb824b4"
+   }
+  },
+  {
+   "code": "1f646",
+   "slug": "person-gesturing-ok",
+   "name": "person gesturing OK",
+   "emoji": "🙆",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "32463cf1c39be54d54ab8c3a7f962dc2de58481dc8f6a593ec42a03f4d699140",
+    "24": "9f5725c63d3a8d63857fb6ddd49097552b3db155cb0534947e1e3fd5fa37c692"
+   }
+  },
+  {
+   "code": "1f481",
+   "slug": "person-tipping-hand",
+   "name": "person tipping hand",
+   "emoji": "💁",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "person family",
+   "pixelSha256": {
+    "16": "cd42061e1c4cbd2d003f4c48862167fec48d2e23546a2864f2c69fbf0c42b545",
+    "24": "bb99ac62f9ca68d7234ac196a8db8cf58beedb374d1887059a515db27933be74"
+   }
+  },
+  {
+   "code": "1f64b",
+   "slug": "person-raising-hand",
+   "name": "person raising hand",
+   "emoji": "🙋",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "person family",
+   "pixelSha256": {
+    "16": "642199df6089fb3fadfb9cfbf054a56b5165e81c71a06abf2b62a3164fc4d9e2",
+    "24": "004bb753e137be07bbbf634c66eef52bfc1d86ab7a3b27b1fd1b7fec747caf95"
+   }
+  },
+  {
+   "code": "1f926",
+   "slug": "person-facepalming",
+   "name": "person facepalming",
+   "emoji": "🤦",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "person family",
+   "pixelSha256": {
+    "16": "eed1afcedc9ae2bfd86afe3791ddbe74cd1529536e394308b7638cf83ffa8e1a",
+    "24": "aef6f8e33c5cbf405f0e9957a4aec2bf229b7758132a9ecc006f418645dffe77"
+   }
+  },
+  {
+   "code": "1f937",
+   "slug": "person-shrugging",
+   "name": "person shrugging",
+   "emoji": "🤷",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "person family",
+   "pixelSha256": {
+    "16": "611074b31f24379086659e361ca5a7b491efc767880857380adbaabf490e4ea8",
+    "24": "74a94f470a2c331a6d8d34b58f57ea3ef027d8946432779baf7bba3efadd368d"
+   }
+  },
+  {
+   "code": "1f9d1-200d-2695-fe0f",
+   "slug": "health-worker",
+   "name": "health worker",
+   "emoji": "🧑‍⚕️",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "person family",
+   "pixelSha256": {
+    "16": "36bc23f77af705d032a9d23fd098723c6f562789b4fe12b1f40dbc7ccb5a8f1e",
+    "24": "19db54c59fb52ace9651ea5c389f66b0f2a90d89fa6e1917990877b605b248f9"
+   }
+  },
+  {
+   "code": "1f9d1-200d-1f393",
+   "slug": "student",
+   "name": "student",
+   "emoji": "🧑‍🎓",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "7b3cf57d4541e704eacc498050b505cb9ec8f5c9e3984541f268528425afd298",
+    "24": "fd074b6ebcfc668584a7e9ff6e5000c053be19a70328d70bac1e88ab3fcd14e4"
+   }
+  },
+  {
+   "code": "1f468-200d-1f373",
+   "slug": "man-cook",
+   "name": "man cook",
+   "emoji": "👨‍🍳",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "a4839b43aac602d8b256dc75acbee7547d4d3d9fa2163bb70fd497b772eb6325",
+    "24": "3f43f7bf7913e11ccbd2d272ab6b6ea958252a7c3577cc8380e01c2706bbcc8f"
+   }
+  },
+  {
+   "code": "1f9d1-200d-1f4bb",
+   "slug": "technologist",
+   "name": "technologist",
+   "emoji": "🧑‍💻",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "person family",
+   "pixelSha256": {
+    "16": "41372ceb42a0d3aa73b1a3c75aee17f413c9a1145c7bf60c0c6840e9b41654ed",
+    "24": "581ae3d97f885ac70655b6fa10d6c954a62d7792c3e637e45de5f1952bf9f5ac"
+   }
+  },
+  {
+   "code": "1f9d1-200d-1f680",
+   "slug": "astronaut",
+   "name": "astronaut",
+   "emoji": "🧑‍🚀",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "person family",
+   "pixelSha256": {
+    "16": "6f1f1f22072e94cc94c1c820b40d0b0efab39992c8c6bc2c04d751871fc20b2f",
+    "24": "3ef2c8fcb9f8bfbe9771021d757ab2eeeb7cd511db00f615bbae153f4218ca7b"
+   }
+  },
+  {
+   "code": "1f46e",
+   "slug": "police-officer",
+   "name": "police officer",
+   "emoji": "👮",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "person family",
+   "pixelSha256": {
+    "16": "c90a8c7d9e09df8519d0c3e70f97a829e6561b1a72472321915193a3b1a59848",
+    "24": "8a7208124fd8286c675c43b2f3db6ffc1eac582c565de8f923b1d0b79277bc12"
+   }
+  },
+  {
+   "code": "1f575",
+   "slug": "detective",
+   "name": "detective",
+   "emoji": "🕵️",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "person family",
+   "pixelSha256": {
+    "16": "58720a7c9f7316c2d67d3a45c9b9044d8d3fd121e7fc4c9229269fe44c990a48",
+    "24": "2c6e2cd09339478e3ed2c74eb0672ec106941cb27b25aeb140e09f3bd75d6199"
+   }
+  },
+  {
+   "code": "1f477",
+   "slug": "construction-worker",
+   "name": "construction worker",
+   "emoji": "👷",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "person family",
+   "pixelSha256": {
+    "16": "f79a2ee7f8d3119e5c72cf43f2ffa646b4290d15cc878f0a5a1c86aeab31fac1",
+    "24": "a772801d464700c164b256bab44939e96b28ee3b3f038d934d0b9bae55ea8b4c"
+   }
+  },
+  {
+   "code": "1f478",
+   "slug": "princess",
+   "name": "princess",
+   "emoji": "👸",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "person family",
+   "pixelSha256": {
+    "16": "a5b0cd0014908a0221ce23e5d7cf96fa6350630a95b62583fb091b0d0c94f57a",
+    "24": "f516be2da86afc632fac9a3b3e943c76d2dad113b0f3e6244de3d2b759e8f365"
+   }
+  },
+  {
+   "code": "1f473",
+   "slug": "person-wearing-turban",
+   "name": "person wearing turban",
+   "emoji": "👳",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "person family",
+   "pixelSha256": {
+    "16": "05cf63d77d57632bc656a553dd48ff93e8e6ba55fab90ead4afb5dc7c21b5c8a",
+    "24": "6c70d787cb2c0fce4146d655f2e3b0dd91a4ff963642dde8481ecb42967901a0"
+   }
+  },
+  {
+   "code": "1f9d5",
+   "slug": "woman-with-headscarf",
+   "name": "woman with headscarf",
+   "emoji": "🧕",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "person family",
+   "pixelSha256": {
+    "16": "4bce5453a45276df78138ce99545be654a82ee99de031f33fc4bdfcd0af38c73",
+    "24": "4487126287d028f942158375027b214efb51250099f30be02a22d88fad28893c"
+   }
+  },
+  {
+   "code": "1f935",
+   "slug": "person-in-tuxedo",
+   "name": "person in tuxedo",
+   "emoji": "🤵",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "f1c5a78bc501431136f0321a81c4a02923537411fac3c160f16ec178997436b9",
+    "24": "501a699d6a1574197b45f52dc0750d67f27740b242fd1596598e3433f7e57a00"
+   }
+  },
+  {
+   "code": "1f470",
+   "slug": "person-with-veil",
+   "name": "person with veil",
+   "emoji": "👰",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "person family",
+   "pixelSha256": {
+    "16": "c4680e1d7f6988458525c99a6b124e0da5a09bd635478df0c03cdaec5e8c618b",
+    "24": "ab833e0e74f7d7d6bd78a967f1ef537c111d9c52f788b1b23bcaefad01d30e03"
+   }
+  },
+  {
+   "code": "1f47c",
+   "slug": "baby-angel",
+   "name": "baby angel",
+   "emoji": "👼",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "person family",
+   "pixelSha256": {
+    "16": "01683d87bce4c2e9568cf241b87f2c247acee27151103f4678b7f38c807d8a93",
+    "24": "7d35a819c0a565078ff89f462be73574c25c2e3899beb873ac5e5f0694516cc7"
+   }
+  },
+  {
+   "code": "1f385",
+   "slug": "santa-claus",
+   "name": "Santa Claus",
+   "emoji": "🎅",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "person family",
+   "pixelSha256": {
+    "16": "00f56348d90309dd677e393d8468a67e22884ca81eb1e7203e292cc9e18e00ec",
+    "24": "dab916344093afd10531f15b9a25c6a56f29d6277c0089c3f6f9af4de854e570"
+   }
+  },
+  {
+   "code": "1f9b8",
+   "slug": "superhero",
+   "name": "superhero",
+   "emoji": "🦸",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "person family",
+   "pixelSha256": {
+    "16": "841a918020f2063f09652cb2f5832587f3bcbb3fd3453c3efb45a3851b2562a8",
+    "24": "bd73b7e5cba1df4c53504ed66d0afcc308a0c25d2597c1febeaef77f83800a20"
+   }
+  },
+  {
+   "code": "1f9d9",
+   "slug": "mage",
+   "name": "mage",
+   "emoji": "🧙",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "person family",
+   "pixelSha256": {
+    "16": "dfd13b01dac25b2aca3cca0290dc41c7011c8f394e515ab8b7dc2081c80e90c0",
+    "24": "29f0f2de1034c06f5988396bd8444d0db39f3c92e92bf5360526eb25debf7a88"
+   }
+  },
+  {
+   "code": "1f9db",
+   "slug": "vampire",
+   "name": "vampire",
+   "emoji": "🧛",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "d5c05fc027c130a75a1cb82b57ebb41299999dad740fa99aec07e5ef8848e090",
+    "24": "bf64c781e2c918170c5ad979b1ab79db19859dab74ee13697c3c027aafde2266"
+   }
+  },
+  {
+   "code": "1f9dd",
+   "slug": "elf",
+   "name": "elf",
+   "emoji": "🧝",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "person family",
+   "pixelSha256": {
+    "16": "87728e5e38d697a5b26b7e182d573750f8bf1eadf2026e9bd6cdfd671a84246b",
+    "24": "f52aeff00553291cfa0f48b40a18158b802486a55601ffcd2c13a5d6cdba7ff4"
+   }
+  },
+  {
+   "code": "1f9df",
+   "slug": "zombie",
+   "name": "zombie",
+   "emoji": "🧟",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "person family",
+   "pixelSha256": {
+    "16": "1feda2c73a350e686ff09a88787f64ae27c1a40c71f9a0aa38160010eedfde01",
+    "24": "87c68b64b6219b1eff883687398eb2994b3184be76f10e9d88aa481befbfe60b"
+   }
+  },
+  {
+   "code": "1f486",
+   "slug": "person-getting-massage",
+   "name": "person getting massage",
+   "emoji": "💆",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "06ff6a4f94726fb52700ed09fe9e4b0f6d26f6f0ea5c54662f0257af7a980d2a",
+    "24": "baa1b8511254cdac01c22a263c978bdfa5da0fe0156fbc9d3d60406fbc640074"
+   }
+  },
+  {
+   "code": "1f5e3",
+   "slug": "speaking-head",
+   "name": "speaking head",
+   "emoji": "🗣️",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "person family",
+   "pixelSha256": {
+    "16": "59064186ec8eb1bad089a24ba79bd38fb3b91397f33c3e2f7e35be3ac02bf6b8",
+    "24": "d206a24cc0d24bf1c68ece25184910e48ae7eb78b568c3a615e02e7a6ae31348"
+   }
+  },
+  {
+   "code": "1f464",
+   "slug": "bust-in-silhouette",
+   "name": "bust in silhouette",
+   "emoji": "👤",
+   "category": "People",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "person family",
+   "pixelSha256": {
+    "16": "380b1e992fdd3722b8898d761b4fc0c49cea2913f6806ead97d0f3c190da4f44",
+    "24": "6cfe3c3206bd84cc1e0b05ca60f9baaf38de0ad68a536aac2e7a70d308ac6dce"
+   }
+  },
+  {
+   "code": "1f435",
+   "slug": "monkey-face",
+   "name": "monkey face",
+   "emoji": "🐵",
+   "category": "Animals",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "27f6034a8bc853dde967f8ab914ed63a54ea791c448f4144086167f97aba4c75",
+    "24": "98a4181d79fa9421c14cd2fc77a4eeef64f5e5c571ea960faaefb40472800433"
+   }
+  },
+  {
+   "code": "1f436",
+   "slug": "dog-face",
+   "name": "dog face",
+   "emoji": "🐶",
+   "category": "Animals",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "83e7245b4d8504a83efca292a82f1bfb49259fb4edcc143f31ac90f8ca5ca98e",
+    "24": "a6db8125d7492a3a176c875c9c7c703c094e47c8d7fad44132f129b3ce3bba8a"
+   }
+  },
+  {
+   "code": "1f431",
+   "slug": "cat-face",
+   "name": "cat face",
+   "emoji": "🐱",
+   "category": "Animals",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "85b14971d27b073d383fd5e194f187cca24997115c0fbd44e263a3fd5dc6ac85",
+    "24": "a7b5c7b76cf6f9d80dccefbf98d7790b4ab2320836e25d613826a1da69055329"
+   }
+  },
+  {
+   "code": "1f42f",
+   "slug": "tiger-face",
+   "name": "tiger face",
+   "emoji": "🐯",
+   "category": "Animals",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "d826565af2c7609578e8d7ea78da49ba7a922019def488e700af0424ec421163",
+    "24": "5a71e4498698b7a4f043098ee11804722664600e67da458a61045c82ca6fbdeb"
+   }
+  },
+  {
+   "code": "1f430",
+   "slug": "rabbit-face",
+   "name": "rabbit face",
+   "emoji": "🐰",
+   "category": "Animals",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "616193fc74cc3adabd16383e2c9ddc4bc818779a830ba048c2a9f954335820ba",
+    "24": "086c44d181bfdcf5c596838f60ac91c2a0d76dc0f52e5eef9301f934067fc4f6"
+   }
+  },
+  {
+   "code": "1f43c",
+   "slug": "panda",
+   "name": "panda",
+   "emoji": "🐼",
+   "category": "Animals",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "7694e2d8abed2c7afa245e06c49925551d1bb699d12c32713891004c2854407d",
+    "24": "e037a3421719225253de9679835cbde529d8f6d42f27ff9c4cb914ca02e1adf5"
+   }
+  },
+  {
+   "code": "1f43e",
+   "slug": "paw-prints",
+   "name": "paw prints",
+   "emoji": "🐾",
+   "category": "Animals",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "e8bcc2f8f5a19ee8ef250661581284db8966b17b7aac2f5b74173c2fc731d260",
+    "24": "888815fe8ff1079e042a751bc913f2515186b42ce32bd7a81f3fdc79282781a1"
+   }
+  },
+  {
+   "code": "1f427",
+   "slug": "penguin",
+   "name": "penguin",
+   "emoji": "🐧",
+   "category": "Animals",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "68a7064ab4484e18fd9025e5b97768c9ef892b271b403958574e7cba5ea0e29d",
+    "24": "adbe59d58c6c8dcb656bd5d2e1aa40b3d4709952954d1bb3353765b01f2b51ca"
+   }
+  },
+  {
+   "code": "1f989",
+   "slug": "owl",
+   "name": "owl",
+   "emoji": "🦉",
+   "category": "Animals",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "499238387857ee63aa1eb073076eb6a0683ad10829605ef6540f9b9a759c440b",
+    "24": "26590242d8fe84fb533af05e90c1c0e00477a920d0b0c9d295cb59b4459b0805"
+   }
+  },
+  {
+   "code": "1f438",
+   "slug": "frog",
+   "name": "frog",
+   "emoji": "🐸",
+   "category": "Animals",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "141dfcb725016684d58eba9217cc4da48e5dc1639628a1a74a4da6b494c39609",
+    "24": "6e46bababa8ded40c5a4916fe79514d759f500d86a0d08fc277c15e41a48acbe"
+   }
+  },
+  {
+   "code": "1f422",
+   "slug": "turtle",
+   "name": "turtle",
+   "emoji": "🐢",
+   "category": "Animals",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "447a22891e36fed74ee4d7b43f4af81a3d96fcf72846746349aecf9114dc4041",
+    "24": "5335be2331dc57b54b88a0f655d5a68d3510599693c53000958131a20fdf4016"
+   }
+  },
+  {
+   "code": "1f41f",
+   "slug": "fish",
+   "name": "fish",
+   "emoji": "🐟️",
+   "category": "Animals",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "5f3d3cd9be20e52b54cad55c7c3895d76fa3c7cdf1efcf89a73a3da22aa1fd53",
+    "24": "ee507a1b0354a18cf3bfc33496c2f98e0afa5ea49c0bc1ab46c48df6c7367625"
+   }
+  },
+  {
+   "code": "1f419",
+   "slug": "octopus",
+   "name": "octopus",
+   "emoji": "🐙",
+   "category": "Animals",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "e69adb75b08eace92a67e106bbd57d4e0d0391aad55a4c55db4d3d9cb243d3c2",
+    "24": "b490540650398e6b0b07588331b9d14217472ae8354426d06f57e6e7ad0f0ef6"
+   }
+  },
+  {
+   "code": "1f98b",
+   "slug": "butterfly",
+   "name": "butterfly",
+   "emoji": "🦋",
+   "category": "Animals",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "a351a0f314b0b96c8dbc19ecb279d37847042f59128a2a053f5e45963c523ad0",
+    "24": "bfbbba994687872d55c765a678c1efa3e869dce0a819e71fd9834afa8d7fa0c5"
+   }
+  },
+  {
+   "code": "1f337",
+   "slug": "tulip",
+   "name": "tulip",
+   "emoji": "🌷",
+   "category": "Animals",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "d9690f66aca4c06771d426614143de2de94c33ca72cb833d8fe7d9b12bfc1a5d",
+    "24": "39e8dc335e44c58ed8c94cefc1c28478244a8b5ad5e4e6143a1125a26aa99eef"
+   }
+  },
+  {
+   "code": "1f333",
+   "slug": "deciduous-tree",
+   "name": "deciduous tree",
+   "emoji": "🌳",
+   "category": "Animals",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "71fe71b707d33d807d2d8d502635adc4d51837e165c736b407379d2185a00ada",
+    "24": "f3c7689067f6525e520c06a4500e4c16ed6d8c19c0f2c3486bd765e748e70768"
+   }
+  },
+  {
+   "code": "1f335",
+   "slug": "cactus",
+   "name": "cactus",
+   "emoji": "🌵",
+   "category": "Animals",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "58723d7c4af0568cf77bd06c421264ba61600fa212d13610f0338766241ca9db",
+    "24": "154dd4951acf8ccda93513362fd2acfb9f1949a9e566e5e13907a952b2ad4894"
+   }
+  },
+  {
+   "code": "1f349",
+   "slug": "watermelon",
+   "name": "watermelon",
+   "emoji": "🍉",
+   "category": "Food",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "35bd037549b322cc6c975a538279b941ec1f23179aaed128a823718b0b519ec2",
+    "24": "fc3256365e9ca9b8993681977415398d100f716f3b8d0f0f99dbbbc031f93d87"
+   }
+  },
+  {
+   "code": "1f34a",
+   "slug": "tangerine",
+   "name": "tangerine",
+   "emoji": "🍊",
+   "category": "Food",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "29a1578310c497f97caeae90ac85a8f8084234990b7f3e556e9863aa2c0bdb4a",
+    "24": "3c62aaa0611bc13883e5c4b8f856a2ee86d93b99b8ea9492d8f7b767c9dde119"
+   }
+  },
+  {
+   "code": "1f34b",
+   "slug": "lemon",
+   "name": "lemon",
+   "emoji": "🍋",
+   "category": "Food",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "7b96d16a7ddac87554766720d200c3cd51691a25b274ec6381b64fbdc3b70234",
+    "24": "383d962b71768404d99f8afe3049fcc7e7f562cb956e306515c25980ffe3f5cb"
+   }
+  },
+  {
+   "code": "1f34e",
+   "slug": "red-apple",
+   "name": "red apple",
+   "emoji": "🍎",
+   "category": "Food",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "083aea539576afa5a4035b5555c51d2d028fb62b44c8ef2f334424c20f64ef87",
+    "24": "6a76ff45594a30305f0bb950e852853b443457b5dc6a464b84a0d92abf2388c3"
+   }
+  },
+  {
+   "code": "1f955",
+   "slug": "carrot",
+   "name": "carrot",
+   "emoji": "🥕",
+   "category": "Food",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "83c5cdfddc5fa3f7ecc6b6392db31e5c148a37f3bfb4800fb63e6fdf47915057",
+    "24": "0295955f9a3dbd42ac46fdfd842ca824ee9985756f1a6cf03077a4c22198d9ac"
+   }
+  },
+  {
+   "code": "1f35e",
+   "slug": "bread",
+   "name": "bread",
+   "emoji": "🍞",
+   "category": "Food",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "69087354772849db0fad04b055b359eff69dcccae515a8a99426aa5d5a5d13e6",
+    "24": "c958ce67d69c84dd7c9b6195c5adc80f306a8e5e8d5ad92702d699a7bcbe9bf3"
+   }
+  },
+  {
+   "code": "1f354",
+   "slug": "hamburger",
+   "name": "hamburger",
+   "emoji": "🍔",
+   "category": "Food",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "2d47355cd98468b9dffe82b1bf0e2ba6926d394451d57e7484d5f1fcb402f483",
+    "24": "f2e0699fe70d87721e0bec3f938ffead03b69dee95f90e52cab1cf892f3805cd"
+   }
+  },
+  {
+   "code": "1f355",
+   "slug": "pizza",
+   "name": "pizza",
+   "emoji": "🍕",
+   "category": "Food",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "8ae5bd57092162789ee803e515c3fe5c1588b5b198bd2f94265049f86283f9c2",
+    "24": "83a2b98d4b76bd18b8662dc10a1f2202b7ccad4cff607254dbe41ed2afb73fbe"
+   }
+  },
+  {
+   "code": "1f366",
+   "slug": "soft-ice-cream",
+   "name": "soft ice cream",
+   "emoji": "🍦",
+   "category": "Food",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "e9683d5a97affa878766bb66e67fedb8d89d4688e0a666a36447b48478ff5f95",
+    "24": "d676c4b774fa6847eaa24d5467b26911504d8cebc1a0ab3a08261f16272bce3d"
+   }
+  },
+  {
+   "code": "1f382",
+   "slug": "birthday-cake",
+   "name": "birthday cake",
+   "emoji": "🎂",
+   "category": "Food",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "965233bde8f2d839cf5649123e7a3bb0255b092ce9c8d49e447467232ab70611",
+    "24": "79126b7524ec7981ea3494aa7dbdd6d4295303cef78317bd217bf15a6ad51b46"
+   }
+  },
+  {
+   "code": "2615",
+   "slug": "hot-beverage",
+   "name": "hot beverage",
+   "emoji": "☕️",
+   "category": "Food",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "9662c287864769f63b134530ac6d5cabce8961d5bd3f4619c6a2a50847795007",
+    "24": "94f9824df91180336e4a9bb7bcbf6bd8af823efcc7d618522556cafbbee11b94"
+   }
+  },
+  {
+   "code": "1f3e0",
+   "slug": "house",
+   "name": "house",
+   "emoji": "🏠️",
+   "category": "Travel",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "1ac6fd5230e629b86342167e999c0b9b23d9de7bb421346dab9439262342aa22",
+    "24": "96f343a244d399ea439b84d63f48cacb1bccdf26b71e3614f4e1ca09615f4da9"
+   }
+  },
+  {
+   "code": "1f697",
+   "slug": "automobile",
+   "name": "automobile",
+   "emoji": "🚗",
+   "category": "Travel",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "1d638dbe53dab2e9775934608941665f88192a8ba5643b0c40d192fce3742fac",
+    "24": "f7bf7b430e947fac0ba91d797f3beba34a538229704a4555b0887b7ad63c663a"
+   }
+  },
+  {
+   "code": "2708",
+   "slug": "airplane",
+   "name": "airplane",
+   "emoji": "✈️",
+   "category": "Travel",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "04646bb3858a4eb476bf9745e6a8a7903d8de1f0bec532ebcecbec5ba96da2b6",
+    "24": "5648f4a1b042ccc96330bf694c73a92e95856c363ba3f111dd9b378a99f9ef46"
+   }
+  },
+  {
+   "code": "1f680",
+   "slug": "rocket",
+   "name": "rocket",
+   "emoji": "🚀",
+   "category": "Travel",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "365dc52168250c75fe882b352b272510ff425c18807b8b9dab87584a8208ae90",
+    "24": "c0731daa5cc38fd21e1740c3d6bb2303e9bf9206557ff522747eca81894d5c38"
+   }
+  },
+  {
+   "code": "1f6f8",
+   "slug": "flying-saucer",
+   "name": "flying saucer",
+   "emoji": "🛸",
+   "category": "Travel",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "f04f2c5b46ddcdc0c3d1a9e423f1880443f33bbabe38c62b82697afd07ab3c63",
+    "24": "312f4697e7a23112aea3437fb4ce99cabe71ad83c92d020623fd1e25f445ee92"
+   }
+  },
+  {
+   "code": "e6f8",
+   "slug": "floating-flying-saucer",
+   "name": "floating flying saucer",
+   "emoji": "",
+   "category": "Travel",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "f8deb9ff6ac4936316ca63a998e97090ec5229334847eacd55c4d6f94f549ff4",
+    "24": "1cb8df7f0581772eee14e8a58176572c33ffb0aaba8f50e69c8753b90dc71492"
+   }
+  },
+  {
+   "code": "1f319",
+   "slug": "crescent-moon",
+   "name": "crescent moon",
+   "emoji": "🌙",
+   "category": "Travel",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "ad417f78f0984db31487310c0b1fafa1f2853a4e306a51b9423cc4bf33a06a01",
+    "24": "fc6c857e60f8b299b277caa4b4d1f27405d379a18547373aab42f1de4366b41f"
+   }
+  },
+  {
+   "code": "2600",
+   "slug": "sun",
+   "name": "sun",
+   "emoji": "☀️",
+   "category": "Travel",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "dc0d142e83f1d0baf07034f07853e1a44cb6eb9ed439236958e9121a8765bc7a",
+    "24": "922b2a8affde6dd35c7be65f3e4e7a1277f716cf8ed2575759eb9498d42cef6d"
+   }
+  },
+  {
+   "code": "1f525",
+   "slug": "fire",
+   "name": "fire",
+   "emoji": "🔥",
+   "category": "Travel",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "50eabf824ce73fab045eca4b5be26e63931288a1466adffd104bae1751fdcb41",
+    "24": "e46c3787a8a2619c1cc180e90a86ab83996b7f891cf1ae50f396f69e26bb10c5"
+   }
+  },
+  {
+   "code": "1f4a7",
+   "slug": "droplet",
+   "name": "droplet",
+   "emoji": "💧",
+   "category": "Travel",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "67a5c41e8a2fc84628ade5fd91a077021257870e27ea409b2a21f696b27534f0",
+    "24": "1d97072786e90cca2fc603c42dd68e29c3207efc2ddfa6b0072f7928c0e16a15"
+   }
+  },
+  {
+   "code": "1f30a",
+   "slug": "water-wave",
+   "name": "water wave",
+   "emoji": "🌊",
+   "category": "Travel",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "6cbeb33299f74e31ed96f24a3bac955ce1b3d5342cc60a5c77336914e6d43135",
+    "24": "b2251b61b33b906d46981618d6a4cb8a55dae9a8a6be37185bd29ae1fdef0e3b"
+   }
+  },
+  {
+   "code": "2728",
+   "slug": "sparkles",
+   "name": "sparkles",
+   "emoji": "✨️",
+   "category": "Activities",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "dc546bd08674a5728530168d7927765e57e955cf67d7628d1494494097ed8ae7",
+    "24": "a137659f64ddfcb259e67b9d63e9fcb610e17583c46fa798fa68096b5d26cad4"
+   }
+  },
+  {
+   "code": "1f388",
+   "slug": "balloon",
+   "name": "balloon",
+   "emoji": "🎈",
+   "category": "Activities",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "0753b7b065e0c29328612e0da6213ffda3e44a6dcc73299fa25d93802ed57e97",
+    "24": "23662e99e998d32bf33b5c05726d92f33e635b5059e71b8751c419dd18a063b0"
+   }
+  },
+  {
+   "code": "1f381",
+   "slug": "wrapped-gift",
+   "name": "wrapped gift",
+   "emoji": "🎁",
+   "category": "Activities",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "b9e940dbf28e1b6a8c93b61c978e65fc0e143d2f260559f1bb0b4e0e5e7bdc16",
+    "24": "831b478c77cb20498f4da9cc690393c717908d214894fcd1b77597e647aa7803"
+   }
+  },
+  {
+   "code": "1f3c6",
+   "slug": "trophy",
+   "name": "trophy",
+   "emoji": "🏆️",
+   "category": "Activities",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "1d396fccb030e2225b78e8f225108372682c8c8eef0eae7a57ea74b6910eeafd",
+    "24": "e5141192d4b91b96b41a98978749afff04469371162f59c53d9f3f8213600141"
+   }
+  },
+  {
+   "code": "26bd",
+   "slug": "soccer-ball",
+   "name": "soccer ball",
+   "emoji": "⚽️",
+   "category": "Activities",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "91a97126c69f9122de5c24b2ae7a63ef8fd23610042fab8ade552badc285677d",
+    "24": "fbb23c953e7d5a20a28f9976912d0b43484ae28f1b2ff9fd2cd3dc309b0f1dbe"
+   }
+  },
+  {
+   "code": "1f3ae",
+   "slug": "video-game",
+   "name": "video game",
+   "emoji": "🎮️",
+   "category": "Activities",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "5600a8954638eb0dfe0bfa4eecfc65231390fbc59ecfb21a6ef539dada1a0224",
+    "24": "6a31114421574a4b7c94f9367088e20820638dacdb26fc72535d653620753d66"
+   }
+  },
+  {
+   "code": "1f3b2",
+   "slug": "game-die",
+   "name": "game die",
+   "emoji": "🎲",
+   "category": "Activities",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "a24068357b32abb25e2705423846d05d8c95bffbc9cac74f3772b80cf65589ee",
+    "24": "dd7b695cff32622a5f716592452e41b69d7fccd4c3e0e9ec8a8b1c7b1c4aef65"
+   }
+  },
+  {
+   "code": "1f453",
+   "slug": "glasses",
+   "name": "glasses",
+   "emoji": "👓️",
+   "category": "Objects",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "96f1da34be3fee2f83a4e3ec8bb618f7191696a9f285f96424b195cd902550df",
+    "24": "82b98645254101ee5b0f0f27fac7fc8d2fdc6a8a9d1ed5345453968a3555aecd"
+   }
+  },
+  {
+   "code": "1f451",
+   "slug": "crown",
+   "name": "crown",
+   "emoji": "👑",
+   "category": "Objects",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "37b3db7b78ff8e6410f034c97db27705037da2714e4a93463d5c77a504e07bcd",
+    "24": "fafdebf4ab2af56b26ea9d821c3185ee2b2abc465228b90f1e241b784b7cacd7"
+   }
+  },
+  {
+   "code": "1f3a4",
+   "slug": "microphone",
+   "name": "microphone",
+   "emoji": "🎤",
+   "category": "Objects",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "9d6cf61f466919f1cd8638072ed9bf14289290d1a35ae148c6d641b8d2c97f1e",
+    "24": "8a992c77a63557a4895fc7cb59186e893f7b0e61c4f74f1751f856a894948891"
+   }
+  },
+  {
+   "code": "1f4bb",
+   "slug": "laptop",
+   "name": "laptop",
+   "emoji": "💻️",
+   "category": "Objects",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "06cd780cf506c8e633b7ff7601cd1103f9225de9e7aaf614a6c54d94dfcf2b85",
+    "24": "0b7819ca341caf06588c4cdfeab8f5d3cfdf7985342482690a2ff57feb8a8819"
+   }
+  },
+  {
+   "code": "1f4f7",
+   "slug": "camera",
+   "name": "camera",
+   "emoji": "📷️",
+   "category": "Objects",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "b8f9e76bcfa1e0ddc8c59392894cd0dc79a2b17c436b33674cbab9965740cb41",
+    "24": "f0242a3f28e50c20071acdb146bde01370335fa04d8f07a47e5e0996187f8952"
+   }
+  },
+  {
+   "code": "1f4a1",
+   "slug": "light-bulb",
+   "name": "light bulb",
+   "emoji": "💡",
+   "category": "Objects",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "2bcc4c5a101620a9d7e68e4247fe4a44088aa56848ed7c1c65f02b611a909ea3",
+    "24": "02960b629b7f46aaa4469aff9907b9ee5e570f89141d51aac283cd8633536f30"
+   }
+  },
+  {
+   "code": "1f4da",
+   "slug": "books",
+   "name": "books",
+   "emoji": "📚️",
+   "category": "Objects",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "4163a40672d1028034c951c2e6c168691e67a833581f3541ce4940a992bc3309",
+    "24": "0f4aba1c9cccbebed842b82aaff842829fadaeb7e159ec61f2a14de493ed5fde"
+   }
+  },
+  {
+   "code": "270f",
+   "slug": "pencil",
+   "name": "pencil",
+   "emoji": "✏️",
+   "category": "Objects",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "17d34543eec24baacb03e0abdc126ead6685c505deb898375d00f45ecd14c55f",
+    "24": "02b6c29beda9b228638039d8f44200628bd705ac234f1fb99eb3ad7a55e562df"
+   }
+  },
+  {
+   "code": "1f511",
+   "slug": "key",
+   "name": "key",
+   "emoji": "🔑",
+   "category": "Objects",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "dddf4ba251c656cc77fa8bcd52931e672a2b9824c6fd65c068ad47e639e49446",
+    "24": "996d7c59679195c420ca1093792320b8b41521b00916845c925e0e75f77e7b09"
+   }
+  },
+  {
+   "code": "1f6b9",
+   "slug": "mens-room",
+   "name": "men’s room",
+   "emoji": "🚹️",
+   "category": "Symbols",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "91de2db0cbc1f4ea45eaef06873dba71dd63d9997aabf0b58c7b969436bbb43f",
+    "24": "154288318d19a8116704bca24e87ce0126831271d7bd6301e645fe0351e7cdca"
+   }
+  },
+  {
+   "code": "26a0",
+   "slug": "warning",
+   "name": "warning",
+   "emoji": "⚠️",
+   "category": "Symbols",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "1992890452cb3eaffffc78980b964ffb339a4c64cda5796a10b1954d5c541745",
+    "24": "1f7b98a87f6d63124044a12e15c22e1f66d3ec017bddf0d6451880e2081a7680"
+   }
+  },
+  {
+   "code": "2622",
+   "slug": "radioactive",
+   "name": "radioactive",
+   "emoji": "☢️",
+   "category": "Symbols",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "71048ea207071c14e5d4a350fb437e7711e9c8cdc1633c11a9c39a870f59c592",
+    "24": "45eed2d0cccf590ae6bda082be252f472b6eae9acea430ef40f92818c80b9a25"
+   }
+  },
+  {
+   "code": "2753",
+   "slug": "red-question-mark",
+   "name": "red question mark",
+   "emoji": "❓️",
+   "category": "Symbols",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "b8a30849d3111117e9741f487ada8aff97cfb40a4feaf8665b019e9e53140864",
+    "24": "f5c4aaeea2babde96a81c67060e7dd5839f54829c04a7076b1ce3eaf3f5197a6"
+   }
+  },
+  {
+   "code": "267b",
+   "slug": "recycling-symbol",
+   "name": "recycling symbol",
+   "emoji": "♻️",
+   "category": "Symbols",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "fda4d8769669770b2fbd41cc4b1bbc53c6554a6ae75af3be13e690be70d42b72",
+    "24": "651a9503d4c69211a0aae0cee0f421a52291f148fb0524cb239385a0e4ddfc79"
+   }
+  },
+  {
+   "code": "2705",
+   "slug": "check-mark-button",
+   "name": "check mark button",
+   "emoji": "✅️",
+   "category": "Symbols",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "e241a278c3b92965dea5e80ac646b4ba2df8dc56db8d451d29e55137245a8195",
+    "24": "d44c75c256b6e0a0c570ee92785f31fbe321a31e084dff052e38f36532c0a1df"
+   }
+  },
+  {
+   "code": "274c",
+   "slug": "cross-mark",
+   "name": "cross mark",
+   "emoji": "❌️",
+   "category": "Symbols",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "3855ca70e06d61932171a39436f3b38d8ff5ac81f5f64076599f33be780f974b",
+    "24": "eab55ef57fe6bbfa39b9fc12d9762c7129c5a20deeca2b9974c43d243a1c63d6"
+   }
+  },
+  {
+   "code": "1f197",
+   "slug": "ok-button",
+   "name": "OK button",
+   "emoji": "🆗",
+   "category": "Symbols",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "34e088d54c6473dd8533dcd64ac3fd8da69dfef4d1cd9bed4be54efa8682255c",
+    "24": "599ea614fd3e1f2192bb1f731942c78e24b389299d38785e1b031b66dc8b9f44"
+   }
+  },
+  {
+   "code": "25aa",
+   "slug": "black-small-square",
+   "name": "black small square",
+   "emoji": "▪️",
+   "category": "Symbols",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "989c663e70af4f0d2831598adf3500dbdefad01f9d34bdc157e65ac1a10aa96b",
+    "24": "dc8c9f3599bee16957ba55f020601c1679933e0e87566d9df50f8df2a2199889"
+   }
+  },
+  {
+   "code": "1f3c1",
+   "slug": "chequered-flag",
+   "name": "chequered flag",
+   "emoji": "🏁",
+   "category": "Flags",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "d800686d9e860a8bc20a8c8e101b5f0e91bfad0b3f31a7dae2af246617234ba9",
+    "24": "f090c156d8109951854d914447f6b6b2e26285a1e24a7fcaff29bd159a11436b"
+   }
+  },
+  {
+   "code": "1f3f4-200d-2620-fe0f",
+   "slug": "pirate-flag",
+   "name": "pirate flag",
+   "emoji": "🏴‍☠️",
+   "category": "Flags",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "93e479f4fb510e1f493c81c164a75b83a62eadf0ca3be33d36a10e6ce3d2c313",
+    "24": "428f508157a7555774536229dd62f8e55425b6df1feb771a4fed4d1d7e49d357"
+   }
+  },
+  {
+   "code": "1f1e8-1f1e6",
+   "slug": "flag-canada",
+   "name": "flag: Canada",
+   "emoji": "🇨🇦",
+   "category": "Flags",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "6235e753072e33d3e43ae67257008e6aab1eacc4e0907f2ead0220162c946545",
+    "24": "72199aad0e8e9dc48cc286eebaf9694fb703a4a0806e84e86204fed99aeb1f88"
+   }
+  },
+  {
+   "code": "1f1ec-1f1e7",
+   "slug": "flag-united-kingdom",
+   "name": "flag: United Kingdom",
+   "emoji": "🇬🇧",
+   "category": "Flags",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "9430b13c3f2fb8e9f0632182a359afc6949a41cd9b81a8d34bf1dce3184fcbe7",
+    "24": "374d760e8d336fbef09f74d0f6ef7a0be999f4435dc8f276a3e7be12bc9cafe3"
+   }
+  },
+  {
+   "code": "1f1ef-1f1f5",
+   "slug": "flag-japan",
+   "name": "flag: Japan",
+   "emoji": "🇯🇵",
+   "category": "Flags",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "exemplar",
+   "pixelSha256": {
+    "16": "0d99f81d2280ac78eb80435cef37ce49f080815b4b46297b86490878ac0bcc36",
+    "24": "729c4fa85da98d322d844e1f814e51bf418c6740bf7f57e4590c30b7f09e216b"
+   }
+  },
+  {
+   "code": "1f1fa-1f1f8",
+   "slug": "flag-united-states",
+   "name": "flag: United States",
+   "emoji": "🇺🇸",
+   "category": "Flags",
+   "sizes": [
+    16,
+    24
+   ],
+   "reason": "cited in the skill",
+   "pixelSha256": {
+    "16": "917e9c4be7e9a73953519355295d9c495eb8c2ba39a0f9473b2889ffedaf2c43",
+    "24": "dbdbeb819bc3c7e99e0a47fcdaffee2cbf8bf7b99b822318080c3f6829c21c9a"
+   }
+  }
+ ]
+}

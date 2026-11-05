@@ -1,0 +1,41 @@
+name: grinning face with smiling eyes
+size: 24
+code: 1f604
+file: grinning-face-with-smiling-eyes
+category: Smileys
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #c8283a
+b #f08e00
+c #ffbf00
+d #ffe600
+e #ffff93
+f #ffffcf
+g #ffffff
+
+[grid]
+........................
+........########........
+......##eeeeeedd##......
+.....#eedddddddddc#.....
+....#edddddddddddcc#....
+...#eddffdddddddddcc#...
+..#edddfdddddddddddcc#..
+..#ed####dddddd####cc#..
+.#ed#dddd#dddd#dddd#cc#.
+.#ed#dddd#dddd#dddd#cc#.
+.#edddddddddddddddddcc#.
+.#edddddddddddddddddcb#.
+.#edddddddddddddddddcb#.
+.#eddd############ddcb#.
+.#eddd#gggggggggg#ddcb#.
+.#eddd#aaaaaaaaaa#ddcb#.
+..#dddd#aaaaaaaa#ddcb#..
+..#ddddd#aaaaaa#dddcb#..
+...#ddddd######dddcb#...
+....#cccddddddddccc#....
+.....#ccccccccccbb#.....
+......##cccccbbb##......
+........########........
+........................

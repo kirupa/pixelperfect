@@ -1,0 +1,40 @@
+name: cold face
+size: 24
+code: 1f976
+file: cold-face
+category: Smileys
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #2a6aad
+b #3d95d6
+c #66bff2
+d #ade2ff
+e #ebf8ff
+f #ffffff
+
+[grid]
+........................
+........########........
+.....######dddc######...
+.....#f##f#ccc##f##f#...
+....##f#c#cccccc###f#...
+...####eeccccccccc###...
+..#dcccecccccccccccbb#..
+..#dcccccccccccccccbb#..
+.#dcccccc#cccc#cccccbb#.
+.#dcccccc#cccc#cccccbb#.
+.#dcccccc#cccc#cccccbb#.
+.#dcccccc#cccc#cccccba#.
+.#dcccccccccccccccccba#.
+.#dcccccccccccccccccba#.
+.#dcc#############ccba#.
+.#dcc#ff#ff#ff#ff#ccba#.
+..#cc#############cba#..
+..#cc#ff#ff#ff#ff#cba#..
+...#c#############ba#...
+....#bbbccccccccbbb#....
+.....#bbbbbbbbbbaa#.....
+......##bbbbbaaa##......
+........########........
+........................

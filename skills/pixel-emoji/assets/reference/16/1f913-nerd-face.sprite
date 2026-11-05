@@ -1,0 +1,33 @@
+name: nerd face
+size: 16
+code: 1f913
+file: nerd-face
+category: Smileys
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #f08e00
+b #9aa6b4
+c #ffbf00
+d #ffe600
+e #ffff93
+f #ffffcf
+g #ffffff
+
+[grid]
+......#####.....
+....##eeeed##...
+...#eeddddddd#..
+..#efddddddddd#.
+..######d######.
+.#e#g#g###g#g#c#
+.#e#g#g#d#g#g#c#
+.#ed###ddd###dc#
+.#eddddddddddca#
+.#ddd#ddddd#dca#
+..#ddd#gbg#dca#.
+..#dddd###dcca#.
+...#dddddccaa#..
+....##cccaa##...
+......#####.....
+................

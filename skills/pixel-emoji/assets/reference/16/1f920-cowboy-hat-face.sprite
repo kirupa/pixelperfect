@@ -1,0 +1,35 @@
+name: cowboy hat face
+size: 16
+code: 1f920
+file: cowboy-hat-face
+category: Smileys
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #4e2c0a
+b #6e4214
+c #9a5f22
+d #c98a3c
+e #f08e00
+f #e0a85a
+g #ffbf00
+h #ffe600
+i #ffff93
+
+[grid]
+......##.##.....
+.##..#dc#cb#..##
+.#d#.#dcccb#.#b#
+.#cd#aaaaaaa#cb#
+.#cffffffffffcb#
+..#ccccccccccb#.
+...###########..
+..#ihhhhhhhhhg#.
+..#ihh#hhh#hhg#.
+..#ihh#hhh#hhg#.
+..#ihh#hhh#hge#.
+..#h#hhhhhhh#e#.
+...#h#hhhhg#e#..
+...#hh#####ee#..
+....##gggee##...
+......#####.....

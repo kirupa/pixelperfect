@@ -1,0 +1,39 @@
+name: flying saucer
+size: 16
+code: 1f6f8
+file: flying-saucer
+category: Travel
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #4b5761
+b #67757f
+c #3b88c3
+d #5dadec
+e #9aaab4
+f #ffac33
+g #8ccaf7
+h #ccd6dd
+i #ffd983
+j #e1e8ed
+k #e3f4ff
+l #f5f8fa
+m #f2fbff
+
+[grid]
+......####......
+.....#kgdd#.....
+...##gddddc##...
+.##ljjjhhhhee##.
+#emememeemememe#
+.##bbbbbbbbbb##.
+...##aaaaaa##...
+....#ifiifi#....
+....#fiffif#....
+...#iiiiiiii#...
+...#fifiifif#...
+...#iiiiiiii#...
+..#iiiiiiiiii#..
+..#iiiiiiiiii#..
+..#iiiiiiiiii#..
+...##########...

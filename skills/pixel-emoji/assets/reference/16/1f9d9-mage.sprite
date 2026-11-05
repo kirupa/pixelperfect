@@ -1,0 +1,37 @@
+name: mage
+size: 16
+code: 1f9d9
+file: mage
+category: People
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #b8361a
+b #ef5a2a
+c #55acee
+d #99aab5
+e #ff8a55
+f #d99e82
+g #ffbf00
+h #ffe600
+i #ccd6dd
+j #bde2ff
+k #ffff93
+
+[grid]
+.##.....#.......
+#jc#...#e#......
+#cc#..#eea#.....
+#f####eebba####.
+#f#eeeebbbbbbaa#
+#f#ihh#hhh#hhi#.
+#f#ihh#hhh#hhi#.
+#f#ikhhhhhhhgi#.
+#f#ikh#hhh#hgi#.
+#f#ikhh###hhgi#.
+#f#i#hhhhhhg#id#
+#f#id##ggg##did#
+#hheeeebgbbbbba#
+#hgeebbbbbbbbaa#
+#f#ebbbbbbbbbaa#
+.##############.

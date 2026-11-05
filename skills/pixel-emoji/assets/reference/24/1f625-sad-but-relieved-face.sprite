@@ -1,0 +1,42 @@
+name: sad but relieved face
+size: 24
+code: 1f625
+file: sad-but-relieved-face
+category: Smileys
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #2273c3
+b #3fa9f0
+c #f08e00
+d #ffbf00
+e #ffe600
+f #b8e6ff
+g #ffff93
+h #ffffcf
+
+[grid]
+........................
+........########........
+......##ggggggee##......
+.....#gg##eeee##ed#.....
+....#g##eeeeeeee##d#....
+...###ehheeeeeeeee###...
+..#geeeheeeeeeeeeeedd#..
+..#geeeeeeeeeeeeeeedd#..
+.#geeeeee#eeee#eeeeedd#.
+.#geeeeee#eeee#eeeeedd#.
+.#geeeeee#eeee#eeeeedd#.
+.#geeeeee#eeee#eeeeedc#.
+.#ge#eeeeeeeeeeeeeeedc#.
+.#g#f#eeeeeeeeeeeeeedc#.
+.#g#b#eeeeeeeeeeeeeedc#.
+.##fbb#eeeeeeeeeeeeedc#.
+.#fbbbb#ee####eeeeedc#..
+.#bbbba#e#eeee#eeeedc#..
+..#bba#e#eeeeee#eedc#...
+...###ddeeeeeeeeddd#....
+.....#ddddddddddcc#.....
+......##dddddccc##......
+........########........
+........................

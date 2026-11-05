@@ -1,0 +1,35 @@
+name: person gesturing NO
+size: 16
+code: 1f645
+file: person-gesturing-no
+category: People
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #8a3a00
+b #b8361a
+c #a04a06
+d #e07f16
+e #ff8a55
+f #ffb23a
+g #ffbf00
+h #ffe600
+i #ffff93
+
+[grid]
+......#####.....
+....##ffdda##...
+...#ffdddddda#..
+..#fcccchcccca#.
+..#dhh#hhh#hha#.
+..#dhh#hhh#hha#.
+..##ihhhhhhhg##.
+.#ih#ihhhhhg#ih#
+.#hg#ih###hg#hg#
+.#eee#hhhhh#eee#
+.#beee#ggg#eeeb#
+.#bbbeeee#eebbb#
+.#bbbbee#eeebbb#
+.#bbeeebbbeeebb#
+.#eeebbbbbbbeee#
+..#############.

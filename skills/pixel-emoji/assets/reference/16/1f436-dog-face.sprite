@@ -1,0 +1,38 @@
+name: dog face
+size: 16
+code: 1f436
+file: dog-face
+category: Animals
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #2c3038
+b #5c260e
+c #84401f
+d #c6334b
+e #a65f36
+f #f25e74
+g #8a95a3
+h #d08850
+i #f0b07a
+j #f0d6b8
+k #ffd8a8
+l #fff4e4
+
+[grid]
+................
+..############..
+.#eekkkkiiiicb#.
+#eeckiiiiiiicbb#
+#ecciiiiiiiicbb#
+#ecci#iiii#icbb#
+#ccci#iiii#icbb#
+#cbiiiiiiiiihbb#
+.#cillgaaaljhb#.
+.#cilllaalljhb#.
+..#il######jh#..
+..#iiilffjiih#..
+...#iilfdjih#...
+....##ffdd##....
+......####......
+................

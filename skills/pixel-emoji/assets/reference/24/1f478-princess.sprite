@@ -1,0 +1,45 @@
+name: princess
+size: 24
+code: 1f478
+file: princess
+category: People
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #8a3a00
+b #e0243c
+c #66757f
+d #c8620a
+e #f0901e
+f #99aab5
+g #ffb23a
+h #ffbf00
+i #ffe600
+j #ccd6dd
+k #f5f8fa
+
+[grid]
+....##.....##.....##....
+....#k#...#jf#...#k#....
+....#jf#.#jkkf#.#fc#....
+....#jff#ffkkff#ffc#....
+....#jffffffffffffc#....
+...##################...
+...#geeeeeeeeeeeeedd#...
+..#geeeeeeeeeeeeeeedd#..
+..#geeee########eeedd#..
+..#gee##iiiiiiii##edd#..
+..#ge#iiiiiiiiiiii#dd#..
+..#ge#iiiiiiiiiiii#da#..
+..#g#iii##iiii##iii#a#..
+..#g#iii##iiii##iii#a#..
+..#g#iii##iiii##iii#a#..
+..#g#iiiiiiiiiiiiii#a#..
+..#e#iiiiiiiiiiiiii#a#..
+..#ee#iibiiiiiibii#da#..
+..#ee#iiibbbbbbiii#da#..
+..#eee#iiiiiiiiii#eda#..
+..#dddd##hhhhhh##ddda#..
+..#dddddd######aaaaaa#..
+...##################...
+........................

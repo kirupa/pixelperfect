@@ -1,0 +1,39 @@
+name: enraged face
+size: 24
+code: 1f621
+file: enraged-face
+category: Smileys
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #8d1b2b
+b #c42a3c
+c #ea4848
+d #ff8a6e
+e #ffd2c4
+
+[grid]
+........................
+........########........
+......##ddddddcc##......
+....###dccccccccc###....
+....#####cccccc#####....
+...#dcc####cc####cbb#...
+..#dcccec##cc##ccccbb#..
+..#dcccccccccccccccbb#..
+.#dcccccc#cccc#cccccbb#.
+.#dcccccc#cccc#cccccbb#.
+.#dcccccc#cccc#cccccbb#.
+.#dcccccc#cccc#cccccba#.
+.#dcccccccccccccccccba#.
+.#dcccccccccccccccccba#.
+.#dcccccccccccccccccba#.
+.#dcccccc######cccccba#.
+..#cccc##cccccc##ccba#..
+..#ccc#cccccccccc#cba#..
+...#ccccccccccccccba#...
+....#bbbccccccccbbb#....
+.....#bbbbbbbbbbaa#.....
+......##bbbbbaaa##......
+........########........
+........................

@@ -1,0 +1,46 @@
+name: Santa Claus
+size: 24
+code: 1f385
+file: santa-claus
+category: People
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #b81d2e
+b #dd2e44
+c #f2625e
+d #99aab5
+e #ffbf00
+f #c7cde0
+g #ffe600
+h #ccd6dd
+i #e1e8ed
+j #f5f8fa
+k #f7f8fc
+l #ffffff
+
+[grid]
+........######..........
+......##ccbbbb##..####..
+.....#ccbbbbbbba##llkk#.
+....#cbbbbbbbbbba#llkkf#
+...#cbbbbbbbbbbba#lkkff#
+..#cbbbbbbbbbbbaa##kff#.
+.#llllllllllllllllll###.
+.#kkkkkkkkkkkkkkkkkkkk#.
+.#ffffffffffffffffffff#.
+.######################.
+.#ji#gggggggggggggg#hd#.
+#jji#gggggggggggggg#ihd#
+#ji#gggg##gggg##gggg#hd#
+#ji#gggg##gggg##gggg#hd#
+#ji#gggg##gggg##gggg#hd#
+#jii#ggggggggggggge#ihd#
+#jiii#ggg######gge#iihd#
+#jiiii##llllllll##iiihd#
+#jiiilllllllllllllliihd#
+#jiiiillllhhhhlllliiihd#
+.#iiiiihhhiiiihhhiiihd#.
+..#iiiiiiiiiiiiiiiihd#..
+...##iiiiiiiiiiihhd##...
+.....##############.....

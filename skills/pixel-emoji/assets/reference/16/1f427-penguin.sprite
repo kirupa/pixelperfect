@@ -1,0 +1,33 @@
+name: penguin
+size: 16
+code: 1f427
+file: penguin
+category: Animals
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #343c47
+b #5a6577
+c #f4900c
+d #ffac33
+e #c5d0d8
+f #eef2f5
+g #ffffff
+
+[grid]
+.....######.....
+....#bbaaaa#....
+...#baaaaaaa#...
+..#baaaaaaaaa#..
+..#bagfaagfaa#..
+..#bgf#ff#ffa#..
+..#bgf#ff#ffa#..
+..#bgfddddffa#..
+.#bagffdcffeaa#.
+#bbagffffffeaaa#
+#baagffffffeaaa#
+#ba#gffffffe#aa#
+.##agffffffea##.
+...#affffeea#...
+...#ddc##ddc#...
+....###..###....

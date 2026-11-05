@@ -1,0 +1,32 @@
+name: wrapped gift
+size: 16
+code: 1f381
+file: wrapped-gift
+category: Activities
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #b01f38
+b #da2f47
+c #ef5a6e
+d #efbf66
+e #fdd888
+f #fff2c4
+
+[grid]
+..###......###..
+.#ccb#....#bba#.
+.#cbaa####aaba#.
+..#baaabbaaaa#..
+#######bb#######
+#feeeecbbaeeeee#
+#eeeeecbbaeeeed#
+################
+.#ddddcbbadddd#.
+.#feeecbbaeeed#.
+.#feeecbbaeeed#.
+.#eeeecbbaeeed#.
+.#eeeecbbaeeed#.
+.#eeeecbbaeeed#.
+.#eeeecbbaeedd#.
+..############..

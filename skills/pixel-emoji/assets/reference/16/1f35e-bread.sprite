@@ -1,0 +1,35 @@
+name: bread
+size: 16
+code: 1f35e
+file: bread
+category: Food
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #9c4416
+b #c4651f
+c #de8a2e
+d #f0b148
+e #e4b679
+f #f3d39d
+g #f9d67f
+h #fbe6c0
+i #fff6e2
+
+[grid]
+........#####...
+......##ggddd#..
+....##giggdddc#.
+...#gigggdddcbb#
+..#ccccdddcbbbb#
+.#ciiihccbbbbb#.
+#ciihhhfbbbbba#.
+#chhhffebbbbba#.
+.#chhfebbbbbba#.
+.#chfhebbbbbaa#.
+.#chhfebbbbaaa#.
+.#chffebbbaaa#..
+.#cfffebaaaa#...
+.#aaaaaaaa##....
+..########......
+................

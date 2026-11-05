@@ -1,0 +1,31 @@
+name: person: bald
+size: 16
+code: 1f9d1-200d-1f9b2
+file: person-bald
+category: People
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #f08e00
+b #ffbf00
+c #ffe600
+d #ffff93
+e #ffffcf
+
+[grid]
+......#####.....
+....##dddcc##...
+...#ddccccccc#..
+...#deccccccc#..
+..#dcccccccccb#.
+..#dcccccccccb#.
+..#dcccccccccb#.
+.#bdcc#ccc#ccba#
+.#bdcc#ccc#ccba#
+.#bdcccccccccba#
+..#ccc#ccc#ccb#.
+..#cccc###ccbb#.
+...#bbcccccba#..
+....##bbbaa##...
+......#####.....
+................

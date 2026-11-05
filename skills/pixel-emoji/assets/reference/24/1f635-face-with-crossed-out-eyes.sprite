@@ -1,0 +1,40 @@
+name: face with crossed-out eyes
+size: 24
+code: 1f635
+file: face-with-crossed-out-eyes
+category: Smileys
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #c8283a
+b #f08e00
+c #ffbf00
+d #ffe600
+e #ffff93
+f #ffffcf
+
+[grid]
+........................
+........########........
+......##eeeeeedd##......
+.....#eedddddddddc#.....
+....#edddddddddddcc#....
+...#eddffdddddddddcc#...
+..#edddfdddddddddddcc#..
+..#e##dd##dddd##dd##c#..
+.#edd####dddddd####dcc#.
+.#eddd##dddddddd##ddcc#.
+.#edd####dddddd####dcc#.
+.#ed##dd##dddd##dd##cb#.
+.#edddddddddddddddddcb#.
+.#edddddddddddddddddcb#.
+.#eddddddd####ddddddcb#.
+.#edddddd#aaaa#dddddcb#.
+..#dddddd#aaaa#ddddcb#..
+..#dddddd#aaaa#ddddcb#..
+...#dddddd####ddddcb#...
+....#cccddddddddccc#....
+.....#ccccccccccbb#.....
+......##cccccbbb##......
+........########........
+........................

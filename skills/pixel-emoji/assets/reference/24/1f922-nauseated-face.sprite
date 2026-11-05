@@ -1,0 +1,39 @@
+name: nauseated face
+size: 24
+code: 1f922
+file: nauseated-face
+category: Smileys
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #467a2a
+b #66a03f
+c #8cc65e
+d #bde88c
+e #eaffd2
+
+[grid]
+........................
+........########........
+......##ddddddcc##......
+.....#dd##cccc##cb#.....
+....#d##cccccccc##b#....
+...###ceeccccccccc###...
+..#dcccecccccccccccbb#..
+..#dc#cccccccccccc#bb#..
+.#dcc##cccccccccc##cbb#.
+.#dccc###cccccc###ccbb#.
+.#dcc##cccccccccc##cbb#.
+.#dcc#cccccccccccc#cba#.
+.#dcccccccccccccccccba#.
+.#dcccccccccccccccccba#.
+.#dcccccccccccccccccba#.
+.#dcccccccccccccccccba#.
+..#cccc##cc##cc##ccba#..
+..#ccc#cc##cc##cc#cba#..
+...#ccccccccccccccba#...
+....#bbbccccccccbbb#....
+.....#bbbbbbbbbbaa#.....
+......##bbbbbaaa##......
+........########........
+........................

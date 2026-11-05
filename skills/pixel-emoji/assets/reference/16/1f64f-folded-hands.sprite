@@ -1,0 +1,33 @@
+name: folded hands
+size: 16
+code: 1f64f
+file: folded-hands
+category: People
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #1f4a85
+b #3b78c4
+c #6aa5e6
+d #f08e00
+e #ffbf00
+f #ffe600
+g #ffff93
+
+[grid]
+......##.##.....
+.....#gf#gf#....
+....#gfe#gfe#...
+....#gfe#gfe#...
+...#gffe#gffe#..
+...#gffedgffe#..
+...#gffedgffe#..
+..#gfffedgfffe#.
+..#gfffedgfffe#.
+.#cgfffedgfffec#
+.#cbgffedgffecb#
+.#cbagfedgfecba#
+.#cbbagedgecbba#
+.#cbbba###cbbba#
+.#cbbba#.#cbbba#
+..#####...#####.

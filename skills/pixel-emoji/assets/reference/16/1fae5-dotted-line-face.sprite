@@ -1,0 +1,29 @@
+name: dotted line face
+size: 16
+code: 1fae5
+file: dotted-line-face
+category: Smileys
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #f08e00
+b #ffbf00
+c #fff5db
+
+[grid]
+......#####.....
+....##bcbcb##...
+...#bcccccccb#..
+..#ccccccccccc#.
+..#bcc#ccc#cca#.
+.#cccc#ccc#cccc#
+.#bccc#ccc#ccca#
+.#ccccccccccccc#
+.#bccccccccccca#
+.#ccccccccccccc#
+..#bcc#####cca#.
+..#ccccccccccc#.
+...#accccccca#..
+....##acaca##...
+......#####.....
+................

@@ -1,0 +1,40 @@
+name: smiley-24
+size: 24
+essence: 1f642 slightly smiling face at 24: calm and friendly
+keep: 1x5 eye bars at x 9 and 14, a smile with stepped corners
+drop: brows, nose, cheeks, teeth
+view: front
+note: 1f642 at 24: a 22px stepped head, 1x5 eyes, a 2-step smile
+
+[palette]
+W #ffffcf glint (3 pixels, upper left)
+S #ffff93 skin light (upper-left rim)
+s #ffe600 skin base (the Darkproject smiley yellow)
+t #ffbf00 skin shade (lower-right rim)
+u #f08e00 skin deep shade
+
+[grid]
+........................
+........########........
+......##SSSSSSss##......
+.....#SSssssssssst#.....
+....#Sssssssssssstt#....
+...#SssWWssssssssstt#...
+..#SsssWs#ssss#sssstt#..
+..#Ssssss#ssss#sssstt#..
+.#Sssssss#ssss#ssssstt#.
+.#Sssssss#ssss#ssssstt#.
+.#Sssssss#ssss#ssssstt#.
+.#Sssssssssssssssssstu#.
+.#Sssssssssssssssssstu#.
+.#Sssssssssssssssssstu#.
+.#Sssss#ssssssss#ssstu#.
+.#Ssssss#ssssss#sssstu#.
+..#ssssss######sssstu#..
+..#sssssssssssssssstu#..
+...#sssssssssssssstu#...
+....#tttssssssssttt#....
+.....#ttttttttttuu#.....
+......##tttttuuu##......
+........########........
+........................

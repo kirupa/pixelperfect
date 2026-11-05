@@ -1,0 +1,31 @@
+name: crescent moon
+size: 16
+code: 1f319
+file: crescent-moon
+category: Travel
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #e6a43f
+b #f2bd52
+c #f6c35c
+d #ffd983
+e #ffeab5
+
+[grid]
+............#...
+...........#e#..
+...........#ee#.
+...........#ec#.
+...........#edc#
+...........#edc#
+...........#ebc#
+..........#edbc#
+..........#eddc#
+.........#edddc#
+.......##ebbdc#.
+.######eedbdda#.
+#eeeeeeddddda#..
+.#ecddbbddca#...
+..##cccccc##....
+....######......

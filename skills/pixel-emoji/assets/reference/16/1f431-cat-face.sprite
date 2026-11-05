@@ -1,0 +1,31 @@
+name: cat face
+size: 16
+code: 1f431
+file: cat-face
+category: Animals
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #ee8a12
+b #e8a32a
+c #f7899d
+d #ffc94a
+e #ffe27a
+
+[grid]
+.#............#.
+.##..........##.
+.#c#........#c#.
+.#ec#......#cb#.
+.#ecc######ccb#.
+#edadddaadddadb#
+#edadddaadddadb#
+#eddd#dddd#dddb#
+#eddd#dddd#dddb#
+#ddddddccdddddb#
+.#ddd#d##d#ddb#.
+..#ddd#dd#ddb#..
+...##dddddb##...
+.....######.....
+................
+................

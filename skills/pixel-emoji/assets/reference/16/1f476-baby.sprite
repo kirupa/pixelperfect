@@ -1,0 +1,35 @@
+name: baby
+size: 16
+code: 1f476
+file: baby
+category: People
+source: the approved kirupa.com Pixel set, 16px; free license in assets/LICENSE.md
+
+[palette]
+a #8a2c1a
+b #e07f16
+c #f08e00
+d #ffb23a
+e #ffbf00
+f #ffe600
+g #ffff93
+h #ffffcf
+i #ffffff
+
+[grid]
+......##........
+.....#db#.......
+......#bb##.....
+....##gggff##...
+...#ggfffffff#..
+..#ghffffffffe#.
+..#gfffffffffe#.
+..#gfffffffffe#.
+.#egff#fff#ffec#
+.#egff#fff#ffec#
+.#effffffffffec#
+..#fff#aia#ffe#.
+..#ffff###ffec#.
+...#fffffeecc#..
+....##eeecc##...
+......#####.....

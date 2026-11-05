@@ -1,0 +1,37 @@
+name: bust-16
+size: 16
+essence: a person from the chest up: hair cap, face, shoulders in a shirt
+keep: hair separated from skin by value, 1x2 eyes, a smile, a lit and a shaded shoulder
+drop: ears, nose, neck detail, hands
+view: front
+note: head and shoulders: hair cap separated from skin by value, 1x2 eyes, shirt with a light and a dark shoulder
+
+[palette]
+S #ffff93 skin light (upper-left rim)
+s #ffe600 skin base (the Darkproject smiley yellow)
+t #ffbf00 skin shade (lower-right rim)
+H #ffb23a hair light
+O #ff8a55 shirt light
+h #e07f16 hair base
+o #ef5a2a shirt base
+d #a04a06 hair shade
+q #b8361a shirt shade
+k #8a3a00 hair deep shade
+
+[grid]
+......#####.....
+....##HHhhk##...
+...#HHhhhhhhk#..
+..#Hddddsddddk#.
+..#hss#sss#ssk#.
+..#hss#sss#ssk#.
+..#Sssssssssst#.
+..#Sss#sss#sst#.
+..#Ssss###ssst#.
+...#ssssssstt#..
+...####ttt####..
+..#OOOooqooooq#.
+.#OOooooooooooq#
+.#Ooooooooooooq#
+.#ooooooooooqqq#
+..#############.

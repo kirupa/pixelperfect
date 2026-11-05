@@ -1,0 +1,39 @@
+name: kissing face with smiling eyes
+size: 24
+code: 1f619
+file: kissing-face-with-smiling-eyes
+category: Smileys
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #f08e00
+b #ffbf00
+c #ffe600
+d #ffff93
+e #ffffcf
+
+[grid]
+........................
+........########........
+......##ddddddcc##......
+.....#ddcccccccccb#.....
+....#dcccccccccccbb#....
+...#dcceecccccccccbb#...
+..#dcccecccccccccccbb#..
+..#dc####cccccc####bb#..
+.#dc#cccc#cccc#cccc#bb#.
+.#dc#cccc#cccc#cccc#bb#.
+.#dcccccccccccccccccbb#.
+.#dcccccccccccccccccba#.
+.#dcccccccccccccccccba#.
+.#dccccccc##ccccccccba#.
+.#dccccccccc#cccccccba#.
+.#dcccccccc#ccccccccba#.
+..#ccccccccc#ccccccba#..
+..#ccccccc##cccccccba#..
+...#ccccccccccccccba#...
+....#bbbccccccccbbb#....
+.....#bbbbbbbbbbaa#.....
+......##bbbbbaaa##......
+........########........
+........................

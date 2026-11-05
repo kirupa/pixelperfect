@@ -1,0 +1,52 @@
+name: birthday cake
+size: 24
+code: 1f382
+file: birthday-cake
+category: Food
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #85163c
+b #c0264c
+c #e5455f
+d #c94f86
+e #e88c1c
+f #f57585
+g #6cb2f0
+h #ef7eae
+i #ffadc9
+j #ffb3b8
+k #f3d39d
+l #ffe066
+m #ffe08a
+n #ffd9e6
+o #fbe6c0
+p #fff3b0
+q #fff2f6
+r #fff6e2
+
+[grid]
+........................
+......#...........#.....
+.....#e#.........#e#....
+....#me#........#me#....
+....#pm#....#...#pm#....
+.....##....#e#...##.....
+....#rk#..#me#..#rk#....
+....#rk####pm####rk#....
+...##rk#fff##fff#rk##...
+..#f#ok#ff#rk#ll#ok#f#..
+.#fff##ffq#rk#fff##fgf#.
+.#jllfffqf#rk#fffffgfc#.
+.#cjjjffff#ok#ffffccca#.
+.#ccfcjjjff##fffccbaaa#.
+.#cccccccccccccbbbbaaa#.
+.#icqncccccccccbbbhdad#.
+.#iqqnfcciicciicbbhddd#.
+.#innncfciiiiiibcbhddd#.
+.#innnnciiiiiiihbhhddd#.
+.#cnnnniiiiiiiihhhhdda#.
+..#cccniiiiiiiihhhaaa#..
+...###bbbbbbbbbbaa###...
+......############......
+........................

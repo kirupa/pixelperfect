@@ -1,0 +1,44 @@
+name: face with peeking eye
+size: 24
+code: 1fae3
+file: face-with-peeking-eye
+category: Smileys
+source: the approved kirupa.com Pixel set, 24px; free license in assets/LICENSE.md
+
+[palette]
+a #8a3c00
+b #c8283a
+c #c86400
+d #f08e00
+e #f4900c
+f #ffbf00
+g #ffb547
+h #ffe600
+i #ffff93
+j #ffffff
+
+[grid]
+........................
+........########........
+......##iiiiiihh##......
+.....#iihhhhhhhhhf#.....
+....#ih####hh####ff#....
+...#ihhhhhhhhhhhhhff#...
+..#ihhh##hhhh####h##f#..
+..#ihh#gg####jjjj#gg##..
+.#ihhh#geagg#j##j#ge####
+.#ihhh#geage#j##j#geagg#
+.#i####geage#jjjj#geage#
+.##ggageage#h#####geage#
+.##geageage#hhhhh#geage#
+.#geageage#hhhhhh#geage#
+.#geageage#hhhhhh#geage#
+.#geageage#hhh####geage#
+.#geeeeeee####geeeeeeee#
+.#geeeeeec#bb#geeeeeeec#
+.#geeeeeec#bb#eeeeeeec#.
+..#eeeeeec#bb#eeeeeec#..
+...#ccccc#f##f#ccccc#...
+....#####ffffdd#####....
+........########........
+........................
