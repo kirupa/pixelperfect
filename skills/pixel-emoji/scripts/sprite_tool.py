@@ -93,7 +93,7 @@ LIGHT = (255, 255, 255)
 DARK = (24, 26, 32)
 TWEMOJI_VERSION = "17.0.3"
 CDN = "https://cdn.jsdelivr.net/gh/jdecked/twemoji@v" + TWEMOJI_VERSION + "/assets/svg/{}.svg"
-USER_AGENT = "pixel-emoji-skill (+https://github.com/kirupa/pixelart)"
+USER_AGENT = "pixel-emoji-skill (+https://github.com/kirupa/pixel_icons)"
 KEYS = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
 # Calibrated on the 1,948 approved drawings of the kirupa.com Pixel set at each size: none raises an error, each
 # warning fires on at most ~6% of them, and 74% (16px) and 83% (24px) raise no warning at all. About 95% stay

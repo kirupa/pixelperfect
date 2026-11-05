@@ -1,4 +1,4 @@
-# pixelart: the pixel-emoji agent skill
+# pixel_icons: the pixel-emoji agent skill
 
 **pixel-emoji** is an agent skill that teaches an AI coding agent to hand-draw proper 16×16 and 24×24 pixel-art emoji for any subject: objects, animals, food, plants, smileys, people, a portrait of a real person from a photo, symbols and flags. It's the method behind the 1,948 hand-drawn Pixel emoji on [kirupa.com](https://www.kirupa.com/tools/icon_gallery_pixel.htm), as Kirupa Chinnathambi taught it from first principles, one critique at a time. It has a 14-step procedure, references with right-and-wrong grids and his critiques word for word, about 250 approved drawings to study, and `sprite_tool.py`, a command-line tool that starts sprites from templates, lints them against the house rules and renders review boards.
 
@@ -23,13 +23,13 @@ The skill is the folder `skills/pixel-emoji/`. Every installer copies just that 
 `gh skill` is in preview in the GitHub CLI; these commands were tested with gh 2.102.1.
 
 ```bash
-gh skill install kirupa/pixelart pixel-emoji
+gh skill install kirupa/pixel_icons pixel-emoji
 ```
 
 That installs into the current repository (`--scope project`, the default) for GitHub Copilot (the default agent when it runs non-interactively). Pick the agent with `--agent`, install for every project with `--scope user`, or name any folder with `--dir PATH`:
 
 ```bash
-gh skill install kirupa/pixelart pixel-emoji --agent claude-code --scope user
+gh skill install kirupa/pixel_icons pixel-emoji --agent claude-code --scope user
 ```
 
 Where it put the skill in testing:
@@ -49,33 +49,33 @@ Where it put the skill in testing:
 With Node.js, the [`skills`](https://github.com/vercel-labs/skills) CLI installs it too (tested with skills 1.7.6):
 
 ```bash
-npx skills add kirupa/pixelart --skill pixel-emoji
+npx skills add kirupa/pixel_icons --skill pixel-emoji
 ```
 
 For every project, for one agent, without prompts:
 
 ```bash
-npx skills add kirupa/pixelart --skill pixel-emoji -g -a claude-code -y
+npx skills add kirupa/pixel_icons --skill pixel-emoji -g -a claude-code -y
 ```
 
-In testing, `-g -a claude-code` copied the skill to `~/.claude/skills/pixel-emoji`. Without `-g`, `-a github-copilot` copied it to `.agents/skills/pixel-emoji` in the current project and recorded it in `skills-lock.json`. `npx skills add kirupa/pixelart --list` shows what the repository offers without installing anything.
+In testing, `-g -a claude-code` copied the skill to `~/.claude/skills/pixel-emoji`. Without `-g`, `-a github-copilot` copied it to `.agents/skills/pixel-emoji` in the current project and recorded it in `skills-lock.json`. `npx skills add kirupa/pixel_icons --list` shows what the repository offers without installing anything.
 
 ### Copy it yourself
 
 Clone the repository and copy `skills/pixel-emoji` to a folder your agent reads skills from. In bash or zsh, for GitHub Copilot on your account:
 
 ```bash
-git clone https://github.com/kirupa/pixelart
+git clone https://github.com/kirupa/pixel_icons
 mkdir -p ~/.copilot/skills
-cp -R pixelart/skills/pixel-emoji ~/.copilot/skills/
+cp -R pixel_icons/skills/pixel-emoji ~/.copilot/skills/
 ```
 
 In PowerShell:
 
 ```powershell
-git clone https://github.com/kirupa/pixelart
+git clone https://github.com/kirupa/pixel_icons
 New-Item -ItemType Directory -Force "$HOME\.copilot\skills" | Out-Null
-Copy-Item -Recurse pixelart\skills\pixel-emoji "$HOME\.copilot\skills\"
+Copy-Item -Recurse pixel_icons\skills\pixel-emoji "$HOME\.copilot\skills\"
 ```
 
 Swap in the folder for your agent:
@@ -211,7 +211,7 @@ The `references/` folder holds the depth:
 ### Repository layout
 
 ```text
-pixelart/
+pixel_icons/
 ├── README.md                    this file
 ├── LICENSE                      MIT, for the code and docs
 ├── docs/
