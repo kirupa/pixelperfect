@@ -28,9 +28,11 @@ work: your own websites and blogs, slides, school work, and projects you
 don't sell or use to promote a business. Please credit kirupa.com, for
 example "Icons by kirupa.com".
 
-Commercial use needs an Icon Gallery Pro license. Pro also includes the SVG
-source files. Commercial use includes products and apps, client work, ads
-and marketing, merchandise, and anything you sell.
+Commercial use requires KIRUPAicons Pro. If you have purchased KIRUPAicons
+Pro, you may use these icons for commercial purposes under the Pro license.
+Pro also includes the SVG source files. Commercial use includes products
+and apps, client work, ads and marketing, merchandise, and anything you sell.
+Purchase KIRUPAicons Pro:
 https://www.kirupa.com/tools/icon_gallery.htm#pro
 
 You may not resell or redistribute the icons as an icon set, font, or asset
@@ -39,7 +41,7 @@ pack, or present them as your own artwork.
 The icons are provided as is, without warranty of any kind.
 ```
 
-So: credit "Icons by kirupa.com" when you use the drawings. For commercial use, or for the SVG source files, get [Icon Gallery Pro](https://www.kirupa.com/tools/icon_gallery.htm#pro).
+So: credit "Icons by kirupa.com" when you use the drawings. For commercial use, or for the SVG source files, get [KIRUPAicons Pro](https://www.kirupa.com/tools/icon_gallery.htm#pro).
 
 ## Twemoji
 
