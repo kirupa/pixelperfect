@@ -8,7 +8,7 @@ This license covers:
 - `examples/kirupa-portrait/`: the worked portrait's drawings;
 - the drawing grids (`ROWS_…` and `KEYS_…`) in `examples/python-module/tangerine.py`;
 - the grids of approved drawings quoted in `references/`: the drawings, not the text around them;
-- in the pixelperfect repository (https://github.com/kirupa/pixelperfect), the README's showcase images and the drawing grid in the script that makes them.
+- in the pixelperfect repository (https://github.com/kirupa/pixelperfect), the assortment of icons in the README.
 
 The templates in `templates/` and the deliberately broken drawings in `examples/lint-failures/` are part of the code, under the MIT license.
 

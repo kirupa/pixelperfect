@@ -6,17 +6,7 @@ It's the method behind the 1,948 hand-drawn Pixel emoji on [kirupa.com](https://
 
 A random assortment of icons created using this skill:
 
-![Six approved drawings from the bundled reference library, each at 16×16 beside 24×24: grinning face, tangerine, hot beverage, owl, microphone and flying saucer](docs/images/exemplars.png)
-
-The worked portrait in `skills/pixel-emoji/examples/kirupa-portrait/`, drawn from a public photo at both sizes, in a real skin tone and in the set's smiley yellow:
-
-![A pixel portrait of Kirupa at 16×16 and 24×24, in his skin tone and in smiley yellow](docs/images/portrait.png)
-
-One lesson from the training: "Make the 16x16 orange look less squished." The fix was to draw a true circle first and put the twig and leaf outside it.
-
-![The 16×16 tangerine before, with a squat 14×11 body, and after, with a round 12×12 body](docs/images/before-after.png)
-
-All three images are drawn by the skill's own tool at 8×, nearest-neighbour, by [`docs/make_images.py`](docs/make_images.py).
+<img src="docs/images/assortment.png" width="828" alt="A grid of 98 pixel-art emoji drawn at 24×24 with this skill: smileys, hands, people including a portrait of Kirupa, animals, plants, food, vehicles, everyday objects and flags">
 
 ## Install
 
@@ -219,8 +209,8 @@ pixelperfect/
 ├── README.md                    this file
 ├── LICENSE                      MIT, for the code and docs
 ├── docs/
-│   ├── images/                  the pictures in this README
-│   └── make_images.py           redraws them with the skill's tool
+│   ├── images/                  the assortment of icons in this README
+│   └── make_images.py           redraws it with the skill's tool
 ├── skills/pixel-emoji/          the skill; installers copy only this folder
 │   ├── SKILL.md                 the 14 steps, the rubric and the commands
 │   ├── LICENSE.txt              MIT, a copy that travels with the skill
@@ -259,7 +249,7 @@ The tests check the skill's frontmatter against the [Agent Skills specification]
 ## License and credits
 
 - **Code and docs** (the skill's instructions, references, scripts, templates and tests, and this README): MIT, Copyright (c) 2026 Kirupa Chinnathambi (kirupa.com). See [`LICENSE`](LICENSE); [`skills/pixel-emoji/LICENSE.txt`](skills/pixel-emoji/LICENSE.txt) is the same license, travelling with the skill.
-- **Artwork** (the reference library, the portrait, the drawings quoted in the docs and the images in this README): kirupa.com's free license for personal and non-commercial use, with credit: "Icons by kirupa.com". You may not redistribute them as an icon set, font or asset pack. See [`skills/pixel-emoji/assets/LICENSE.md`](skills/pixel-emoji/assets/LICENSE.md) and https://www.kirupa.com/design/icons.htm#license.
+- **Artwork** (the reference library, the portrait, the drawings quoted in the docs and the assortment of icons in this README): kirupa.com's free license for personal and non-commercial use, with credit: "Icons by kirupa.com". You may not redistribute them as an icon set, font or asset pack. See [`skills/pixel-emoji/assets/LICENSE.md`](skills/pixel-emoji/assets/LICENSE.md) and https://www.kirupa.com/design/icons.htm#license.
 - **Commercial use, or the SVG source files:** get [Icon Gallery Pro](https://www.kirupa.com/tools/icon_gallery.htm#pro). The [Icon Gallery](https://www.kirupa.com/tools/icon_gallery.htm) has the whole collection, and the [Pixel gallery](https://www.kirupa.com/tools/icon_gallery_pixel.htm) the full Pixel set.
 - **Twemoji:** the Pixel drawings are adapted from the Twemoji designs. Twemoji graphics are Copyright Twitter, Inc. and other contributors, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): https://github.com/twitter/twemoji. This repository contains no Twemoji files. The `twemoji` command downloads Twemoji SVGs from the maintained fork, jdecked/twemoji v17.0.3, when you run it.
 - **Emoji names** in the reference catalog come from Emojibase data (MIT); its notice is in `assets/LICENSE.md`.
