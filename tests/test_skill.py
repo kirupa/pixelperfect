@@ -1,12 +1,12 @@
-"""Checks that the pixel-emoji skill is complete, portable and working.
+"""Checks that the pixelperfect skill is complete, portable and working.
 
 Run from the repository root:
 
     python -m unittest discover -s tests -v
 
-The sprite checks need Pillow and numpy (pip install -r skills/pixel-emoji/scripts/requirements.txt); nothing
+The sprite checks need Pillow and numpy (pip install -r skills/pixelperfect/scripts/requirements.txt); nothing
 here downloads anything. To test an installed copy of the skill instead of this repository's, set
-PIXEL_EMOJI_SKILL_DIR to its folder; the repository-only checks (README, CI) are then skipped.
+PIXELPERFECT_SKILL_DIR to its folder; the repository-only checks (README, CI) are then skipped.
 """
 import ast
 import contextlib
@@ -27,8 +27,8 @@ from urllib.parse import unquote
 sys.dont_write_bytecode = True   # importing the tool must not leave __pycache__ in the skill folder
 
 ROOT = Path(__file__).resolve().parent.parent
-REPO_SKILL = (ROOT / "skills" / "pixel-emoji").resolve()
-SKILL = Path(os.environ.get("PIXEL_EMOJI_SKILL_DIR") or REPO_SKILL).expanduser().resolve()
+REPO_SKILL = (ROOT / "skills" / "pixelperfect").resolve()
+SKILL = Path(os.environ.get("PIXELPERFECT_SKILL_DIR") or REPO_SKILL).expanduser().resolve()
 IN_REPO = SKILL == REPO_SKILL
 TOOL = SKILL / "scripts" / "sprite_tool.py"
 SCAN_ROOT = ROOT if IN_REPO else SKILL
@@ -40,7 +40,7 @@ FORBIDDEN = ["/" + "Users/", "C:" + "\\Users", "session" + "-state", "copilot" +
 HOST_PATHS = ["tools/" + "pixel_twemoji", "icon/" + "pixel-twemoji"]   # allowed only in a host's *-pipeline.md
 
 FRONTMATTER_KEYS = {"name", "description", "license", "compatibility", "metadata", "allowed-tools"}
-IN_SKILL_PREFIXES = ("scripts/", "references/", "templates/", "examples/", "assets/", "skills/pixel-emoji/",
+IN_SKILL_PREFIXES = ("scripts/", "references/", "templates/", "examples/", "assets/", "skills/pixelperfect/",
                      "docs/", "tests/", ".github/workflows/")
 EXTERNAL_PATHS = ("assets/svg",)   # Twemoji's own layout, inside its zips and on its CDN
 TYPED = {"N": "2", "SEED": "7", "SIZE": "16", "AXIS": "15", "COMMAND": "check"}
@@ -150,14 +150,14 @@ def tool():
 
 def clean_env(scratch):
     """An environment with a throwaway home, cache and work folder, and no downloads."""
-    env = {k: v for k, v in os.environ.items() if not k.startswith("PIXEL_EMOJI_")}
+    env = {k: v for k, v in os.environ.items() if not k.startswith("PIXELPERFECT_")}
     home = Path(scratch) / "home"
     for sub in ("", "cache", "work", "AppData/Local", ".cache"):
         (home / sub).mkdir(parents=True, exist_ok=True)
     env.update({
         "HOME": str(home), "USERPROFILE": str(home), "LOCALAPPDATA": str(home / "AppData" / "Local"),
-        "XDG_CACHE_HOME": str(home / ".cache"), "PIXEL_EMOJI_CACHE": str(home / "cache"),
-        "PIXEL_EMOJI_WORK": str(home / "work"), "PIXEL_EMOJI_OFFLINE": "1",
+        "XDG_CACHE_HOME": str(home / ".cache"), "PIXELPERFECT_CACHE": str(home / "cache"),
+        "PIXELPERFECT_WORK": str(home / "work"), "PIXELPERFECT_OFFLINE": "1",
         "PYTHONDONTWRITEBYTECODE": "1", "PYTHONIOENCODING": "utf-8",
     })
     if "PYTHONUSERBASE" not in env:
@@ -448,7 +448,7 @@ class Sprites(unittest.TestCase):
 
     def test_cited_set_sprites_resolve(self):
         st = tool()
-        saved = os.environ.pop("PIXEL_EMOJI_SET_DIR", None)
+        saved = os.environ.pop("PIXELPERFECT_SET_DIR", None)
         st.OPTIONS.set_dirs = ()
         try:
             cited = set()
@@ -465,7 +465,7 @@ class Sprites(unittest.TestCase):
             self.assertEqual(bad, [])
         finally:
             if saved is not None:
-                os.environ["PIXEL_EMOJI_SET_DIR"] = saved
+                os.environ["PIXELPERFECT_SET_DIR"] = saved
 
 
 @unittest.skipUnless(IN_REPO, "repository files aren't part of an installed skill")
@@ -501,7 +501,7 @@ class Repository(unittest.TestCase):
                     self.assertTrue(result.stderr.startswith("error: "), output)
                     continue
                 self.assertEqual(result.returncode, 0, f"{line}\n{output}")
-            self.assertTrue(any(Path(env["PIXEL_EMOJI_WORK"]).iterdir()), "bare --out names go to the work folder")
+            self.assertTrue(any(Path(env["PIXELPERFECT_WORK"]).iterdir()), "bare --out names go to the work folder")
         self.assertEqual(sorted(p.relative_to(SKILL) for p in SKILL.rglob("*")), before,
                          "the quick start must not write into the skill folder")
 

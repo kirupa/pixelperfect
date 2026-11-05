@@ -1,6 +1,6 @@
-# pixelperfect: the pixel-emoji agent skill
+# pixelperfect
 
-**pixel-emoji** is an agent skill that teaches an AI coding agent to hand-draw proper 16×16 and 24×24 pixel-art emoji for any subject: objects, animals, food, plants, smileys, people, a portrait of a real person from a photo, symbols and flags.
+**pixelperfect** is an agent skill that teaches an AI coding agent to hand-draw proper 16×16 and 24×24 pixel-art emoji for any subject: objects, animals, food, plants, smileys, people, a portrait of a real person from a photo, symbols and flags.
 
 It's the method behind the 1,948 hand-drawn Pixel emoji on [kirupa.com](https://www.kirupa.com/tools/icon_gallery_pixel.htm), as Kirupa Chinnathambi taught it from first principles, one critique at a time. It has a 14-step procedure, references with right-and-wrong grids and his critiques word for word, about 250 approved drawings to study, and `sprite_tool.py`, a command-line tool that starts sprites from templates, lints them against the house rules and renders review boards.
 
@@ -10,31 +10,31 @@ A random assortment of icons created using this skill:
 
 ## Install
 
-The skill is the folder `skills/pixel-emoji/`. Every installer copies just that folder, and everything the skill uses is inside it.
+The skill is the folder `skills/pixelperfect/`. Every installer copies just that folder, and everything the skill uses is inside it.
 
 ### GitHub CLI
 
 `gh skill` is in preview in the GitHub CLI; these commands were tested with gh 2.102.1.
 
 ```bash
-gh skill install kirupa/pixelperfect pixel-emoji
+gh skill install kirupa/pixelperfect pixelperfect
 ```
 
 That installs into the current repository (`--scope project`, the default) for GitHub Copilot (the default agent when it runs non-interactively). Pick the agent with `--agent`, install for every project with `--scope user`, or name any folder with `--dir PATH`:
 
 ```bash
-gh skill install kirupa/pixelperfect pixel-emoji --agent claude-code --scope user
+gh skill install kirupa/pixelperfect pixelperfect --agent claude-code --scope user
 ```
 
 Where it put the skill in testing:
 
 | `--agent` | `--scope user` | `--scope project` |
 | --- | --- | --- |
-| `github-copilot` | `~/.copilot/skills/pixel-emoji` | `.agents/skills/pixel-emoji` |
-| `claude-code` | `~/.claude/skills/pixel-emoji` | `.claude/skills/pixel-emoji` |
-| `codex` | `~/.agents/skills/pixel-emoji` | `.agents/skills/pixel-emoji` |
-| `cursor` | `~/.cursor/skills/pixel-emoji` | `.agents/skills/pixel-emoji` |
-| `gemini-cli` | `~/.gemini/skills/pixel-emoji` | `.agents/skills/pixel-emoji` |
+| `github-copilot` | `~/.copilot/skills/pixelperfect` | `.agents/skills/pixelperfect` |
+| `claude-code` | `~/.claude/skills/pixelperfect` | `.claude/skills/pixelperfect` |
+| `codex` | `~/.agents/skills/pixelperfect` | `.agents/skills/pixelperfect` |
+| `cursor` | `~/.cursor/skills/pixelperfect` | `.agents/skills/pixelperfect` |
+| `gemini-cli` | `~/.gemini/skills/pixelperfect` | `.agents/skills/pixelperfect` |
 
 `gh skill install --help` lists every supported agent. gh adds a few lines of tracking metadata to the installed copy's `SKILL.md`.
 
@@ -43,25 +43,25 @@ Where it put the skill in testing:
 With Node.js, the [`skills`](https://github.com/vercel-labs/skills) CLI installs it too (tested with skills 1.7.6):
 
 ```bash
-npx skills add kirupa/pixelperfect --skill pixel-emoji
+npx skills add kirupa/pixelperfect --skill pixelperfect
 ```
 
 For every project, for one agent, without prompts:
 
 ```bash
-npx skills add kirupa/pixelperfect --skill pixel-emoji -g -a claude-code -y
+npx skills add kirupa/pixelperfect --skill pixelperfect -g -a claude-code -y
 ```
 
-In testing, `-g -a claude-code` copied the skill to `~/.claude/skills/pixel-emoji`. Without `-g`, `-a github-copilot` copied it to `.agents/skills/pixel-emoji` in the current project and recorded it in `skills-lock.json`. `npx skills add kirupa/pixelperfect --list` shows what the repository offers without installing anything.
+In testing, `-g -a claude-code` copied the skill to `~/.claude/skills/pixelperfect`. Without `-g`, `-a github-copilot` copied it to `.agents/skills/pixelperfect` in the current project and recorded it in `skills-lock.json`. `npx skills add kirupa/pixelperfect --list` shows what the repository offers without installing anything.
 
 ### Copy it yourself
 
-Clone the repository and copy `skills/pixel-emoji` to a folder your agent reads skills from. In bash or zsh, for GitHub Copilot on your account:
+Clone the repository and copy `skills/pixelperfect` to a folder your agent reads skills from. In bash or zsh, for GitHub Copilot on your account:
 
 ```bash
 git clone https://github.com/kirupa/pixelperfect
 mkdir -p ~/.copilot/skills
-cp -R pixelperfect/skills/pixel-emoji ~/.copilot/skills/
+cp -R pixelperfect/skills/pixelperfect ~/.copilot/skills/
 ```
 
 In PowerShell:
@@ -69,7 +69,7 @@ In PowerShell:
 ```powershell
 git clone https://github.com/kirupa/pixelperfect
 New-Item -ItemType Directory -Force "$HOME\.copilot\skills" | Out-Null
-Copy-Item -Recurse pixelperfect\skills\pixel-emoji "$HOME\.copilot\skills\"
+Copy-Item -Recurse pixelperfect\skills\pixelperfect "$HOME\.copilot\skills\"
 ```
 
 Swap in the folder for your agent:
@@ -86,17 +86,17 @@ For other agents, use the folder `gh skill install` picks for them (the table ab
 The skill's tool needs Python 3.9 or newer with Pillow and numpy. Install them into the Python your agent runs. A virtual environment keeps them apart from everything else. In bash or zsh:
 
 ```bash
-python3 -m venv ~/.venvs/pixel-emoji
-source ~/.venvs/pixel-emoji/bin/activate
-python3 -m pip install -r ~/.copilot/skills/pixel-emoji/scripts/requirements.txt
+python3 -m venv ~/.venvs/pixelperfect
+source ~/.venvs/pixelperfect/bin/activate
+python3 -m pip install -r ~/.copilot/skills/pixelperfect/scripts/requirements.txt
 ```
 
 In PowerShell:
 
 ```powershell
-py -m venv "$HOME\.venvs\pixel-emoji"
-& "$HOME\.venvs\pixel-emoji\Scripts\Activate.ps1"
-python -m pip install -r "$HOME\.copilot\skills\pixel-emoji\scripts\requirements.txt"
+py -m venv "$HOME\.venvs\pixelperfect"
+& "$HOME\.venvs\pixelperfect\Scripts\Activate.ps1"
+python -m pip install -r "$HOME\.copilot\skills\pixelperfect\scripts\requirements.txt"
 ```
 
 Use the path where you installed the skill. Start your agent from a shell with the environment active, or tell the agent which Python to use.
@@ -114,11 +114,11 @@ python3 -m pip install resvg_py fonttools
 
 ## Quick start
 
-Run the tool from the skill's folder. Bare output names go to your work folder, `~/pixel-emoji-work`, so drafts never land in a repository.
+Run the tool from the skill's folder. Bare output names go to your work folder, `~/pixelperfect-work`, so drafts never land in a repository.
 
 <!-- quickstart:start -->
 ```bash
-cd skills/pixel-emoji
+cd skills/pixelperfect
 python3 scripts/sprite_tool.py --help
 python3 scripts/sprite_tool.py find tangerine
 python3 scripts/sprite_tool.py text set:16:1f34a
@@ -147,21 +147,21 @@ In order, these:
 
 Use `cd` with the path where you installed the skill, or give the script's full path. On Windows, type `py` for `python3`.
 
-Each command that writes a file refuses to replace one unless you add `--force`. `emoji` needs a colour emoji font (Apple Color Emoji, Noto Color Emoji or Segoe UI Emoji), or `PIXEL_EMOJI_FONT`. `twemoji` needs `resvg_py`, plus the internet the first time it renders each code. Everything else works offline.
+Each command that writes a file refuses to replace one unless you add `--force`. `emoji` needs a colour emoji font (Apple Color Emoji, Noto Color Emoji or Segoe UI Emoji), or `PIXELPERFECT_FONT`. `twemoji` needs `resvg_py`, plus the internet the first time it renders each code. Everything else works offline.
 
 ## Example prompts
 
 Ask your agent in plain words; the skill's description tells it when to load the skill.
 
-- "Use the pixel-emoji skill to draw a doughnut 🍩 at 16×16 and 24×24. Show me the review board and grade both against the rubric."
+- "Use the pixelperfect skill to draw a doughnut 🍩 at 16×16 and 24×24. Show me the review board and grade both against the rubric."
 - "Make a pixel emoji of my face from this photo: `https://example.com/me.jpg`. Draw 16×16 and 24×24 versions, in my skin tone and in smiley yellow."
-- "Review `cat-16.sprite` against the pixel-emoji rubric. Grade it, list what to fix, and fix it."
+- "Review `cat-16.sprite` against the pixelperfect rubric. Grade it, list what to fix, and fix it."
 - "Draw the flag of Brazil and a hot air balloon as 16×16 pixel emoji that match the kirupa.com Pixel set."
 - "Redraw my 24×24 rocket natively at 16×16. Don't downscale it."
 
 ## How it works
 
-`skills/pixel-emoji/SKILL.md` is the procedure. The agent follows 14 steps for every subject:
+`skills/pixelperfect/SKILL.md` is the procedure. The agent follows 14 steps for every subject:
 
 1. Gather references, and study them.
 2. Decide the essence: what to keep, exaggerate and drop.
@@ -211,7 +211,7 @@ pixelperfect/
 ├── docs/
 │   ├── images/                  the assortment of icons in this README
 │   └── make_images.py           redraws it with the skill's tool
-├── skills/pixel-emoji/          the skill; installers copy only this folder
+├── skills/pixelperfect/         the skill; installers copy only this folder
 │   ├── SKILL.md                 the 14 steps, the rubric and the commands
 │   ├── LICENSE.txt              MIT, a copy that travels with the skill
 │   ├── references/              lessons, construction, faces, worked examples, review
@@ -229,14 +229,14 @@ All optional:
 
 | Variable | What it does |
 | --- | --- |
-| `PIXEL_EMOJI_WORK` | Where bare `--out` names go (default `~/pixel-emoji-work`) |
-| `PIXEL_EMOJI_SET_DIR` | Folders or zips of a full Pixel set's PNGs, named by code or file name, read by `set:` and `find` before the bundled library. Separate several with `:` (`;` on Windows). `--set-dir PATH` does the same for one command |
-| `PIXEL_EMOJI_TWEMOJI_DIR` | Folders or zips of Twemoji `<code>.svg` files, read before the cache and the pinned CDN copy (jdecked/twemoji v17.0.3) |
-| `PIXEL_EMOJI_CACHE` | Where downloads are kept (default `~/.cache/pixel-emoji`, `~/Library/Caches/pixel-emoji` on macOS, `%LOCALAPPDATA%\pixel-emoji` on Windows) |
-| `PIXEL_EMOJI_OFFLINE` | `1` means never download, like `--offline`; cached files still work |
-| `PIXEL_EMOJI_FONT` | A colour emoji font file for `emoji`, when the system's isn't found |
+| `PIXELPERFECT_WORK` | Where bare `--out` names go (default `~/pixelperfect-work`) |
+| `PIXELPERFECT_SET_DIR` | Folders or zips of a full Pixel set's PNGs, named by code or file name, read by `set:` and `find` before the bundled library. Separate several with `:` (`;` on Windows). `--set-dir PATH` does the same for one command |
+| `PIXELPERFECT_TWEMOJI_DIR` | Folders or zips of Twemoji `<code>.svg` files, read before the cache and the pinned CDN copy (jdecked/twemoji v17.0.3) |
+| `PIXELPERFECT_CACHE` | Where downloads are kept (default `~/.cache/pixelperfect`, `~/Library/Caches/pixelperfect` on macOS, `%LOCALAPPDATA%\pixelperfect` on Windows) |
+| `PIXELPERFECT_OFFLINE` | `1` means never download, like `--offline`; cached files still work |
+| `PIXELPERFECT_FONT` | A colour emoji font file for `emoji`, when the system's isn't found |
 
-The skill bundles about 250 approved subjects at both sizes. To study all 1,948, download the free PNGs from the [Pixel gallery](https://www.kirupa.com/tools/icon_gallery_pixel.htm) and point `PIXEL_EMOJI_SET_DIR` at the zip or its folder. Your own reference icons, as PNG or GIF files, work with `text`, `zoom` and `sheet --neighbor`.
+The skill bundles about 250 approved subjects at both sizes. To study all 1,948, download the free PNGs from the [Pixel gallery](https://www.kirupa.com/tools/icon_gallery_pixel.htm) and point `PIXELPERFECT_SET_DIR` at the zip or its folder. Your own reference icons, as PNG or GIF files, work with `text`, `zoom` and `sheet --neighbor`.
 
 ### Tests
 
@@ -244,12 +244,12 @@ The skill bundles about 250 approved subjects at both sizes. To study all 1,948,
 python3 -m unittest discover -s tests -v
 ```
 
-The tests check the skill's frontmatter against the [Agent Skills specification](https://agentskills.io/specification), every link and cited path, the templates and the reference library (lint, and pixel-exact against their checksums), every documented command's options, and this README's quick start, offline, with a throwaway home folder. With PyYAML installed (`python3 -m pip install pyyaml`), they also parse the frontmatter as real YAML. To check an installed copy, set `PIXEL_EMOJI_SKILL_DIR` to its folder. GitHub Actions runs them on Linux, macOS and Windows with Python 3.9 and 3.13.
+The tests check the skill's frontmatter against the [Agent Skills specification](https://agentskills.io/specification), every link and cited path, the templates and the reference library (lint, and pixel-exact against their checksums), every documented command's options, and this README's quick start, offline, with a throwaway home folder. With PyYAML installed (`python3 -m pip install pyyaml`), they also parse the frontmatter as real YAML. To check an installed copy, set `PIXELPERFECT_SKILL_DIR` to its folder. GitHub Actions runs them on Linux, macOS and Windows with Python 3.9 and 3.13.
 
 ## License and credits
 
-- **Code and docs** (the skill's instructions, references, scripts, templates and tests, and this README): MIT, Copyright (c) 2026 Kirupa Chinnathambi (kirupa.com). See [`LICENSE`](LICENSE); [`skills/pixel-emoji/LICENSE.txt`](skills/pixel-emoji/LICENSE.txt) is the same license, travelling with the skill.
-- **Artwork** (the reference library, the portrait, the drawings quoted in the docs and the assortment of icons in this README): kirupa.com's free license for personal and non-commercial use, with credit: "Icons by kirupa.com". You may not redistribute them as an icon set, font or asset pack. See [`skills/pixel-emoji/assets/LICENSE.md`](skills/pixel-emoji/assets/LICENSE.md) and https://www.kirupa.com/design/icons.htm#license.
+- **Code and docs** (the skill's instructions, references, scripts, templates and tests, and this README): MIT, Copyright (c) 2026 Kirupa Chinnathambi (kirupa.com). See [`LICENSE`](LICENSE); [`skills/pixelperfect/LICENSE.txt`](skills/pixelperfect/LICENSE.txt) is the same license, travelling with the skill.
+- **Artwork** (the reference library, the portrait, the drawings quoted in the docs and the assortment of icons in this README): kirupa.com's free license for personal and non-commercial use, with credit: "Icons by kirupa.com". You may not redistribute them as an icon set, font or asset pack. See [`skills/pixelperfect/assets/LICENSE.md`](skills/pixelperfect/assets/LICENSE.md) and https://www.kirupa.com/design/icons.htm#license.
 - **Commercial use, or the SVG source files:** get [Icon Gallery Pro](https://www.kirupa.com/tools/icon_gallery.htm#pro). The [Icon Gallery](https://www.kirupa.com/tools/icon_gallery.htm) has the whole collection, and the [Pixel gallery](https://www.kirupa.com/tools/icon_gallery_pixel.htm) the full Pixel set.
 - **Twemoji:** the Pixel drawings are adapted from the Twemoji designs. Twemoji graphics are Copyright Twitter, Inc. and other contributors, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): https://github.com/twitter/twemoji. This repository contains no Twemoji files. The `twemoji` command downloads Twemoji SVGs from the maintained fork, jdecked/twemoji v17.0.3, when you run it.
 - **Emoji names** in the reference catalog come from Emojibase data (MIT); its notice is in `assets/LICENSE.md`.

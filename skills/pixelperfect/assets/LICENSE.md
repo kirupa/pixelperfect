@@ -53,7 +53,7 @@ https://github.com/jdecked/twemoji (v17.0.3), the maintained fork of https://git
 These are modified versions, not official Twemoji artwork. No endorsement implied.
 ```
 
-The original Twemoji project is https://github.com/twitter/twemoji. This repository redistributes no Twemoji files. The skill's `twemoji` and `sheet --twemoji` commands fetch Twemoji SVGs at runtime from jdecked/twemoji v17.0.3 (`https://cdn.jsdelivr.net/gh/jdecked/twemoji@v17.0.3/assets/svg/CODE.svg`) and cache them on your computer, or read them from a folder you name in `PIXEL_EMOJI_TWEMOJI_DIR`. Those SVGs are under CC BY 4.0, as above.
+The original Twemoji project is https://github.com/twitter/twemoji. This repository redistributes no Twemoji files. The skill's `twemoji` and `sheet --twemoji` commands fetch Twemoji SVGs at runtime from jdecked/twemoji v17.0.3 (`https://cdn.jsdelivr.net/gh/jdecked/twemoji@v17.0.3/assets/svg/CODE.svg`) and cache them on your computer, or read them from a folder you name in `PIXELPERFECT_TWEMOJI_DIR`. Those SVGs are under CC BY 4.0, as above.
 
 The `emoji` command draws the colour emoji font installed on your computer. Nothing from that font is bundled either.
 

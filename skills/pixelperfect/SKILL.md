@@ -1,5 +1,5 @@
 ---
-name: pixel-emoji
+name: pixelperfect
 description: How to hand-draw proper 16x16 and 24x24 pixel-art emoji for any subject (objects, animals, food, plants, smileys and faces, people, a portrait of a real person from a photo, symbols, signs and flags) in the style of kirupa.com's 1,948 hand-drawn Pixel emoji. Use it to draw, redraw, fix, review, grade or critique pixel emoji, icons or sprites at 16px or 24px, and to turn a photo of someone into a pixel emoji of their face. Its scripts/sprite_tool.py starts sprites from face and bust templates, lints them against the house rules, renders zoom, review and blind-test boards beside Twemoji and the system emoji, finds approved reference sprites, samples photo and skin colours, builds hue-shifted ramps, mirrors halves and exports Python rows.
 license: MIT (LICENSE.txt); bundled artwork is under assets/LICENSE.md
 compatibility: Python 3.9+ with Pillow and numpy. Optional - resvg_py (Twemoji renders), fontTools (Apple joined-emoji glyphs) and internet access (Twemoji SVGs and photo URLs, cached). Works offline with the bundled reference library.
@@ -48,28 +48,28 @@ This skill turns that teaching into a procedure. Follow it and you'll draw an em
 
 3. **Set up once.** The tool needs Python 3.9+ with Pillow and numpy: `python3 -m pip install -r scripts/requirements.txt`. `resvg_py` renders Twemoji SVGs and `fontTools` finds Apple's pictures of joined (ZWJ) emoji; both are optional. Run every command from this skill's folder (the one holding this file), exactly as written: `python3 scripts/sprite_tool.py …`. From anywhere else, give the script's full path. On Windows, type `py` instead of `python3`. `python3 scripts/sprite_tool.py --help` and `python3 scripts/sprite_tool.py COMMAND --help` explain everything.
 
-   A bare `--out` name (no folder in it) goes to your work folder, `PIXEL_EMOJI_WORK`, which defaults to `~/pixel-emoji-work`, so drafts never land in a repository. Write `./NAME` to use the current folder instead. Bare input names are read from the current folder, then from the work folder. Quote every argument that holds a comma, `@` or `#`. These settings are all optional:
+   A bare `--out` name (no folder in it) goes to your work folder, `PIXELPERFECT_WORK`, which defaults to `~/pixelperfect-work`, so drafts never land in a repository. Write `./NAME` to use the current folder instead. Bare input names are read from the current folder, then from the work folder. Quote every argument that holds a comma, `@` or `#`. These settings are all optional:
 
    | Setting | What it does |
    | --- | --- |
-   | `PIXEL_EMOJI_WORK` | Where bare `--out` names go (default `~/pixel-emoji-work`) |
-   | `PIXEL_EMOJI_SET_DIR` | Folders or zips of a full Pixel set's PNGs, named by code or file name, read by `set:` and `find` before the bundled library. Separate several with `:` (`;` on Windows). `--set-dir PATH` does the same for one command |
-   | `PIXEL_EMOJI_TWEMOJI_DIR` | Folders or zips of Twemoji `<code>.svg` files, read before the cache and the pinned CDN copy (jdecked/twemoji v17.0.3) |
-   | `PIXEL_EMOJI_CACHE` | Where downloads are kept (default `~/.cache/pixel-emoji`, `~/Library/Caches/pixel-emoji` on macOS, `%LOCALAPPDATA%\pixel-emoji` on Windows) |
-   | `PIXEL_EMOJI_OFFLINE` | `1` means never download, like `--offline`; cached files still work |
-   | `PIXEL_EMOJI_FONT` | A colour emoji font file for `emoji`, when the system's isn't found |
+   | `PIXELPERFECT_WORK` | Where bare `--out` names go (default `~/pixelperfect-work`) |
+   | `PIXELPERFECT_SET_DIR` | Folders or zips of a full Pixel set's PNGs, named by code or file name, read by `set:` and `find` before the bundled library. Separate several with `:` (`;` on Windows). `--set-dir PATH` does the same for one command |
+   | `PIXELPERFECT_TWEMOJI_DIR` | Folders or zips of Twemoji `<code>.svg` files, read before the cache and the pinned CDN copy (jdecked/twemoji v17.0.3) |
+   | `PIXELPERFECT_CACHE` | Where downloads are kept (default `~/.cache/pixelperfect`, `~/Library/Caches/pixelperfect` on macOS, `%LOCALAPPDATA%\pixelperfect` on Windows) |
+   | `PIXELPERFECT_OFFLINE` | `1` means never download, like `--offline`; cached files still work |
+   | `PIXELPERFECT_FONT` | A colour emoji font file for `emoji`, when the system's isn't found |
 
    Set one for a session in bash or zsh, or in PowerShell:
 
    ```bash
-   export PIXEL_EMOJI_WORK="$HOME/pixel-emoji-work"
+   export PIXELPERFECT_WORK="$HOME/pixelperfect-work"
    ```
 
    ```powershell
-   $env:PIXEL_EMOJI_WORK = "$HOME\pixel-emoji-work"
+   $env:PIXELPERFECT_WORK = "$HOME\pixelperfect-work"
    ```
 
-   `set:SIZE:CODE` names an approved drawing, such as `set:16:1f34a` or `set:24:tangerine`. The skill bundles about 250 subjects at both sizes (`find` lists them). For all 1,948, download the free PNG zips from the Pixel gallery, https://www.kirupa.com/tools/icon_gallery_pixel.htm, and pass a zip or its folder with `--set-dir` or `PIXEL_EMOJI_SET_DIR`.
+   `set:SIZE:CODE` names an approved drawing, such as `set:16:1f34a` or `set:24:tangerine`. The skill bundles about 250 subjects at both sizes (`find` lists them). For all 1,948, download the free PNG zips from the Pixel gallery, https://www.kirupa.com/tools/icon_gallery_pixel.htm, and pass a zip or its folder with `--set-dir` or `PIXELPERFECT_SET_DIR`.
 
 4. **Look at every PNG you make.** Open it with your image viewer (an agent's `view` tool shows images). Lint is a gate, not a judge. Give every board a new file name (`-r2`, `-r3`), because viewers cache by path.
 
@@ -416,7 +416,7 @@ This rubric is the single source of truth; `references/review.md` shows how I ch
 | --- | --- |
 | `python3 scripts/sprite_tool.py find WORD... [--size 24]` | Finds approved sprites by name, keyword or category, in the reference library and any `--set-dir` set; every WORD must match, so search one word at a time when unsure |
 | `python3 scripts/sprite_tool.py text SPRITE... [--out FILE]` | Prints any sprite as `.sprite` text to study it (`set:16:CODE`, a PNG or GIF, or `MODULE.py:NAME`) |
-| `python3 scripts/sprite_tool.py twemoji CODE --out PNG` | Renders Twemoji (from `PIXEL_EMOJI_TWEMOJI_DIR`, then the cache, then the pinned CDN copy; needs `resvg_py`) |
+| `python3 scripts/sprite_tool.py twemoji CODE --out PNG` | Renders Twemoji (from `PIXELPERFECT_TWEMOJI_DIR`, then the cache, then the pinned CDN copy; needs `resvg_py`) |
 | `python3 scripts/sprite_tool.py emoji CODE --out PNG` | Renders the system colour emoji (also a character or a ZWJ code) |
 | `python3 scripts/sprite_tool.py crop "IMAGE@X0,Y0,X1,Y1" --scale 3 --out PNG` | Crops and enlarges part of a photo to study it |
 | `python3 scripts/sprite_tool.py draft IMAGE --size 16 --out FILE` | Makes a proportion draft; `"IMAGE@X0,Y0,X1,Y1"` crops first |
@@ -433,7 +433,7 @@ This rubric is the single source of truth; `references/review.md` shows how I ch
 | `python3 scripts/sprite_tool.py render SPRITE --out PNG [--scale 8]` | Writes the deliverable PNG |
 | `python3 scripts/sprite_tool.py export SPRITE --name NAME [--out FILE]` | Writes the drawing as Python `ROWS_NAME` and `KEYS_NAME` lists |
 
-Every command that writes a file refuses to replace an existing one unless you add `--force`. IMAGE and PHOTO can be a file or an http(s) URL. Add `--offline` to any command (or set `PIXEL_EMOJI_OFFLINE=1`) to never download.
+Every command that writes a file refuses to replace an existing one unless you add `--force`. IMAGE and PHOTO can be a file or an http(s) URL. Add `--offline` to any command (or set `PIXELPERFECT_OFFLINE=1`) to never download.
 
 To practise the loop on approved art, copy an approved drawing into your work folder and review it as if it were yours:
 
@@ -445,7 +445,7 @@ python3 scripts/sprite_tool.py check study-tangerine-16.sprite
 ## Folder map
 
 ```text
-pixel-emoji/
+pixelperfect/
 ├── SKILL.md                       this procedure
 ├── LICENSE.txt                    MIT, for the code and docs
 ├── references/

@@ -4,8 +4,8 @@
 Run it from the skill folder (the one that holds SKILL.md) as python3 scripts/sprite_tool.py, or give the
 script's full path from anywhere. On Windows, type py or python instead of python3. Below, T stands for it.
 
-A bare --out file name (no folder in it) is written to the work folder, PIXEL_EMOJI_WORK (default
-~/pixel-emoji-work); write ./NAME for the current folder. A bare input name is read from the current folder,
+A bare --out file name (no folder in it) is written to the work folder, PIXELPERFECT_WORK (default
+~/pixelperfect-work); write ./NAME for the current folder. A bare input name is read from the current folder,
 or else from the work folder. Quote arguments that hold commas, @ or #, e.g. "photo.jpg@300,375,445,410".
 
   T find WORD...                                  reference drawings to study: code, file name, name
@@ -37,7 +37,7 @@ SPRITE can be:
   NAME.png            a 16x16 or 24x24 PNG with binary alpha
   set:SIZE:CODE       an approved drawing from the kirupa.com Pixel set, by Twemoji code or file name, e.g.
                       set:16:1f642 or set:24:skull-and-crossbones. It is read from --set-dir folders first
-                      (or PIXEL_EMOJI_SET_DIR), then from the skill's reference library (assets/reference/,
+                      (or PIXELPERFECT_SET_DIR), then from the skill's reference library (assets/reference/,
                       about 250 subjects at both sizes; find lists them)
   MODULE.py:NAME,...  drawings kept in a Python module, as ROWS_NAME and KEYS_NAME lists (what export
                       prints), e.g. examples/python-module/tangerine.py:TANGERINE16. NAME can also be a key of a
@@ -46,13 +46,13 @@ SPRITE can be:
                       the size. Loading a module runs its code, so load only modules you trust.
 
 Settings (all optional; the command-line options win):
-  PIXEL_EMOJI_WORK         where bare --out names go (default ~/pixel-emoji-work)
-  PIXEL_EMOJI_SET_DIR      folders or zips of a Pixel set's PNGs, named by code or file name, for set: and
-                           find; separate several with the system path separator (: or ;). Like --set-dir
-  PIXEL_EMOJI_TWEMOJI_DIR  folders or zips of Twemoji <code>.svg files, read before the cache and the CDN
-  PIXEL_EMOJI_CACHE        where downloads are kept (default: the system cache folder, in pixel-emoji/)
-  PIXEL_EMOJI_OFFLINE=1    never download; like --offline
-  PIXEL_EMOJI_FONT         a colour emoji font file for the emoji command
+  PIXELPERFECT_WORK         where bare --out names go (default ~/pixelperfect-work)
+  PIXELPERFECT_SET_DIR      folders or zips of a Pixel set's PNGs, named by code or file name, for set: and
+                            find; separate several with the system path separator (: or ;). Like --set-dir
+  PIXELPERFECT_TWEMOJI_DIR  folders or zips of Twemoji <code>.svg files, read before the cache and the CDN
+  PIXELPERFECT_CACHE        where downloads are kept (default: the system cache folder, in pixelperfect/)
+  PIXELPERFECT_OFFLINE=1    never download; like --offline
+  PIXELPERFECT_FONT         a colour emoji font file for the emoji command
 
 Needs Python 3.9+, Pillow and numpy. Optional: resvg_py renders Twemoji SVGs (twemoji, sheet --twemoji), and
 fontTools finds Apple Color Emoji's pictures of joined sequences (emoji 1f468-200d-1f373).
@@ -93,7 +93,7 @@ LIGHT = (255, 255, 255)
 DARK = (24, 26, 32)
 TWEMOJI_VERSION = "17.0.3"
 CDN = "https://cdn.jsdelivr.net/gh/jdecked/twemoji@v" + TWEMOJI_VERSION + "/assets/svg/{}.svg"
-USER_AGENT = "pixel-emoji-skill (+https://github.com/kirupa/pixelperfect)"
+USER_AGENT = "pixelperfect-skill (+https://github.com/kirupa/pixelperfect)"
 KEYS = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
 # Calibrated on the 1,948 approved drawings of the kirupa.com Pixel set at each size: none raises an error, each
 # warning fires on at most ~6% of them, and 74% (16px) and 83% (24px) raise no warning at all. About 95% stay
@@ -167,7 +167,7 @@ def box(text):
 # ---------------------------------------------------------------- files, settings and downloads
 
 class Options:
-    set_dirs = ()      # --set-dir values, searched before PIXEL_EMOJI_SET_DIR
+    set_dirs = ()      # --set-dir values, searched before PIXELPERFECT_SET_DIR
     offline = False    # --offline
 
 
@@ -179,7 +179,7 @@ def env_flag(name):
 
 
 def offline():
-    return OPTIONS.offline or env_flag("PIXEL_EMOJI_OFFLINE")
+    return OPTIONS.offline or env_flag("PIXELPERFECT_OFFLINE")
 
 
 def env_paths(name):
@@ -187,19 +187,19 @@ def env_paths(name):
 
 
 def cache_dir():
-    """PIXEL_EMOJI_CACHE, or pixel-emoji/ in the system's cache folder."""
-    if os.environ.get("PIXEL_EMOJI_CACHE"):
-        return Path(os.environ["PIXEL_EMOJI_CACHE"]).expanduser()
+    """PIXELPERFECT_CACHE, or pixelperfect/ in the system's cache folder."""
+    if os.environ.get("PIXELPERFECT_CACHE"):
+        return Path(os.environ["PIXELPERFECT_CACHE"]).expanduser()
     if sys.platform == "darwin":
-        return Path.home() / "Library" / "Caches" / "pixel-emoji"
+        return Path.home() / "Library" / "Caches" / "pixelperfect"
     if os.name == "nt":
         base = os.environ.get("LOCALAPPDATA")
-        return (Path(base) if base else Path.home() / "AppData" / "Local") / "pixel-emoji"
-    return Path(os.environ.get("XDG_CACHE_HOME") or Path.home() / ".cache").expanduser() / "pixel-emoji"
+        return (Path(base) if base else Path.home() / "AppData" / "Local") / "pixelperfect"
+    return Path(os.environ.get("XDG_CACHE_HOME") or Path.home() / ".cache").expanduser() / "pixelperfect"
 
 
 def work_dir():
-    return Path(os.environ.get("PIXEL_EMOJI_WORK") or "~/pixel-emoji-work").expanduser()
+    return Path(os.environ.get("PIXELPERFECT_WORK") or "~/pixelperfect-work").expanduser()
 
 
 def bare(text):
@@ -214,7 +214,7 @@ def out_path(text):
         path.parent.mkdir(parents=True, exist_ok=True)
     except OSError as error:
         raise SpriteError(f"can't make the folder {path.parent} ({error}); give --out a folder you can write to,"
-                          " or set PIXEL_EMOJI_WORK")
+                          " or set PIXELPERFECT_WORK")
     return path
 
 
@@ -252,7 +252,7 @@ def save_cache(path, data):
         os.replace(str(part), str(path))
         return True
     except OSError as error:
-        print(f"note: can't write the cache {path.parent} ({error}); set PIXEL_EMOJI_CACHE to a folder you can"
+        print(f"note: can't write the cache {path.parent} ({error}); set PIXELPERFECT_CACHE to a folder you can"
               " write to", file=sys.stderr)
         return False
 
@@ -267,7 +267,7 @@ def url_image(url):
         return path
     if offline():
         raise SpriteError(f"{url} isn't in the cache ({path.parent}) and downloads are off (--offline or"
-                          " PIXEL_EMOJI_OFFLINE). Run the command once online, or save the image and give its"
+                          " PIXELPERFECT_OFFLINE). Run the command once online, or save the image and give its"
                           " file path")
     try:
         data = fetch(url)
@@ -482,7 +482,7 @@ class SetSource:
         if self.path.is_file() and zipfile.is_zipfile(str(self.path)):
             self.zip = zipfile.ZipFile(str(self.path))
         elif not self.path.is_dir():
-            raise SpriteError(f"{self.text} (from --set-dir or PIXEL_EMOJI_SET_DIR) is not a folder or a zip")
+            raise SpriteError(f"{self.text} (from --set-dir or PIXELPERFECT_SET_DIR) is not a folder or a zip")
         self.files = {}      # lower-case name without .png: [file or zip member]
         for name, ref in self._pngs():
             self.files.setdefault(name.lower(), []).append(ref)
@@ -580,7 +580,7 @@ def set_source(text):
 
 
 def set_sources():
-    texts = list(OPTIONS.set_dirs) + [str(p) for p in env_paths("PIXEL_EMOJI_SET_DIR")]
+    texts = list(OPTIONS.set_dirs) + [str(p) for p in env_paths("PIXELPERFECT_SET_DIR")]
     return [set_source(t) for i, t in enumerate(texts) if t not in texts[:i]]
 
 
@@ -612,7 +612,7 @@ def set_sprite(size, ident, spec=None):
     raise SpriteError(
         f"set:{size}:{ident}: no such drawing{where}. The skill bundles {len(reference_catalog())} reference subjects"
         f" (find WORD lists them). For the whole set, download the free PNGs from {FULL_SET} and pass the zip or its"
-        " folder with --set-dir, or name it in PIXEL_EMOJI_SET_DIR; any folder of 16 or 24px PNGs named by Twemoji"
+        " folder with --set-dir, or name it in PIXELPERFECT_SET_DIR; any folder of 16 or 24px PNGs named by Twemoji"
         " code (1f642) or file name (slightly-smiling-face) works, including your own")
 
 
@@ -1271,7 +1271,7 @@ def zip_svgs(path):
 
 
 def local_svg(source, name):
-    """NAME.svg from a folder (or its svg/ or assets/svg/) or a zip named in PIXEL_EMOJI_TWEMOJI_DIR."""
+    """NAME.svg from a folder (or its svg/ or assets/svg/) or a zip named in PIXELPERFECT_TWEMOJI_DIR."""
     if source.is_dir():
         for sub in ("", "svg", "assets/svg"):
             path = source / sub / f"{name}.svg"
@@ -1283,15 +1283,15 @@ def local_svg(source, name):
             with zipfile.ZipFile(str(source)) as z:
                 return z.read(member).decode("utf-8")
     else:
-        raise SpriteError(f"{source} (from PIXEL_EMOJI_TWEMOJI_DIR) is not a folder or a zip")
+        raise SpriteError(f"{source} (from PIXELPERFECT_TWEMOJI_DIR) is not a folder or a zip")
     return None
 
 
 def twemoji_svg(code):
-    """Twemoji's SVG for CODE: from PIXEL_EMOJI_TWEMOJI_DIR, then the cache, then the pinned CDN (then cached)."""
+    """Twemoji's SVG for CODE: from PIXELPERFECT_TWEMOJI_DIR, then the cache, then the pinned CDN (then cached)."""
     code = emoji_code(code)
     names = [code] + ([code.replace("-fe0f", "")] if "-fe0f" in code else [])
-    for source in env_paths("PIXEL_EMOJI_TWEMOJI_DIR"):
+    for source in env_paths("PIXELPERFECT_TWEMOJI_DIR"):
         for name in names:
             svg = local_svg(source, name)
             if svg:
@@ -1302,7 +1302,7 @@ def twemoji_svg(code):
             return (cache / f"{name}.svg").read_text(encoding="utf-8")
     if offline():
         raise SpriteError(f"Twemoji {code}.svg isn't in the cache ({cache}) and downloads are off (--offline or"
-                          " PIXEL_EMOJI_OFFLINE). Run it once online, or set PIXEL_EMOJI_TWEMOJI_DIR to a folder or"
+                          " PIXELPERFECT_OFFLINE). Run it once online, or set PIXELPERFECT_TWEMOJI_DIR to a folder or"
                           f" zip of Twemoji SVGs; 'emoji {code}' shows this computer's emoji instead")
     for name in names:
         try:
@@ -1311,10 +1311,10 @@ def twemoji_svg(code):
             if error.code == 404:
                 continue
             raise SpriteError(f"the Twemoji CDN answered {error.code} for {name}.svg; try again later, or set"
-                              " PIXEL_EMOJI_TWEMOJI_DIR to a folder or zip of Twemoji SVGs")
+                              " PIXELPERFECT_TWEMOJI_DIR to a folder or zip of Twemoji SVGs")
         except (urllib.error.URLError, OSError) as error:
             raise SpriteError(f"can't reach the Twemoji CDN ({why(error)}) and {code}.svg isn't in the cache. Set"
-                              " PIXEL_EMOJI_TWEMOJI_DIR to a folder or zip of Twemoji SVGs, or use"
+                              " PIXELPERFECT_TWEMOJI_DIR to a folder or zip of Twemoji SVGs, or use"
                               f" 'emoji {code}' for this computer's emoji")
         save_cache(cache / f"{name}.svg", data)
         return data.decode("utf-8")
@@ -1405,10 +1405,10 @@ def apple_emoji(path, text):
 
 
 def emoji_fonts():
-    """(path, the pixel size it loads at) for each colour emoji font: PIXEL_EMOJI_FONT first, then the system's."""
-    override = os.environ.get("PIXEL_EMOJI_FONT")
+    """(path, the pixel size it loads at) for each colour emoji font: PIXELPERFECT_FONT first, then the system's."""
+    override = os.environ.get("PIXELPERFECT_FONT")
     if override and not Path(override).expanduser().is_file():
-        raise SpriteError(f"PIXEL_EMOJI_FONT {override}: no such font file")
+        raise SpriteError(f"PIXELPERFECT_FONT {override}: no such font file")
     paths = ([str(Path(override).expanduser())] if override else []) + [p for p in EMOJI_FONTS if Path(p).is_file()]
     for path in paths:
         for px in EMOJI_PX:
@@ -1442,7 +1442,7 @@ def system_emoji(code, size):
     if found:
         raise SpriteError(f"{', '.join(found)} has no picture for {code}; check the code, or use 'twemoji {code}'")
     raise SpriteError("no colour emoji font found (Apple Color Emoji, Noto Color Emoji or Segoe UI Emoji). Set"
-                      f" PIXEL_EMOJI_FONT to a colour emoji font file, or use 'twemoji {code}'")
+                      f" PIXELPERFECT_FONT to a colour emoji font file, or use 'twemoji {code}'")
 
 
 def cmd_twemoji(args):
@@ -1703,7 +1703,7 @@ def tool_command():
 
 
 def find_entries(size):
-    """The subjects to search at SIZE: the --set-dir and PIXEL_EMOJI_SET_DIR sets first, then the library."""
+    """The subjects to search at SIZE: the --set-dir and PIXELPERFECT_SET_DIR sets first, then the library."""
     seen, out = set(), []
     for source in set_sources():
         for entry in source.entries(size):
@@ -1735,7 +1735,7 @@ def cmd_find(args):
     if not hits:
         raise SpriteError(f"nothing in {searched} matches every word of {' '.join(args.words)!r}; try fewer or"
                           f" other words. For the whole Pixel set, download the free PNGs from {FULL_SET} and"
-                          " pass the zip or its folder with --set-dir (or PIXEL_EMOJI_SET_DIR)")
+                          " pass the zip or its folder with --set-dir (or PIXELPERFECT_SET_DIR)")
     for entry in hits[:args.limit]:
         ident = entry["code"] or entry["slug"]
         print(f"{ident:<22} {entry['slug']:<34} {entry['name']}"
@@ -1898,9 +1898,9 @@ def build_parser():
     common = argparse.ArgumentParser(add_help=False)
     common.add_argument("--set-dir", action="append", metavar="DIR",
                         help="a folder or zip of Pixel set PNGs for set: and find, searched before"
-                             " PIXEL_EMOJI_SET_DIR and the reference library (repeatable)")
+                             " PIXELPERFECT_SET_DIR and the reference library (repeatable)")
     common.add_argument("--offline", action="store_true",
-                        help="never download; use local files and the cache (or set PIXEL_EMOJI_OFFLINE=1)")
+                        help="never download; use local files and the cache (or set PIXELPERFECT_OFFLINE=1)")
 
     def add(name, func, help_text, more=""):
         q = sub.add_parser(name, help=help_text, description=help_text + ("\n\n" + more if more else ""),
@@ -2059,14 +2059,14 @@ def build_parser():
     q.add_argument("--saturation", type=float, default=0.07, help="saturation step per tone (default 0.07)")
     q.add_argument("--hue", type=float, default=7, help="degrees of hue shift per tone (default 7)")
     q = add("twemoji", cmd_twemoji, "render the Twemoji original (needs resvg_py)",
-            "Reads CODE.svg from PIXEL_EMOJI_TWEMOJI_DIR (folders or zips of Twemoji SVGs), then the cache,\n"
+            "Reads CODE.svg from PIXELPERFECT_TWEMOJI_DIR (folders or zips of Twemoji SVGs), then the cache,\n"
             f"then the pinned CDN (jdecked/twemoji v{TWEMOJI_VERSION}), which it caches. With --offline it never\n"
             "downloads. Twemoji graphics: Copyright Twitter, Inc. and other contributors, CC BY 4.0.")
     q.add_argument("code", metavar="CODE", help="a Twemoji code, e.g. 1f9d1")
     q.add_argument("--out", required=True, help="the PNG to write")
     q.add_argument("--size", type=whole(16), default=160, help="pixels (default 160)")
     q = add("emoji", cmd_emoji, "render this computer's colour emoji (Apple, Noto or Segoe)",
-            "Uses PIXEL_EMOJI_FONT if set, else Apple Color Emoji (macOS), Noto Color Emoji (Linux) or\n"
+            "Uses PIXELPERFECT_FONT if set, else Apple Color Emoji (macOS), Noto Color Emoji (Linux) or\n"
             "Segoe UI Emoji (Windows).")
     q.add_argument("code", metavar="CODE", help="a code like 1f9d1 or 1f468-200d-1f373, or the character itself")
     q.add_argument("--out", required=True, help="the PNG to write")

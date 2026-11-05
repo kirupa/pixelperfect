@@ -12,7 +12,7 @@ The grids and palettes are in the `.sprite` files. Each file's `note:` line reco
 
 ## The photos
 
-Both are published on kirupa.com and referenced by URL; no photo is stored in this repository. The tool downloads each one once into its cache (`PIXEL_EMOJI_CACHE`).
+Both are published on kirupa.com and referenced by URL; no photo is stored in this repository. The tool downloads each one once into its cache (`PIXELPERFECT_CACHE`).
 
 | Photo | What it shows | Face box | Skin box |
 | --- | --- | --- | --- |
@@ -23,7 +23,7 @@ The skill says to sample the most evenly lit photo and never a flash photo. The 
 
 ## The steps
 
-Run these from the skill folder (the one that holds `SKILL.md`). Bare `--out` names go to the work folder, `PIXEL_EMOJI_WORK` (default `~/pixel-emoji-work`). On Windows, type `py` instead of `python3`.
+Run these from the skill folder (the one that holds `SKILL.md`). Bare `--out` names go to the work folder, `PIXELPERFECT_WORK` (default `~/pixelperfect-work`). On Windows, type `py` instead of `python3`.
 
 1. **Study the faces.** Crop each photo to the face and look at it, as SKILL.md Step 12 asks:
 

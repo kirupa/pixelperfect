@@ -7,14 +7,14 @@ Run it from the repository root after changing any drawing it shows:
 It lays out 98 drawings at 24x24 in rows of 14: 97 from the bundled reference library and the worked portrait of
 Kirupa. Each is scaled 4x, nearest-neighbour, on a transparent background, so the picture reads on light and dark
 pages; the README shows it at half size. The order below is fixed: shuffled once, then arranged so neighbours differ
-in subject and colour. The picture is artwork under skills/pixel-emoji/assets/LICENSE.md, like the drawings it shows.
+in subject and colour. The picture is artwork under skills/pixelperfect/assets/LICENSE.md, like the drawings it shows.
 """
 import sys
 from pathlib import Path
 
 sys.dont_write_bytecode = True
 ROOT = Path(__file__).resolve().parent.parent
-SKILL = ROOT / "skills" / "pixel-emoji"
+SKILL = ROOT / "skills" / "pixelperfect"
 sys.path.insert(0, str(SKILL / "scripts"))
 import sprite_tool as st   # noqa: E402
 from PIL import Image   # noqa: E402
