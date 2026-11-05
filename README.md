@@ -1,6 +1,8 @@
 # pixelperfect: the pixel-emoji agent skill
 
-**pixel-emoji** is an agent skill that teaches an AI coding agent to hand-draw proper 16×16 and 24×24 pixel-art emoji for any subject: objects, animals, food, plants, smileys, people, a portrait of a real person from a photo, symbols and flags. It's the method behind the 1,948 hand-drawn Pixel emoji on [kirupa.com](https://www.kirupa.com/tools/icon_gallery_pixel.htm), as Kirupa Chinnathambi taught it from first principles, one critique at a time. It has a 14-step procedure, references with right-and-wrong grids and his critiques word for word, about 250 approved drawings to study, and `sprite_tool.py`, a command-line tool that starts sprites from templates, lints them against the house rules and renders review boards.
+**pixel-emoji** is an agent skill that teaches an AI coding agent to hand-draw proper 16×16 and 24×24 pixel-art emoji for any subject: objects, animals, food, plants, smileys, people, a portrait of a real person from a photo, symbols and flags.
+
+It's the method behind the 1,948 hand-drawn Pixel emoji on [kirupa.com](https://www.kirupa.com/tools/icon_gallery_pixel.htm), as Kirupa Chinnathambi taught it from first principles, one critique at a time. It has a 14-step procedure, references with right-and-wrong grids and his critiques word for word, about 250 approved drawings to study, and `sprite_tool.py`, a command-line tool that starts sprites from templates, lints them against the house rules and renders review boards.
 
 ![Six approved drawings from the bundled reference library, each at 16×16 beside 24×24: grinning face, tangerine, hot beverage, owl, microphone and flying saucer](docs/images/exemplars.png)
 
