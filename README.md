@@ -4,9 +4,13 @@
 
 It's the method behind the 1,948 hand-drawn Pixel emoji on [kirupa.com](https://www.kirupa.com/tools/icon_gallery_pixel.htm), as Kirupa Chinnathambi taught it from first principles, one critique at a time. It has a 14-step procedure, references with right-and-wrong grids and his critiques word for word, about 250 approved drawings to study, and `sprite_tool.py`, a command-line tool that starts sprites from templates, lints them against the house rules and renders review boards.
 
-A random assortment of icons created using this skill:
+A random assortment of 24×24 icons created using this skill:
 
-<img src="docs/images/assortment.png" width="828" alt="A grid of 98 pixel-art emoji drawn at 24×24 with this skill: smileys, hands, people including a portrait of Kirupa, animals, plants, food, vehicles, everyday objects and flags">
+<img src="docs/images/assortment-24.png" width="828" alt="A grid of 98 pixel-art emoji drawn at 24×24 with this skill: smileys, hands, people including a portrait of Kirupa, animals, plants, food, vehicles, everyday objects and flags">
+
+A different random assortment of 16×16 icons created using this skill:
+
+<img src="docs/images/assortment-16.png" width="828" alt="A grid of 98 other pixel-art emoji drawn at 16×16 with this skill: smileys, hands, people, paw prints, a bottle with a popping cork, a wave, glasses, a radioactive sign and a cross mark">
 
 ## Install
 
@@ -209,8 +213,8 @@ pixelperfect/
 ├── README.md                    this file
 ├── LICENSE                      MIT, for the code and docs
 ├── docs/
-│   ├── images/                  the assortment of icons in this README
-│   └── make_images.py           redraws it with the skill's tool
+│   ├── images/                  the two assortments of icons in this README
+│   └── make_images.py           redraws them with the skill's tool
 ├── skills/pixelperfect/         the skill; installers copy only this folder
 │   ├── SKILL.md                 the 14 steps, the rubric and the commands
 │   ├── LICENSE.txt              MIT, a copy that travels with the skill
@@ -249,7 +253,7 @@ The tests check the skill's frontmatter against the [Agent Skills specification]
 ## License and credits
 
 - **Code and docs** (the skill's instructions, references, scripts, templates and tests, and this README): MIT, Copyright (c) 2026 Kirupa Chinnathambi (kirupa.com). See [`LICENSE`](LICENSE); [`skills/pixelperfect/LICENSE.txt`](skills/pixelperfect/LICENSE.txt) is the same license, travelling with the skill.
-- **Artwork** (the reference library, the portrait, the drawings quoted in the docs and the assortment of icons in this README): kirupa.com's free license for personal and non-commercial use, with credit: "Icons by kirupa.com". You may not redistribute them as an icon set, font or asset pack. See [`skills/pixelperfect/assets/LICENSE.md`](skills/pixelperfect/assets/LICENSE.md) and https://www.kirupa.com/design/icons.htm#license.
+- **Artwork** (the reference library, the portrait, the drawings quoted in the docs and the assortments of icons in this README): kirupa.com's free license for personal and non-commercial use, with credit: "Icons by kirupa.com". You may not redistribute them as an icon set, font or asset pack. See [`skills/pixelperfect/assets/LICENSE.md`](skills/pixelperfect/assets/LICENSE.md) and https://www.kirupa.com/design/icons.htm#license.
 - **Commercial use, or the SVG source files:** get [Icon Gallery Pro](https://www.kirupa.com/tools/icon_gallery.htm#pro). The [Icon Gallery](https://www.kirupa.com/tools/icon_gallery.htm) has the whole collection, and the [Pixel gallery](https://www.kirupa.com/tools/icon_gallery_pixel.htm) the full Pixel set.
 - **Twemoji:** the Pixel drawings are adapted from the Twemoji designs. Twemoji graphics are Copyright Twitter, Inc. and other contributors, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): https://github.com/twitter/twemoji. This repository contains no Twemoji files. The `twemoji` command downloads Twemoji SVGs from the maintained fork, jdecked/twemoji v17.0.3, when you run it.
 - **Emoji names** in the reference catalog come from Emojibase data (MIT); its notice is in `assets/LICENSE.md`.
