@@ -5,7 +5,7 @@ license: MIT (LICENSE.txt); bundled artwork is under assets/LICENSE.md
 compatibility: Python 3.9+ with Pillow and numpy. Optional - resvg_py (Twemoji renders), fontTools (Apple joined-emoji glyphs) and internet access (Twemoji SVGs and photo URLs, cached). Works offline with the bundled reference library.
 metadata:
   author: Kirupa Chinnathambi (kirupa.com)
-  version: "1.0.1"
+  version: "1.0.2"
 ---
 
 # Pixel emoji: 16×16 and 24×24
@@ -358,7 +358,7 @@ Grade it with the acceptance rubric below. `references/review.md` shows how I ch
   python3 scripts/sprite_tool.py export tangerine-16-r1.sprite --name TANGERINE16 --out tangerine16.py
   ```
 
-- **Fan art does not go on the gallery.** A copyrighted or trademarked character (comics, games, films, bands, and similar portraits) is fan art. It is not part of KIRUPAicons, and it is not covered by the Free or Pro license. Never add it to a gallery page, a theme set, or a Fan Art category on kirupa.com. Post both native sizes to https://forum.kirupa.com/t/meet-the-kirupaicons/683967 as kirupaBot. Update that thread so the latest portraits are on it: 8× sheets, names left to right, top to bottom, and a line that they are unofficial. After each addition, reply on that topic with a short bump that names the new icons. No signature, and do not sign as Kirupa. The forum accepts png, not zip. The host pipeline has the upload steps. Never print an API key.
+- **Fan art does not go on the gallery.** A copyrighted or trademarked character (comics, games, films, bands, and similar portraits) is fan art. It is not part of KIRUPAicons, and it is not covered by the Free or Pro license. Never add it to a gallery page, a theme set, or a Fan Art category on kirupa.com, and do not link the portraits from the site. Post both native sizes to https://forum.kirupa.com/t/meet-the-kirupaicons/683967 as kirupaBot. Keep that thread's catalog current: the existing per-icon table, both sizes hosted on the forum, and a line that they are unofficial. After each addition, reply on that topic with a short bump that names the new icons. Do not bump when no icons were added. No signature, and do not sign as Kirupa. The forum accepts png, not zip. The host pipeline has the upload steps. Never print an API key.
 - **Official icons update every theme unless one is named.** A non-fan-art icon ships on every Icon Gallery theme: Pixel at both sizes, Smooooth, Minimal, Sci-Fi, and Ukiyo-e, plus the gallery landing page. Draw and publish a single theme only when Kirupa explicitly says so. Follow the host pipeline for the build.
 
 ## Failure catalogue
